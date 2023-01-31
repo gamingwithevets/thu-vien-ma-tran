@@ -16,9 +16,9 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 - Chuỗi kí tự phải có đúng **17 kí tự** (tính cả dấu cách), không được lớn hơn hay nhỏ hơn (nếu nhỏ hơn thì phải để dấu cách ở chỗ trống)
 
 ### Các bước làm
-0. **[QUAN TRỌNG]** ![SHIFT]{:width="50px"} ![MENU]{:width="50px" ![1]{:width="50px" ![3]{:width="50px"
+0. **[QUAN TRỌNG]** ![SHIFT]{:width="50px"} ![MENU]{:width="50px"} ![1]{:width="50px"} ![3]{:width="50px"}
 
-[SHIFT]: /images/fx580vnx/shift.bmp
-[MENU]: /images/fx580vnx/menu.bmp
-[1]: /images/fx580vnx/1.bmp
-[3]: /images/fx580vnx/3.bmp
+[SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.bmp
+[MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.bmp
+[1]: /thu-vien-ma-tran/images/fx580vnx/1.bmp
+[3]: /thu-vien-ma-tran/images/fx580vnx/3.bmp
