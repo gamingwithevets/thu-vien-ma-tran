@@ -16,9 +16,13 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 - Chuỗi kí tự phải có đúng **17 kí tự** (tính cả dấu cách), không được lớn hơn hay nhỏ hơn (nếu nhỏ hơn thì phải để dấu cách ở chỗ trống)
 
 ### Các bước làm
-0. **[QUAN TRỌNG]** ![SHIFT]{:style="height:25;"} ![MENU]{:style="height:25;"} ![1]{:style="height:25;"} ![3]{:style="height:25;"}
+0. **[QUAN TRỌNG]** ![(SHIFT)] ![(MENU)] ![(1)] ![(3)]
+1. Bấm phương trình `x=∑(x,1,1[×10^]9`. ![(CALC)] với `x = 0` rồi ngắt ![(AC)]
+2. Quay lại và xóa phần `[×10^]9`. ![(CALC)] với `x = 0` một lần nữa rồi quay lại.
 
-[SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.bmp
-[MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.bmp
-[1]: /thu-vien-ma-tran/images/fx580vnx/1.bmp
-[3]: /thu-vien-ma-tran/images/fx580vnx/3.bmp
+[(SHIFT)]: https://gamingwithevets.github.io/thu-vien-ma-tran/images/fx580vnx/shift.bmp
+[(MENU)]: https://gamingwithevets.github.io/thu-vien-ma-tran/images/fx580vnx/menu.bmp
+[(CALC)]: https://gamingwithevets.github.io/thu-vien-ma-tran/images/fx580vnx/calc.bmp
+[(AC)]: https://gamingwithevets.github.io/thu-vien-ma-tran/images/fx580vnx/ac.bmp
+[(1)]: https://gamingwithevets.github.io/thu-vien-ma-tran/images/fx580vnx/1.bmp
+[(3)]: https://gamingwithevets.github.io/thu-vien-ma-tran/images/fx580vnx/3.bmp
