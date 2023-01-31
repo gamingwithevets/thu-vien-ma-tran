@@ -3,3 +3,17 @@ description: test
 theme: just-the-docs
 
 url: https://gamingwithevets.github.io
+
+exclude:
+  README.md
+  
+footer_content: "(c) 2023 <a href=\"/\">gamingwithevets.github.io</a>"
+
+last_edit_timestamp: true
+last_edit_time_format: "%d/%m/%Y %H:%M:%S"
+
+aux_links:
+  "GamingWithEvets.GitHub.io":
+    - "//gamingwithevets.github.io
+    
+search.rel_url: false
