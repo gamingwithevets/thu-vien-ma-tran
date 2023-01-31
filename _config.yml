@@ -3,9 +3,6 @@ description: test
 theme: just-the-docs
 
 url: https://gamingwithevets.github.io
-
-exclude:
-  README.md
   
 footer_content: "(c) 2023 <a href=\"/\">gamingwithevets.github.io</a>"
 
