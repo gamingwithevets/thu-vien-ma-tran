@@ -2,6 +2,7 @@
 title: Trang chủ
 layout: home
 last_modified_date: 31/01/2023
+nav_order: 1
 ---
 
 Chào mừng bạn đến với **Thư Viện Ma Trận**, nơi mà bạn có thể tìm kiếm ma trận cho các máy tính cầm tay Casio.
