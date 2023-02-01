@@ -3,7 +3,6 @@ theme: just-the-docs
 color_scheme: dark
 
 url: https://gamingwithevets.github.io
-markdown: kramdown
   
 footer_content: "(c) 2023 <a href=\"/\">gamingwithevets.github.io</a>"
 
