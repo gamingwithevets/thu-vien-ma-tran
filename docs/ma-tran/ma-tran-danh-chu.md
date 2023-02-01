@@ -1,6 +1,7 @@
 ---
 title: Ma trận đánh chữ
 layout: default
+parent: Ma trận
 last_modified_date: 01/02/2023
 ---
 
