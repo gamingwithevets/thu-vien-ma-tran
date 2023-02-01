@@ -75,9 +75,9 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | U | @ | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<↓\>]{:height="20"} ![<2\>]{:height="20"} ![<1\>]{:height="20"} | ✓ |
 | V | @ | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<1\>]{:height="20"} ![<7\>]{:height="20"} | ✓ |
 | W | @ | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<↓\>]{:height="20"} ![<1\>]{:height="20"} ![<2\>]{:height="20"} | ✓ |
-| X | @ | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<1\>]{:height="20"} ![<3\>]{:height="20"} | ✓ |
-| Y | @ | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<1\>]{:height="20"} ![<9\>]{:height="20"} | ✓ |
-| z | @ | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<2\>]{:height="20"} ![<6\>]{:height="20"} | ✓ |
+| X | Min( | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<1\>]{:height="20"} ![<3\>]{:height="20"} | ✓ |
+| Y | Max( | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<1\>]{:height="20"} ![<9\>]{:height="20"} | ✓ |
+| z | Mean( | ![<SHIFT\>]{:height="20"} ![<7\>]{:height="20"} ![<2\>]{:height="20"} ![<6\>]{:height="20"} | ✓ |
 
 [<SHIFT\>]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [<ALPHA\>]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
