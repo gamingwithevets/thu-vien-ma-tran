@@ -1,3 +1,0 @@
-Coming soon...
-
-[Template](https://github.com/just-the-docs/just-the-docs-template)
