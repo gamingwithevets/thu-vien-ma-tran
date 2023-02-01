@@ -53,30 +53,30 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | (dấu cách) | `i` | ![(SHIFT)]{:height="20"} ![(8)]{:height="20"} ![(↓)]{:height="20"} ![(2)]{:height="20"} ![(6)]{:height="20"} | ✓ |
 | A | `Ans` | ![(Ans)]{:height="20"} | ✗ |
 
-[(SHIFT)]: /thu-vien-ma-tran/images/fx580vnx/shift.bmp
-[(ALPHA)]: /thu-vien-ma-tran/images/fx580vnx/alpha.bmp
-[(MENU)]: /thu-vien-ma-tran/images/fx580vnx/menu.bmp
-[(↑)]: /thu-vien-ma-tran/images/fx580vnx/dpad_up.bmp
-[(←)]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.bmp
-[(→)]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.bmp
-[(↓)]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.bmp
-[(CALC)]: /thu-vien-ma-tran/images/fx580vnx/calc.bmp
-[(∫)]: /thu-vien-ma-tran/images/fx580vnx/integral.bmp
-[(𝑥^-1)]: /thu-vien-ma-tran/images/fx580vnx/expo_-1.bmp
-[( (-) )]: /thu-vien-ma-tran/images/fx580vnx/negat.bmp
-[(DEL)]: /thu-vien-ma-tran/images/fx580vnx/del.bmp
-[(AC)]: /thu-vien-ma-tran/images/fx580vnx/ac.bmp
-[(×)]: /thu-vien-ma-tran/images/fx580vnx/mul.bmp
-[(0)]: /thu-vien-ma-tran/images/fx580vnx/0.bmp
-[(1)]: /thu-vien-ma-tran/images/fx580vnx/1.bmp
-[(2)]: /thu-vien-ma-tran/images/fx580vnx/2.bmp
-[(3)]: /thu-vien-ma-tran/images/fx580vnx/3.bmp
-[(4)]: /thu-vien-ma-tran/images/fx580vnx/4.bmp
-[(5)]: /thu-vien-ma-tran/images/fx580vnx/5.bmp
-[(6)]: /thu-vien-ma-tran/images/fx580vnx/6.bmp
-[(7)]: /thu-vien-ma-tran/images/fx580vnx/7.bmp
-[(8)]: /thu-vien-ma-tran/images/fx580vnx/8.bmp
-[(9)]: /thu-vien-ma-tran/images/fx580vnx/9.bmp
-[(.)]: /thu-vien-ma-tran/images/fx580vnx/decimal.bmp
-[(Ans)]: /thu-vien-ma-tran/images/fx580vnx/ans.bmp
-[(=)]: /thu-vien-ma-tran/images/fx580vnx/exec.bmp
+[(SHIFT)]: /thu-vien-ma-tran/images/fx580vnx/shift.png
+[(ALPHA)]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
+[(MENU)]: /thu-vien-ma-tran/images/fx580vnx/menu.png
+[(↑)]: /thu-vien-ma-tran/images/fx580vnx/dpad_up.png
+[(←)]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
+[(→)]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
+[(↓)]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.png
+[(CALC)]: /thu-vien-ma-tran/images/fx580vnx/calc.png
+[(∫)]: /thu-vien-ma-tran/images/fx580vnx/integral.png
+[(𝑥^-1)]: /thu-vien-ma-tran/images/fx580vnx/expo_-1.png
+[( (-) )]: /thu-vien-ma-tran/images/fx580vnx/negat.png
+[(DEL)]: /thu-vien-ma-tran/images/fx580vnx/del.png
+[(AC)]: /thu-vien-ma-tran/images/fx580vnx/ac.png
+[(×)]: /thu-vien-ma-tran/images/fx580vnx/mul.png
+[(0)]: /thu-vien-ma-tran/images/fx580vnx/0.png
+[(1)]: /thu-vien-ma-tran/images/fx580vnx/1.png
+[(2)]: /thu-vien-ma-tran/images/fx580vnx/2.png
+[(3)]: /thu-vien-ma-tran/images/fx580vnx/3.png
+[(4)]: /thu-vien-ma-tran/images/fx580vnx/4.png
+[(5)]: /thu-vien-ma-tran/images/fx580vnx/5.png
+[(6)]: /thu-vien-ma-tran/images/fx580vnx/6.png
+[(7)]: /thu-vien-ma-tran/images/fx580vnx/7.png
+[(8)]: /thu-vien-ma-tran/images/fx580vnx/8.png
+[(9)]: /thu-vien-ma-tran/images/fx580vnx/9.png
+[(.)]: /thu-vien-ma-tran/images/fx580vnx/decimal.png
+[(Ans)]: /thu-vien-ma-tran/images/fx580vnx/ans.png
+[(=)]: /thu-vien-ma-tran/images/fx580vnx/exec.png
