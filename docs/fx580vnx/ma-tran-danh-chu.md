@@ -23,7 +23,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 4. Bấm ![(SHIFT)]{:height="20"} ![(8)]{:height="20"} ![(↓)]{:height="20"} ![(2)]{:height="20"} ![(6)]{:height="20"} rồi ![(←)]{:height="20"}x2 ![(→)]{:height="20"} ![(9)]{:height="20"} ![(DEL)]{:height="20"} ![(←)]{:height="20"}. Bây giờ bạn sẽ thấy `an` xuất hiện trên màn hình.
 5. Bấm để ra: `x=∑(x,1,1)+an`.
 6. Đặt con trỏ trước `an` rồi bấm ![(1)]{:height="20"} ![(2)]{:height="20"} ![(3)]{:height="20"} ![(4)]{:height="20"} ![(5)]{:height="20"} ![(6)]{:height="20"} ![(7)]{:height="20"} ![(8)]{:height="20"} ![(9)]{:height="20"} ![(0)]{:height="20"} 10 lần. ![(CALC)]{:height="20"} với `x = 0`. Nếu máy bật lại thì bạn đã làm đúng.
-7. Bấm lại `x=∑(x,1,1`, ![(CALC)] với `x = 0` và quay lại.
+7. Bấm lại `x=∑(x,1,1`, ![(CALC)]{:height="20"} với `x = 0` và quay lại.
 
 *(còn tiếp...)*
 
