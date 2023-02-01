@@ -16,13 +16,13 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 - Chuỗi kí tự phải có đúng **17 kí tự** (tính cả dấu cách), không được lớn hơn hay nhỏ hơn \[nếu nhỏ hơn thì phải để dấu cách ở chỗ trống\]
 
 ### Các bước làm
-0. **[QUAN TRỌNG]** ![(SHIFT)]{:height="10"} ![(MENU)]{:height="10"} ![(1)]{:height="10"} ![(3)]{:height="10"}
-1. Bấm phương trình `x=∑(x,1,1[×10^]9`. ![(CALC)]{:height="10"} với `x = 0` rồi ngắt ![(AC)]{:height="10"}
-2. Quay lại và xóa phần `[×10^]9`. ![(CALC)]{:height="10"} với `x = 0` một lần nữa rồi quay lại.
-3. Bấm ![(SHIFT)]{:height="10"} ![(.)]{:height="10"} 2 lần rồi ![(←)]{:height="10"}x2 ![ ![(↓)]{:height="10"}
-4. Bấm ![(SHIFT)]{:height="10"} ![(8)]{:height="10"} ![(↓)]{:height="10"} ![(2)]{:height="10"} ![(6)]{:height="10"} rồi ![(←)]{:height="10"}x2 ![(→)]{:height="10"} ![(9)]{:height="10"} ![(DEL)]{:height="10"} ![(←)]{:height="10"}. Bây giờ bạn sẽ thấy `an` xuất hiện trên màn hình.
+0. **[QUAN TRỌNG]** ![(SHIFT)]{:height="20"} ![(MENU)]{:height="20"} ![(1)]{:height="20"} ![(3)]{:height="20"}
+1. Bấm phương trình `x=∑(x,1,1[×10^]9`. ![(CALC)]{:height="20"} với `x = 0` rồi ngắt ![(AC)]{:height="20"}
+2. Quay lại và xóa phần `[×10^]9`. ![(CALC)]{:height="20"} với `x = 0` một lần nữa rồi quay lại.
+3. Bấm ![(SHIFT)]{:height="20"} ![(.)]{:height="20"} 2 lần rồi ![(←)]{:height="20"}x2 ![ ![(↓)]{:height="20"}
+4. Bấm ![(SHIFT)]{:height="20"} ![(8)]{:height="20"} ![(↓)]{:height="20"} ![(2)]{:height="20"} ![(6)]{:height="20"} rồi ![(←)]{:height="20"}x2 ![(→)]{:height="20"} ![(9)]{:height="20"} ![(DEL)]{:height="20"} ![(←)]{:height="20"}. Bây giờ bạn sẽ thấy `an` xuất hiện trên màn hình.
 5. Bấm để ra: `x=∑(x,1,1)+an`.
-6. Đặt con trỏ trước `an` rồi bấm ![(1)]{:height="10"} ![(2)]{:height="10"} ![(3)]{:height="10"} ![(4)]{:height="10"} ![(5)]{:height="10"} ![(6)]{:height="10"} ![(7)]{:height="10"} ![(8)]{:height="10"} ![(9)]{:height="10"} ![(0)]{:height="10"} 10 lần. ![(CALC)]{:height="10"} với `x = 0`. Nếu máy bật lại thì bạn đã làm đúng.
+6. Đặt con trỏ trước `an` rồi bấm ![(1)]{:height="20"} ![(2)]{:height="20"} ![(3)]{:height="20"} ![(4)]{:height="20"} ![(5)]{:height="20"} ![(6)]{:height="20"} ![(7)]{:height="20"} ![(8)]{:height="20"} ![(9)]{:height="20"} ![(0)]{:height="20"} 10 lần. ![(CALC)]{:height="20"} với `x = 0`. Nếu máy bật lại thì bạn đã làm đúng.
 7. Bấm lại `x=∑(x,1,1`, ![(CALC)] với `x = 0` và quay lại.
 
 *(còn tiếp...)*
