@@ -27,4 +27,5 @@ Một số máy tính khoa học khác của Casio (cũng như những máy tín
 Máy Casio fx-580VN X là clone của máy Casio fx-570EX, tuy nhiên do chức năng Spreadsheet/Bảng tính của máy có thể lưu công thức và giá trị số trên máy nên Bộ Giáo dục và Đào tạo *không cho phép mang vào phòng thi*.  
 Vì vậy, công ty [Bitex](https://bitex.com.vn/) (nhà phân phối độc quyền máy tính khoa học Casio ở Việt Nam) đã đề xuất với Casio bỏ tính năng mà Bộ GD&ĐT không cho phép dùng trong phòng thi và đổi lại bằng một số tính năng khác (trong đó có giao diện tiếng Việt) để cho phù hợp với chương trình giáo dục của Việt Nam.[^1] Đây là lí do máy Casio fx-580VN X phổ biến hơn và được nhiều học sinh dùng hơn.
 
+## Tham khảo
 [^1]: [So sánh “cặp song sinh” Casio fx-580VN X và Casio fx-570EX](https://bitex.com.vn/en/news/691/so-sanh-cap-song-sinh-casio-fx-580vn-x-va-casio-fx-570ex.html)
