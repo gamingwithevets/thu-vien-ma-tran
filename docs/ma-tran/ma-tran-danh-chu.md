@@ -63,7 +63,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | I | 𝑦 | ![ALPHA]{:height="20"} ![)]{:height="20"} | ✗ |
 | J | PreAns | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | ✗ |
 | K | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} | ✓ |
-| L | *θ* | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![7]{:height="20"} | ✓ |
+| L | 𝜃 | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![7]{:height="20"} | ✓ |
 | M | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"} | ✓ |
 | N | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![9]{:height="20"} | ✓ |
 | O | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | ✓ |
