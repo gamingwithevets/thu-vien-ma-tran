@@ -6,7 +6,7 @@ last_modified_date: 02/02/2023
 ---
 
 # Ma trận đánh chữ
-*Hoạt động trên máy: Casio fx-580 VN X*
+*Hoạt động trên máy: Casio fx-580VN X*
 
 Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên màn hình.
 
@@ -51,7 +51,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | Kí tự | Kí tự trên màn hình | Công thức nhập | Sử dụng CONST/CONV |
 |--|--|--|--|
 | (dấu cách) | 𝑖 | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | ✓ |
-| 0~9 | 0~9 | Các phím số trên bàn phím | ✗ |
+| 0~9 | 0~9 | Các phím số tương ứng trên bàn phím | ✗ |
 | A | Ans | ![Ans]{:height="20"} | ✗ |
 | B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | ✗ |
 | C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | ✗ |
