@@ -81,9 +81,6 @@ function initSearch() {
         this.ref('id');
         this.field('title', { boost: 200 });
         this.field('content', { boost: 2 });
-        {%- if site.search.rel_url != false %}
-        this.field('relUrl');
-        {%- endif %}
         this.metadataWhitelist = ['position']
 
         for (var i in docs) {
@@ -91,10 +88,7 @@ function initSearch() {
           this.add({
             id: i,
             title: docs[i].title,
-            content: docs[i].content,
-            {%- if site.search.rel_url != false %}
-            relUrl: docs[i].relUrl
-            {%- endif %}
+            content: docs[i].content
           });
         }
       });
@@ -349,13 +343,6 @@ function searchLoaded(index, docs) {
           }
         }
       }
-
-      {%- if site.search.rel_url != false %}
-      var resultRelUrl = document.createElement('span');
-      resultRelUrl.classList.add('search-result-rel-url');
-      resultRelUrl.innerText = doc.relUrl;
-      resultTitle.appendChild(resultRelUrl);
-      {%- endif %}
     }
 
     function addHighlightedText(parent, text, start, end, positions) {
