@@ -21,7 +21,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} ![3]{:height="20"}
 2. Bấm phương trình `𝑥=Σ(x,1,1[×10^]9`. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
 3. Quay lại và xóa phần `[×10^]9`. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
-4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![↓]{:height="20"}
+4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
 5. Bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} rồi ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}. Bây giờ bạn sẽ thấy `an` xuất hiện trên màn hình.
 6. Bấm để ra: `𝑥=Σ(x,1,1)+an`.
 7. Đặt con trỏ trước `an` rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần. ![CALC]{:height="20"} với 𝑥 = 0. Nếu máy bật lại thì bạn đã làm đúng.
