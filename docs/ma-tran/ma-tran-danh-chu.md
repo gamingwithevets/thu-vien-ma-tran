@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 02/02/2023
+last_modified_date: 03/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -41,6 +41,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 13. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
 14. Đặt trỏ sau phần `n⯈N⯈dynlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"} ![DEL]{:height="20"}
 15. Đặt trỏ trước phần `Q(F` và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần `Q(F` và bấm số ![2]{:height="20"}. Cuối cùng ![CALC]{:height="20"} ![=]{:height="20"} để kích hoạt ma trận.
+
+* Bấm ![ON]{:height="20"} để tắt ma trận
 
 ### Bảng kí tự
 Đây là danh sách các kí tự có thể nhập vào chuỗi kí tự của mình. Bảng này sẽ tiếp tục cập nhật trong tương lai nếu có thể bấm được thêm kí tự.  
@@ -82,6 +84,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png
+[ON]: /thu-vien-ma-tran/images/fx580vnx/on.png
 [↑]: /thu-vien-ma-tran/images/fx580vnx/dpad_up.png
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
