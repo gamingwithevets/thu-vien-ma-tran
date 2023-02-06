@@ -14,6 +14,7 @@ Ma trận X80 có thể nói là "demo" để ta có thể hình dung được l
 ### Lưu ý
 - Ma trận sẽ xóa hết dữ liệu trên máy tính.
 - Ma trận có thể thay đổi tùy theo những gì ta bấm trong hàm tích phân (xem ở dưới).
+- - **Đối với Casio fx-580VN X:** Nếu có ô nào ghi `+1` thì máy sẽ bị **vô hiệu hóa** nhé! Để sửa thì cần tháo ra và lắp lại pin.
 
 ### Cách làm
 Do hai máy Casio fx-X80 rất khác nhau nên sẽ có hướng dẫn chung cho hai máy.
