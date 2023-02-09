@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 03/02/2023
+last_modified_date: 09/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -50,36 +50,36 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 - Có sử dụng CONST/CONV (![SHIFT]{:height="20"} ![7]{:height="20"} / ![SHIFT]{:height="20"} ![8]{:height="20"}): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 - Không sử dụng CONST/CONV: ![←]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 
-| Kí tự | Kí tự trên màn hình | Công thức nhập | Sử dụng CONST/CONV |
+| Kí tự | Kí tự trên màn hình | Công thức nhập (không dùng CONST/CONV) | Công thức nhập (dùng CONST/CONV) |
 |--|--|--|--|
-| (dấu cách) | 𝑖 | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | ✓ |
-| 0~9 | 0~9 | Các phím số tương ứng trên bàn phím | ✗ |
-| A | Ans | ![Ans]{:height="20"} | ✗ |
-| B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | ✗ |
-| C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | ✗ |
-| D | C | ![ALPHA]{:height="20"} ![𝑥⁻¹]{:height="20"} | ✗ |
-| E | D | ![ALPHA]{:height="20"} ![sin]{:height="20"} | ✗ |
-| F | E | ![ALPHA]{:height="20"} ![cos]{:height="20"} | ✗ |
-| G | F | ![ALPHA]{:height="20"} ![tan]{:height="20"} | ✗ |
-| H | 𝑥 | ![𝑥]{:height="20"} | ✗ |
-| I | 𝑦 | ![ALPHA]{:height="20"} ![)]{:height="20"} | ✗ |
-| J | PreAns | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | ✗ |
-| K | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} | ✓ |
-| L | 𝜃 | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![7]{:height="20"} | ✓ |
-| M | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"} | ✓ |
-| N | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![9]{:height="20"} | ✓ |
-| O | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | ✓ |
-| P | Σ( | ![SHIFT]{:height="20"} ![𝑥]{:height="20"} | ✗ |
-| Q | ∫( | ![∫]{:height="20"} | ✗ |
-| R | d/dx( | ![SHIFT]{:height="20"} ![∫]{:height="20"} | ✗ |
-| S | Π( | ![ALPHA]{:height="20"} ![𝑥]{:height="20"} | ✗ |
-| T | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} | ✓ |
-| U | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | ✓ |
-| V | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} | ✓ |
-| W | @ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} | ✓ |
-| X | Min( | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} | ✓ |
-| Y | Max( | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} | ✓ |
-| z | Mean( | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | ✓ |
+| (dấu cách) | 𝑖 | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
+| 0~9 | 0~9 | Các phím số tương ứng trên bàn phím | N/A |
+| A | Ans | ![Ans]{:height="20"} | N/A |
+| B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | N/A |
+| C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | N/A |
+| D | C | ![ALPHA]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
+| E | D | ![ALPHA]{:height="20"} ![sin]{:height="20"} | N/A |
+| F | E | ![ALPHA]{:height="20"} ![cos]{:height="20"} | N/A |
+| G | F | ![ALPHA]{:height="20"} ![tan]{:height="20"} | N/A |
+| H | 𝑥 | ![𝑥]{:height="20"} | N/A |
+| I | 𝑦 | ![ALPHA]{:height="20"} ![)]{:height="20"} | N/A |
+| J | PreAns | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | N/A |
+| K | 𝑧 | ![ALPHA]{:height="20"} ![S⇔D]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| L | 𝜃 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![7]{:height="20"} |
+| M | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"} |
+| N | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![9]{:height="20"} |
+| O | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| P | Σ( | ![SHIFT]{:height="20"} ![𝑥]{:height="20"} | N/A |
+| Q | ∫( | ![∫]{:height="20"} | N/A |
+| R | d/dx( | ![SHIFT]{:height="20"} ![∫]{:height="20"} | N/A |
+| S | Π( | ![ALPHA]{:height="20"} ![𝑥]{:height="20"} | N/A |
+| T | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
+| U | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
+| V | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
+| W | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| X | Min( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| Y | Max( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
+| z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
@@ -99,6 +99,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 [cos]: /thu-vien-ma-tran/images/fx580vnx/cos.png
 [tan]: /thu-vien-ma-tran/images/fx580vnx/tan.png
 [)]: /thu-vien-ma-tran/images/fx580vnx/paren_closed.png
+[S⇔D]: /thu-vien-ma-tran/images/fx580vnx/sd.png
 [DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
 [AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png
 [×]: /thu-vien-ma-tran/images/fx580vnx/mul.png
