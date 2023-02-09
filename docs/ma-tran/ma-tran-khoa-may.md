@@ -56,6 +56,7 @@ Ma trận này có thể làm trên Casio fx-880BTG nhưng sẽ không khóa má
 [ON]: /thu-vien-ma-tran/images/fx580vnx/on.png
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
+[↓]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.png
 [𝑥²]: /thu-vien-ma-tran/images/fx580vnx/expo_2.png
 [𝑥^]: /thu-vien-ma-tran/images/fx580vnx/expo.png
 [log]: /thu-vien-ma-tran/images/fx580vnx/log.png
@@ -65,6 +66,7 @@ Ma trận này có thể làm trên Casio fx-880BTG nhưng sẽ không khóa má
 [S⇔D]: /thu-vien-ma-tran/images/fx580vnx/sd.png
 [DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
 [1]: /thu-vien-ma-tran/images/fx580vnx/1.png
+[2]: /thu-vien-ma-tran/images/fx580vnx/2.png
 [7]: /thu-vien-ma-tran/images/fx580vnx/7.png
 [8]: /thu-vien-ma-tran/images/fx580vnx/8.png
 [9]: /thu-vien-ma-tran/images/fx580vnx/9.png
