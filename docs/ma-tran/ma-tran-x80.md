@@ -2,7 +2,7 @@
 title: Ma trận X80
 layout: default
 parent: Ma trận
-last_modified_date: 06/02/2023
+last_modified_date: 09/02/2023
 ---
 
 # Ma trận X80
@@ -20,18 +20,21 @@ Ma trận X80 có thể nói là "demo" để ta có thể hình dung được l
 Do hai máy Casio fx-X80 rất khác nhau nên sẽ có hướng dẫn chung cho hai máy.
 
 *Lưu ý: Những tên lựa chọn sẽ là của giao diện Tiếng Anh. Để chuột lên chúng để xem tên tiếng Việt.*
-1. Cho A = 9×10⁹⁹
-2. Bấm `𝑥=AAcm⯈in` (để bấm cm⯈in: trong menu chọn chuyển đổi đơn vị chọn Length \> cm⯈in)
-3. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
-4. Quay lại, **không di chuyển trỏ**, vào menu chọn hằng số, chọn Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
-5. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ vô menu chọn chuyển đổi đơn vị, chọn Mass \> kg⯈lb.
-6. Bây giờ bấm nút trái 2 lần, nút phải 1 lần, rồi bấm nút phân số và bấm xóa 6 lần. Xóa cụm `𝑥=` đi rồi để trỏ trước kí tự @ ở mẫu của phân số.
-7. Bấm hàm tích phân (∫) rồi trong 3 ô trống để một hằng số bất kì.
-8. Để con trỏ trên phần tử của phân số và bấm xóa (đến đây máy có thể bắt đầu lag nên nhớ chờ nhé). Cuối cùng bấm nút AC để kích hoạt ma trận.
+1. Trên máy fx-880BTG, nhấn HOME chọn Equation \> Solver.
+2. Cho A = 9×10⁹⁹
+3. Bấm `𝑥=AAcm⯈in` (để bấm cm⯈in: trong menu chọn chuyển đổi đơn vị chọn Length \> cm⯈in)
+4. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
+5. Quay lại, **không di chuyển trỏ**, vào menu chọn hằng số, chọn Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
+6. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ vô menu chọn chuyển đổi đơn vị, chọn Mass \> kg⯈lb.
+7. Bây giờ bấm nút trái 2 lần, nút phải 1 lần, rồi bấm nút phân số và bấm xóa 6 lần. Xóa cụm `𝑥=` đi rồi để trỏ trước kí tự @ ở mẫu của phân số.
+8. Bấm hàm tích phân (∫) rồi trong 3 ô trống để một hằng số bất kì.
+9. Để con trỏ trên phần tử của phân số và bấm xóa (đến đây máy có thể bắt đầu lag nên nhớ chờ nhé). Cuối cùng bấm nút AC để kích hoạt ma trận.
 
 - Bấm nút ON để tắt ma trận
 
 <!-- abbreviations for kramdown -->
+*[Equation]: Phương trình
+*[Solver]: Bộ giải pt
 *[Length]: Độ dài
 *[Universal]: Hằng số chung
 *[Mass]: Khối lượng
