@@ -55,13 +55,22 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | Kí tự | Kí tự trên màn hình | Công thức nhập (không dùng CONST/CONV) | Công thức nhập (dùng CONST/CONV) |
 |--|--|--|--|
 | (dấu cách) | 𝑖 | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
-| 0~9 | 0~9 | Các phím số tương ứng trên bàn phím | N/A |
+| 0 | 0 | ![0]{:height="20"} | N/A |
+| 1 | 1 | ![1]{:height="20"} | N/A |
+| 2 | 2 | ![2]{:height="20"} | N/A |
+| 3 | 3 | ![3]{:height="20"} | N/A |
+| 4 | 4 | ![4]{:height="20"} | N/A |
+| 5 | 5 | ![5]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| 6 | 6 | ![6]{:height="20"} | N/A |
+| 7 | 7 | ![7]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| 8 | 8 | ![8]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| 9 | 9 | ![9]{:height="20"} | N/A |
 | A | Ans | ![Ans]{:height="20"} | N/A |
 | B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | N/A |
 | C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | N/A |
 | D | C | ![ALPHA]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 | E | D | ![ALPHA]{:height="20"} ![sin]{:height="20"} | N/A |
-| F | E | ![ALPHA]{:height="20"} ![cos]{:height="20"} | N/A |
+| F | E | ![ALPHA]{:height="20"} ![cos]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
 | G | F | ![ALPHA]{:height="20"} ![tan]{:height="20"} | N/A |
 | H | 𝑥 | ![𝑥]{:height="20"} | N/A |
 | I | 𝑦 | ![ALPHA]{:height="20"} ![)]{:height="20"} | N/A |
@@ -71,15 +80,15 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | M | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"} |
 | N | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![9]{:height="20"} |
 | O | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
-| P | Σ( | ![SHIFT]{:height="20"} ![𝑥]{:height="20"} | N/A |
-| Q | ∫( | ![∫]{:height="20"} | N/A |
-| R | d/dx( | ![SHIFT]{:height="20"} ![∫]{:height="20"} | N/A |
+| P | Σ( | ![SHIFT]{:height="20"} ![𝑥]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
+| Q | ∫( | ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
+| R | d/dx( | ![SHIFT]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | S | Π( | ![ALPHA]{:height="20"} ![𝑥]{:height="20"} | N/A |
 | T | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
 | U | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
 | V | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
 | W | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
-| X | Min( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| X | Min( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
 | Y | Max( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
 | z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
 
