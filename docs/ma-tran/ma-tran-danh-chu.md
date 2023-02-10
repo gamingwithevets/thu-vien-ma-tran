@@ -10,6 +10,8 @@ last_modified_date: 09/02/2023
 
 Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên màn hình.
 
+![Ma trận đánh chữ](/thu-vien-ma-tran/images/thumb/ma-tran-danh-chu.png)
+
 ## Hướng dẫn
 ### Lưu ý
 - Ma trận mất khoảng từ 5-10 phút để làm.
