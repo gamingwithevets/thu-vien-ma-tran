@@ -84,8 +84,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | O | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
 | P | Σ( | ![SHIFT]{:height="20"} ![𝑥]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
 | Q | ∫( | ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
-| R | d/dx( | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
-| S | Π( | ![ALPHA]{:height="20"} ![𝑥]{:height="20"} | ![SHIFT]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
+| R | d/dx( | ![SHIFT]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| S | Π( | ![ALPHA]{:height="20"} ![𝑥]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | T | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
 | U | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
 | V | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
