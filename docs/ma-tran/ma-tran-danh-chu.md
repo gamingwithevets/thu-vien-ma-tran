@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 10/02/2023
+last_modified_date: 11/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -17,10 +17,12 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 - Ma trận mất khoảng từ 5-10 phút để làm.
 - Ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
 - Chuỗi kí tự phải có đúng **17 kí tự** (tính cả dấu cách), không được lớn hơn hay nhỏ hơn (nếu nhỏ hơn thì phải để dấu cách ở chỗ trống)
-- Ma trận có thể sẽ không đặt lại dữ liệu (nếu làm đúng hết các bước). Vì ma trận cần chế độ LineI/LineO nên bạn nhớ vào cài đặt chỉnh lại (hoặc chỉ cần ![SHIFT]{:height="20"} ![9]{:height="20"} ![1]{:height="20"} ![=]{:height="20"} ![=]{:height="20"} là xong).
+- Ma trận có thể sẽ không đặt lại dữ liệu (nếu làm đúng hết các bước). Vì ma trận cần chế độ LineI nên bạn nhớ vào cài đặt chỉnh lại (hoặc chỉ cần ![SHIFT]{:height="20"} ![9]{:height="20"} ![1]{:height="20"} ![=]{:height="20"} ![=]{:height="20"} là xong).
+- Trong một số trường hợp chuỗi kí tự có thể xuất hiện sau khi bấm ![CALC]{:height="20"} ở bước cuối cùng, đè lên phần màn hình trước khi bấm ![CALC]{:height="20"}:  
+![Ma trận đánh chữ bị lỗi](/thu-vien-ma-tran/images/thumb/ma-tran-danh-chu-1.png)
 
 ### Các bước làm
-1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} ![3]{:height="20"}
+1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
 2. Bấm phương trình `𝑥=Σ(x,1,1[×10^]9`. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
 3. Quay lại và xóa phần `[×10^]9`. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
 4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
@@ -61,7 +63,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | 3 | 3 | ![3]{:height="20"} | N/A |
 | 4 | 4 | ![4]{:height="20"} | N/A |
 | 5 | 5 | ![5]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
-| 6 | 6 | ![6]{:height="20"} | N/A |
+| 6 | 6 | ![6]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
 | 7 | 7 | ![7]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 8 | 8 | ![8]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | 9 | 9 | ![9]{:height="20"} | N/A |
@@ -90,7 +92,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | W | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | X | Min( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
 | Y | Max( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
-| z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
+| Z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
+| \[ | Sum( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
