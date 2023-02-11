@@ -71,12 +71,12 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![cos]{:height="20"} |
 | C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![tan]{:height="20"} |
 | D | C | ![ALPHA]{:height="20"} ![𝑥⁻¹]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![M+]{:height="20"} |
-| E | D | ![ALPHA]{:height="20"} ![sin]{:height="20"} | N/A |
+| E | D | ![ALPHA]{:height="20"} ![sin]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
 | F | E | ![ALPHA]{:height="20"} ![cos]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
-| G | F | ![ALPHA]{:height="20"} ![tan]{:height="20"} | N/A |
-| H | 𝑥 | ![𝑥]{:height="20"} | N/A |
-| I | 𝑦 | ![ALPHA]{:height="20"} ![)]{:height="20"} | N/A |
-| J | PreAns | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | N/A |
+| G | F | ![ALPHA]{:height="20"} ![tan]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
+| H | 𝑥 | ![𝑥]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
+| I | 𝑦 | ![ALPHA]{:height="20"} ![)]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![5]{:height="20"} |
+| J | PreAns | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![6]{:height="20"} |
 | K | 𝑧 | ![ALPHA]{:height="20"} ![S⇔D]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | L | 𝜃 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![7]{:height="20"} |
 | M | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"} |
@@ -84,8 +84,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | O | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
 | P | Σ( | ![SHIFT]{:height="20"} ![𝑥]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
 | Q | ∫( | ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
-| R | d/dx( | ![SHIFT]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
-| S | Π( | ![ALPHA]{:height="20"} ![𝑥]{:height="20"} | N/A |
+| R | d/dx( | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| S | Π( | ![ALPHA]{:height="20"} ![𝑥]{:height="20"} | ![SHIFT]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | T | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
 | U | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
 | V | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
@@ -94,6 +94,9 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | Y | Max( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
 | Z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
 | \[ | Sum( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
+| ] | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| @ | M | ![ALPHA]{:height="20"} ![M+]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| ^ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
 | : | **A** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
 | ; | **B** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
 | < | **C** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
