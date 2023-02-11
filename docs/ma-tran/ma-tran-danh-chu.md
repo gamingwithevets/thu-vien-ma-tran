@@ -57,20 +57,20 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | Kí tự | Kí tự trên màn hình | Công thức nhập (không dùng CONST/CONV) | Công thức nhập (dùng CONST/CONV) |
 |--|--|--|--|
 | (dấu cách) | 𝑖 | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
-| 0 | 0 | ![0]{:height="20"} | N/A |
-| 1 | 1 | ![1]{:height="20"} | N/A |
-| 2 | 2 | ![2]{:height="20"} | N/A |
-| 3 | 3 | ![3]{:height="20"} | N/A |
-| 4 | 4 | ![4]{:height="20"} | N/A |
+| 0 | 0 | ![0]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| 1 | 1 | ![1]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| 2 | 2 | ![2]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| 3 | 3 | ![3]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| 4 | 4 | ![4]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} |
 | 5 | 5 | ![5]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | 6 | 6 | ![6]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
 | 7 | 7 | ![7]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 8 | 8 | ![8]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
-| 9 | 9 | ![9]{:height="20"} | N/A |
-| A | Ans | ![Ans]{:height="20"} | N/A |
-| B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | N/A |
-| C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | N/A |
-| D | C | ![ALPHA]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
+| 9 | 9 | ![9]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
+| A | Ans | ![Ans]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![sin]{:height="20"} |
+| B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![cos]{:height="20"} |
+| C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![tan]{:height="20"} |
+| D | C | ![ALPHA]{:height="20"} ![𝑥⁻¹]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![M+]{:height="20"} |
 | E | D | ![ALPHA]{:height="20"} ![sin]{:height="20"} | N/A |
 | F | E | ![ALPHA]{:height="20"} ![cos]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
 | G | F | ![ALPHA]{:height="20"} ![tan]{:height="20"} | N/A |
@@ -94,6 +94,13 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | Y | Max( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
 | Z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
 | \[ | Sum( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
+| : | **A** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
+| ; | **B** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
+| < | **C** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
+| = | **D** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
+| > | **E** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
+| ? | **F** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
+| ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"}
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
@@ -115,6 +122,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 [tan]: /thu-vien-ma-tran/images/fx580vnx/tan.png
 [)]: /thu-vien-ma-tran/images/fx580vnx/paren_closed.png
 [S⇔D]: /thu-vien-ma-tran/images/fx580vnx/sd.png
+[M+]: /thu-vien-ma-tran/images/fx580vnx/mplus.png
 [DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
 [AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png
 [×]: /thu-vien-ma-tran/images/fx580vnx/mul.png
