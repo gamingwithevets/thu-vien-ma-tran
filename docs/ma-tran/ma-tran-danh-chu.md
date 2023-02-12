@@ -33,10 +33,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 7. Đặt con trỏ trước `an` rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần. ![CALC]{:height="20"} với 𝑥 = 0. Nếu máy bật lại thì bạn đã làm đúng.
 8. Bấm lại `𝑥=Σ(x,1,1`, ![CALC]{:height="20"} với 𝑥 = 0 và quay lại.
 9. Bấm: ![SHIFT]{:height="20"} ![.]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"}. Rồi bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} 2 lần, sau đó bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} một lần nữa.
-10. Bấm ![←]{:height="20"} ![×]{:height="20"} ![DEL]{:height="20"} 6 lần rồi ![DEL]{:height="20"} 10 lần. Hiện tại bạn sẽ thấy:  
-```
-𝑥@FDFDF
-```
+10. Bấm ![←]{:height="20"} ![×]{:height="20"} ![DEL]{:height="20"} 6 lần. Bấm ![DEL]{:height="20"} vài lần để hiện dãy `@FDFDF`. Bây giờ xóa hết phần `=Σ(x,1,1` (không di chuyển trỏ, chỉ dùng ![DEL]{:height="20"} thôi nhé)
 11. Bấm dấu `:` (![ALPHA]{:height="20"} ![∫]{:height="20"}) giữa 𝑥 và @, rồi sau dấu @ bấm `=1.0000`. Bấm `623` trước chữ **F** đứng cuối rồi `23` đằng sau nó. Bây giờ bạn sẽ thấy:  
 ```
 𝑥:
