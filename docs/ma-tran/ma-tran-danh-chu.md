@@ -13,6 +13,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 ![Ma trận đánh chữ](/thu-vien-ma-tran/images/thumb/ma-tran-danh-chu.png)
 
 ## Hướng dẫn
+Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
+
 ### Lưu ý
 - Ma trận mất khoảng từ 5-10 phút để làm.
 - Ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
@@ -23,7 +25,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 
 ### Các bước làm
 1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
-2. Bấm phương trình `𝑥=Σ(x,1,1[×10^]9`. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
+2. Bấm phương trình `𝑥=Σ(x,1,1⨯₁₀9`. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
 3. Quay lại và xóa phần `[×10^]9`. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
 4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
 5. Bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} rồi ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}. Bây giờ bạn sẽ thấy `an` xuất hiện trên màn hình.
@@ -41,9 +43,9 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 @=1.0000FDFD623F2
 3
 ```
-12. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự `n⯈N⯈dynlbfQ(F`
+12. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự `n▸N▸dynlbfQ(F`
 13. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
-14. Đặt trỏ sau phần `n⯈N⯈dynlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"} ![DEL]{:height="20"}
+14. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"} ![DEL]{:height="20"}
 15. Đặt trỏ trước phần `Q(F` và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần `Q(F` và bấm số ![2]{:height="20"}. Cuối cùng ![CALC]{:height="20"} ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
@@ -103,9 +105,21 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | = | **D** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
 | > | **E** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
 | ? | **F** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
-| ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"}
+| & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
+| … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"} |
+| ⯅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| ⯆ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| ▸ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| Dấu trừ + Dấu gạch dưới? | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
+| 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
+| 𝑥 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
 | 𝑦 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
 | 𝑧 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝑥⁻¹]{:height="20"} |
+| 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
+| ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
+| ₅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 
 #### Kí tự lỗi
@@ -114,15 +128,15 @@ Hầu hết các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi. Nh�
 | Kí tự | Kí tự trên màn hình | Công thức nhập |
 |--|--|--|
 | Kí tự trắng (không được cho là kí tự, chuỗi kí tự sẽ hơi bị lỗi khi sử dụng) | Kí tự lỗi (hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
-| Kí tự lỗi $01 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
-| Kí tự lỗi $02 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
-| Kí tự lỗi $03 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
-| Kí tự lỗi $04 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
-| Kí tự lỗi $05 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
-| Kí tự lỗi $06 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
-| Kí tự lỗi $07 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
-| Kí tự lỗi $08 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
-| Kí tự lỗi $09 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
+| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
