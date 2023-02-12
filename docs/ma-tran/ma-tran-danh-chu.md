@@ -51,8 +51,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 ### Bảng kí tự
 Đây là danh sách các kí tự có thể nhập vào chuỗi kí tự của mình. Bảng này sẽ tiếp tục cập nhật trong tương lai nếu có thể bấm được thêm kí tự.  
 **LƯU Ý**: Sau khi nhập một kí tự thì bấm:
-- Có sử dụng CONST/CONV (![SHIFT]{:height="20"} ![7]{:height="20"} / ![SHIFT]{:height="20"} ![8]{:height="20"}): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
-- Không sử dụng CONST/CONV: ![←]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
+- Nếu dùng công thức nhập sử dụng CONST/CONV (![SHIFT]{:height="20"} ![7]{:height="20"} / ![SHIFT]{:height="20"} ![8]{:height="20"}): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
+- Nếu dùng công thức nhập không sử dụng CONST/CONV: ![←]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 
 | Kí tự | Kí tự trên màn hình | Công thức nhập (không dùng CONST/CONV) | Công thức nhập (dùng CONST/CONV) |
 |--|--|--|--|
@@ -104,7 +104,25 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | > | **E** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
 | ? | **F** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
 | ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"}
+| 𝑦 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
+| 𝑧 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝑥⁻¹]{:height="20"} |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
+
+#### Kí tự lỗi
+Hầu hết các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
+
+| Kí tự | Kí tự trên màn hình | Công thức nhập |
+|--|--|--|
+| Kí tự trắng (không được cho là kí tự, chuỗi kí tự sẽ hơi bị lỗi khi sử dụng) | Kí tự lỗi (hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| Kí tự lỗi $01 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| Kí tự lỗi $02 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| Kí tự lỗi $03 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| Kí tự lỗi $04 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
+| Kí tự lỗi $05 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
+| Kí tự lỗi $06 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
+| Kí tự lỗi $07 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
+| Kí tự lỗi $08 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
+| Kí tự lỗi $09 | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
