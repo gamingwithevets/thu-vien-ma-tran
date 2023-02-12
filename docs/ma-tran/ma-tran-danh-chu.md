@@ -117,8 +117,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | 𝑥 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
 | 𝑦 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
 | 𝑧 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝑥⁻¹]{:height="20"} |
-| 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
-| ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
+| ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
 | ₅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 
