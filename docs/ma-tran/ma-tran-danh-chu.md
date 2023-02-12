@@ -94,6 +94,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | Z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
 | \[ | Sum( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
 | ] | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| ( | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
 | @ | M | ![ALPHA]{:height="20"} ![M+]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | ^ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
 | : | **A** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
@@ -102,9 +103,14 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | = | **D** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
 | > | **E** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
 | ? | **F** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
+| ! | 𝒆 | ![ALPHA]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| ' | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| " | π | ![SHIFT]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
 | & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| % | ? | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
 | … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| ÷ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"} |
 | ⯅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | ⯆ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
@@ -116,23 +122,31 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | 𝑧 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝑥⁻¹]{:height="20"} |
 | ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
 | ₅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
+| ₕ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| ₜ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 
-#### Kí tự lỗi
-Hầu hết các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
+#### Kí tự lạ
+Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
 
 | Kí tự | Kí tự trên màn hình | Công thức nhập |
 |--|--|--|
 | Kí tự trắng (không được cho là kí tự, chuỗi kí tự sẽ hơi bị lỗi khi sử dụng) | Kí tự lỗi (hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
-| Kí tự lỗi | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
+| Không rõ | Ô nhập/xuất | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
@@ -168,5 +182,6 @@ Hầu hết các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi. Nh�
 [8]: /thu-vien-ma-tran/images/fx580vnx/8.png
 [9]: /thu-vien-ma-tran/images/fx580vnx/9.png
 [.]: /thu-vien-ma-tran/images/fx580vnx/decimal.png
+[×10ˣ]: /thu-vien-ma-tran/images/fx580vnx/exp.png
 [Ans]: /thu-vien-ma-tran/images/fx580vnx/ans.png
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
