@@ -2,7 +2,7 @@
 title: Ma trận khóa máy
 layout: default
 parent: Ma trận
-last_modified_date: 09/02/2023
+last_modified_date: 12/02/2023
 ---
 
 # Ma trận khóa máy
@@ -60,8 +60,10 @@ Ma trận này có thể làm trên Casio fx-880BTG nhưng sẽ không khóa má
 [STO]: /thu-vien-ma-tran/images/fx580vnx/sto.png
 [S⇔D]: /thu-vien-ma-tran/images/fx580vnx/sd.png
 [DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
+[AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png
 [1]: /thu-vien-ma-tran/images/fx580vnx/1.png
 [2]: /thu-vien-ma-tran/images/fx580vnx/2.png
+[6]: /thu-vien-ma-tran/images/fx580vnx/6.png
 [7]: /thu-vien-ma-tran/images/fx580vnx/7.png
 [8]: /thu-vien-ma-tran/images/fx580vnx/8.png
 [9]: /thu-vien-ma-tran/images/fx580vnx/9.png
