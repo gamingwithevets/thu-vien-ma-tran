@@ -109,7 +109,9 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | % | ? | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
+| # | : | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
 | … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| ⨯ | $ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} |
 | ÷ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"} |
 | ⯅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
@@ -185,3 +187,5 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 [×10ˣ]: /thu-vien-ma-tran/images/fx580vnx/exp.png
 [Ans]: /thu-vien-ma-tran/images/fx580vnx/ans.png
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
+
+*[:]: Lưu ý cho dấu hai chấm: Dấu hai chấm ngăn cắt dòng là chức năng của máy nhé, với lại tính năng thực của nó sẽ không lộ ra nếu bạn làm ma trận đúng.
