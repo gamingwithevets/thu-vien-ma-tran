@@ -2,7 +2,7 @@
 title: Ma trận X80
 layout: default
 parent: Ma trận
-last_modified_date: 09/02/2023
+last_modified_date: 12/02/2023
 ---
 
 # Ma trận X80
@@ -22,7 +22,7 @@ Do hai máy Casio fx-X80 rất khác nhau nên sẽ có hướng dẫn chung cho
 *Lưu ý: Những tên lựa chọn sẽ là của giao diện Tiếng Anh. Để chuột lên chúng để xem tên tiếng Việt.*
 1. Trên máy fx-880BTG, nhấn HOME chọn Equation \> Solver.
 2. Cho A = 9×10⁹⁹
-3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: trong menu chọn chuyển đổi đơn vị chọn Length \> cm⯈in)
+3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: trong menu chọn chuyển đổi đơn vị chọn Length \> cm▸in)
 4. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
 5. Quay lại, **không di chuyển trỏ**, vào menu chọn hằng số, chọn Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
 6. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ vô menu chọn chuyển đổi đơn vị, chọn Mass \> kg▸lb.
