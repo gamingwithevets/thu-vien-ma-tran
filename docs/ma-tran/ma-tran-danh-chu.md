@@ -109,7 +109,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | % | ? | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
-| # | : | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
+| # | : | ![ALPHA]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
 | … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | ⨯ | $ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} |
 | ÷ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
