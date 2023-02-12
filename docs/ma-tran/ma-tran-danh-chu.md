@@ -187,5 +187,3 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 [×10ˣ]: /thu-vien-ma-tran/images/fx580vnx/exp.png
 [Ans]: /thu-vien-ma-tran/images/fx580vnx/ans.png
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
-
-*[:]: Lưu ý cho dấu hai chấm: Dấu hai chấm ngăn cắt dòng là chức năng của máy nhé, với lại tính năng thực của nó sẽ không lộ ra nếu bạn làm ma trận đúng.
