@@ -11,6 +11,8 @@ last_modified_date: 12/02/2023
 Ma trận X80 có thể nói là "demo" để ta có thể hình dung được là ma trận như thế nào. Ma trận này (hiện tại) là ma trận dễ nhất để làm trên những máy Casio fx-X80 (ở Việt Nam).
 
 ## Hướng dẫn
+Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
+
 ### Lưu ý
 - Ma trận sẽ xóa hết dữ liệu trên máy tính.
 - Ma trận có thể thay đổi tùy theo những gì ta bấm trong hàm tích phân (xem ở dưới).
