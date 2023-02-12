@@ -10,6 +10,8 @@ last_modified_date: 12/02/2023
 
 Trang này là tổng hợp các loại ma trận dùng để khóa máy Casio fx-580VN X.
 
+Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
+
 ## Khóa máy an toàn
 ### Lưu ý
 Để hồi phục từ ma trận này phải reset máy nhé!
