@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 12/02/2023
+last_modified_date: 14/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -53,9 +53,34 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 - Nếu dùng công thức nhập sử dụng CONST/CONV (![SHIFT]{:height="20"} ![7]{:height="20"} / ![SHIFT]{:height="20"} ![8]{:height="20"}): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 - Nếu dùng công thức nhập không sử dụng CONST/CONV: ![←]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 
+*(các kí tự được săp xếp theo thứ tự xuất hiện trong bộ nhớ chỉ đọc của máy)*
+
 | Kí tự | Kí tự trên màn hình | Công thức nhập (không dùng CONST/CONV) | Công thức nhập (dùng CONST/CONV) |
 |--|--|--|--|
+| 𝑥 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| 𝑦 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
+| 𝑧 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝑥⁻¹]{:height="20"} |
+| … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| ⯅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| ⯆ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| ▸ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| - | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
+| $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
+| & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
+| ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
+| ₜ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| ₕ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| ₅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | (dấu cách) | 𝑖 | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
+| ! | 𝒆 | ![ALPHA]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| ˮ | π | ![SHIFT]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| # | : | ![ALPHA]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
+| ⨯ | $ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} |
+| % | ? | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| ÷ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| ’ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| ( | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
 | 0 | 0 | ![0]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
 | 1 | 1 | ![1]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
 | 2 | 2 | ![2]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
@@ -66,6 +91,13 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | 7 | 7 | ![7]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 8 | 8 | ![8]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | 9 | 9 | ![9]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
+| : | **A** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
+| ; | **B** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
+| < | **C** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
+| = | **D** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
+| > | **E** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
+| ? | **F** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
+| @ | M | ![ALPHA]{:height="20"} ![M+]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | A | Ans | ![Ans]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![sin]{:height="20"} |
 | B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![cos]{:height="20"} |
 | C | B | ![ALPHA]{:height="20"} ![°’”]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![tan]{:height="20"} |
@@ -93,39 +125,20 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | Y | Max( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
 | Z | Mean( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
 | \[ | Sum( | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
-| ] | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
-| ( | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
-| @ | M | ![ALPHA]{:height="20"} ![M+]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
-| ^ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
-| : | **A** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
-| ; | **B** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
-| < | **C** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
-| = | **D** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
-| > | **E** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
-| ? | **F** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
-| ! | 𝒆 | ![ALPHA]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
-| ' | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
-| " | π | ![SHIFT]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
-| & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
-| % | ? | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
-| $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
-| # | : | ![ALPHA]{:height="20"} ![∫]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
-| … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
-| ⨯ | $ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} |
-| ÷ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"} |
-| ⯅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
-| ⯆ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
-| ▸ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
-| Dấu trừ + Dấu gạch dưới? | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
-| 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
-| 𝑥 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
-| 𝑦 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
-| 𝑧 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝑥⁻¹]{:height="20"} |
-| ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
-| ₅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
-| ₕ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
-| ₜ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| ] | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| ^ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| l | sinh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | N/A |
+| m | cosh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} | N/A |
+| n | tanh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} | N/A |
+| o | sinh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | N/A |
+| p | cosh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} | N/A |
+| q | tanh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} | N/A |
+| u | ln( | ![ln]{:height="20"} | N/A |
+| w | sin( | ![sin]{:height="20"} | N/A |
+| x | cos( | ![cos]{:height="20"} | N/A |
+| y | tan( | ![tan]{:height="20"} | N/A |
+| } | log( | ![log]{:height="20"} | N/A |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 
 #### Kí tự lạ
@@ -158,9 +171,12 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
 [↓]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.png
+[OPTN]: /thu-vien-ma-tran/images/fx580vnx/optn.png
 [CALC]: /thu-vien-ma-tran/images/fx580vnx/calc.png
 [∫]: /thu-vien-ma-tran/images/fx580vnx/integral.png
 [𝑥]: /thu-vien-ma-tran/images/fx580vnx/x.png
+[log]: /thu-vien-ma-tran/images/fx580vnx/log.png
+[ln]: /thu-vien-ma-tran/images/fx580vnx/ln.png
 [(-)]: /thu-vien-ma-tran/images/fx580vnx/negat.png
 [°’”]: /thu-vien-ma-tran/images/fx580vnx/degr.png
 [𝑥⁻¹]: /thu-vien-ma-tran/images/fx580vnx/expo_-1.png
