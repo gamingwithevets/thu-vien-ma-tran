@@ -46,6 +46,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 15. Đặt trỏ trước phần `Q(F` và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần `Q(F` và bấm số ![2]{:height="20"}. Cuối cùng ![CALC]{:height="20"} ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
+* Mẹo: Nếu ma trận không đặt lại dữ liệu thì có thể bắt đầu từ bước 8 thay vì bắt đầu lại từ đầu.
 
 ### Bảng kí tự
 Đây là danh sách các kí tự có thể nhập vào chuỗi kí tự của mình. Bảng này sẽ tiếp tục cập nhật trong tương lai nếu có thể bấm được thêm kí tự.  
