@@ -136,12 +136,23 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | o | sinh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | N/A |
 | p | cosh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} | N/A |
 | q | tanh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} | N/A |
+| s | ₁₀^( | ![SHIFT]{:height="20"} ![log]{:height="20"} | N/A |
 | t | √( | ![√]{:height="20"} | N/A |
 | u | ln( | ![ln]{:height="20"} | N/A |
+| v | ³√( | ![SHIFT]{:height="20"} ![√]{:height="20"} | N/A |
 | w | sin( | ![sin]{:height="20"} | N/A |
 | x | cos( | ![cos]{:height="20"} | N/A |
 | y | tan( | ![tan]{:height="20"} | N/A |
+| z | sin⁻¹( | ![SHIFT]{:height="20"} ![sin]{:height="20"} | N/A |
+| { | cos⁻¹( | ![SHIFT]{:height="20"} ![cos]{:height="20"} | N/A |
+| (con trỏ) | tan⁻¹( | ![SHIFT]{:height="20"} ![tan]{:height="20"} | N/A |
 | } | log( | ![log]{:height="20"} | N/A |
+| ~ | Pol( | ![SHIFT]{:height="20"} ![+]{:height="20"} | N/A |
+| ┠ | Rec( | ![SHIFT]{:height="20"} ![−]{:height="20"} | N/A |
+| ₁₀ | Int( | ![ALPHA]{:height="20"} ![+]{:height="20"} | N/A |
+| ∞ | Intg( | ![ALPHA]{:height="20"} ![−]{:height="20"} | N/A |
+| ∠ | GCD( | ![ALPHA]{:height="20"} ![×]{:height="20"} | N/A |
+| x̄ | LCM( | ![ALPHA]{:height="20"} ![÷]{:height="20"} | N/A |
 | Σ | - | ![(-)]{:height="20"} | N/A |
 | σ | ⯾ | ![⁄]{:height="20"} | N/A |
 | ***Φ*** | ^( | ![𝑥^]{:height="20"} | N/A |
@@ -219,7 +230,10 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 [M+]: /thu-vien-ma-tran/images/fx580vnx/mplus.png
 [DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
 [AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png
+[+]: /thu-vien-ma-tran/images/fx580vnx/plus.png
+[−]: /thu-vien-ma-tran/images/fx580vnx/minus.png
 [×]: /thu-vien-ma-tran/images/fx580vnx/mul.png
+[÷]: /thu-vien-ma-tran/images/fx580vnx/div.png
 [0]: /thu-vien-ma-tran/images/fx580vnx/0.png
 [1]: /thu-vien-ma-tran/images/fx580vnx/1.png
 [2]: /thu-vien-ma-tran/images/fx580vnx/2.png
