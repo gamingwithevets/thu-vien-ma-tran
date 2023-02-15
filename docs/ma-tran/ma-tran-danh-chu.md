@@ -65,7 +65,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ⯅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | ⯆ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | ▸ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
-| - | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
+| ‑ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
 | $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
 | & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
@@ -82,6 +82,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ÷ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | ’ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
 | ( | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| , | , | ![SHIFT]{:height="20"} ![)]{:height="20"} | N/A |
 | 0 | 0 | ![0]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
 | 1 | 1 | ![1]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
 | 2 | 2 | ![2]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
@@ -92,12 +93,12 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | 7 | 7 | ![7]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 8 | 8 | ![8]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | 9 | 9 | ![9]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
-| : | **A** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
-| ; | **B** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
-| < | **C** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
-| = | **D** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
-| > | **E** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
-| ? | **F** | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
+| : | 𝐀 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
+| ; | 𝐁 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
+| < | 𝐂 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
+| = | 𝐃 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
+| > | 𝐄 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
+| ? | 𝐅 | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} |
 | @ | M | ![ALPHA]{:height="20"} ![M+]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | A | Ans | ![Ans]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![sin]{:height="20"} |
 | B | A | ![ALPHA]{:height="20"} ![(-)]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![cos]{:height="20"} |
@@ -135,26 +136,37 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | o | sinh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | N/A |
 | p | cosh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} | N/A |
 | q | tanh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} | N/A |
+| t | √( | ![√]{:height="20"} | N/A |
 | u | ln( | ![ln]{:height="20"} | N/A |
 | w | sin( | ![sin]{:height="20"} | N/A |
 | x | cos( | ![cos]{:height="20"} | N/A |
 | y | tan( | ![tan]{:height="20"} | N/A |
 | } | log( | ![log]{:height="20"} | N/A |
+| Σ | - | ![(-)]{:height="20"} | N/A |
+| σ | ⯾ | ![⁄]{:height="20"} | N/A |
+| ***Φ*** | ^( | ![𝑥^]{:height="20"} | N/A |
+| **k** | ² | ![𝑥²]{:height="20"} | N/A |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
+| **P** | ° | ![OPTN]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | N/A |
+| **E** | ʳ | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
+| *F* | ᵍ | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
 
 #### Kí hiệu kĩ thuật
-Sử dụng kí hiệu kĩ thuật (![OPTN]{:height="20"} ![3]{:height="20"}) có thể xuất hiện lỗi cú pháp ở bước cuối cùng. Cách dễ nhất để sửa là bấm 1 số trước mỗi kí hiệu kỹ thuật.
+Sử dụng kí hiệu kĩ thuật (![OPTN]{:height="20"} ![3]{:height="20"}) có thể xuất hiện lỗi cú pháp ở bước cuối cùng. Cách dễ nhất để sửa là bấm 1 số trước mỗi kí hiệu kỹ thuật. Bấm xong công thức rồi thì nhớ bấm dãy nút đối với công thức nhập **không** sử dụng CONST/CONV ở trên nhé!
 
 | Kí tự | Kí tự trên màn hình | Công thức nhập |
 |--|--|--|
-| ₜ | **G** | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} | N/A |
-| ᵤ | **M** | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} | N/A |
-| ₉ | **k** | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} | N/A |
-| Å | **m** | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} | N/A |
-| ₘ | ***μ*** | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} | N/A |
-| ᵢ | **n** | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} | N/A |
-| ₄ | **p** | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} | N/A |
-| ✂ | **f** | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} | N/A |
+| ₑ | **E** | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
+| ⱼ | **P** | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
+| ₖ | **T** | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
+| ₜ | **G** | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
+| ᵤ | **M** | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
+| ₉ | **k** | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
+| Å | **m** | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| ₘ | ***μ*** | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| ᵢ | **n** | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| ₄ | **p** | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| ✂ | **f** | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} |
 
 #### Kí tự lạ
 Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
@@ -189,7 +201,11 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 [OPTN]: /thu-vien-ma-tran/images/fx580vnx/optn.png
 [CALC]: /thu-vien-ma-tran/images/fx580vnx/calc.png
 [∫]: /thu-vien-ma-tran/images/fx580vnx/integral.png
+[⁄]: /thu-vien-ma-tran/images/fx580vnx/frac.png
 [𝑥]: /thu-vien-ma-tran/images/fx580vnx/x.png
+[√]: /thu-vien-ma-tran/images/fx580vnx/sqrt.png
+[𝑥²]: /thu-vien-ma-tran/images/fx580vnx/expo_2.png
+[𝑥^]: /thu-vien-ma-tran/images/fx580vnx/expo.png
 [log]: /thu-vien-ma-tran/images/fx580vnx/log.png
 [ln]: /thu-vien-ma-tran/images/fx580vnx/ln.png
 [(-)]: /thu-vien-ma-tran/images/fx580vnx/negat.png
