@@ -23,9 +23,9 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 4. Quay lại và **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
 5. ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} sẽ xuất hiện `nlbf$`. Để trỏ đứng trước phần `𝑥=AAcm⯈in` và xóa nó, để lại phần `nlbf$`.
 6. Để trỏ trước dấu `$` rồi ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} một lần nữa, sau đó ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} để biến ra thêm một dấu `$`.
-7. Xóa cụm `nlbf` và bấm nút phân số giữa hai dấu `$`.
+7. Xóa cụm `nlbf` và bấm ![⁄]{:height="20"} giữa hai dấu `$`.
 8. Bấm ![𝑥²]{:height="20"} sau phân số và ![=]{:height="20"} để ra kết quả 0.
-9. Xóa hết mọi thứ trừ dấu `$` ở tử phân số. Bấm ![STO]{:height="20"} ![cos]{:height="20"} rồi bấm ![ON]{:height="20"}.
+9. Xóa hết mọi thứ trừ dấu `$` ở tử phân số. Bấm ![STO]{:height="20"} ![cos]{:height="20"}, máy sẽ bị màn hình trắng (chưa bị khóa nhé). Bấm ![ON]{:height="20"}.
 10. Bấm ![MENU]{:height="20"} ![𝑥⁻¹]{:height="20"} và chọn một trong hai lựa chọn tỉ lệ thức.
 11. Trong ô A và B bấm chữ `E` để ra `ERROR`. Cuối cùng trong ô C hoặc D bấm `E`, máy sẽ bị đơ màn hình. Bấm ![ON]{:height="20"} và nếu có màn hình nhưng không có gì hiện ra thì khóa máy thành công.
 
@@ -54,6 +54,7 @@ Ma trận này có thể làm trên Casio fx-880BTG nhưng sẽ không khóa má
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
 [↓]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.png
+[⁄]: /thu-vien-ma-tran/images/fx580vnx/frac.png
 [𝑥²]: /thu-vien-ma-tran/images/fx580vnx/expo_2.png
 [𝑥^]: /thu-vien-ma-tran/images/fx580vnx/expo.png
 [log]: /thu-vien-ma-tran/images/fx580vnx/log.png
