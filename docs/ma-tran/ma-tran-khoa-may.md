@@ -31,7 +31,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 
 ### Cách sửa
 Có 2 cách sửa:  
-**Cách 1** (an toàn nhất): Giữ ![SHIFT]{:height="20"}, ![7]{:height="20"} rồi bấm ![ON]{:height="20"}. Thả tất cả nút ra rồi bấm ![6]{:height="20"} ![AC]{:height="20"}
+**Cách 1** (an toàn nhất): Giữ ![SHIFT]{:height="20"}, ![7]{:height="20"} rồi bấm ![ON]{:height="20"}. Thả tất cả nút ra rồi bấm ![6]{:height="20"} ![AC]{:height="20"}  
 **Cách 2**: Mở máy tính ra, tháo pin rồi lắp lại.
 
 ## Vừa nhanh, vừa nguy hiểm
