@@ -141,6 +141,20 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | } | log( | ![log]{:height="20"} | N/A |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 
+#### Kí hiệu kĩ thuật
+Sử dụng kí hiệu kĩ thuật (![OPTN]{:height="20"} ![3]{:height="20"}) có thể xuất hiện lỗi cú pháp ở bước cuối cùng. Cách dễ nhất để sửa là bấm 1 số trước mỗi kí hiệu kỹ thuật.
+
+| Kí tự | Kí tự trên màn hình | Công thức nhập |
+|--|--|--|
+| ₜ | **G** | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} | N/A |
+| ᵤ | **M** | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} | N/A |
+| ₉ | **k** | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} | N/A |
+| Å | **m** | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} | N/A |
+| ₘ | ***μ*** | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} | N/A |
+| ᵢ | **n** | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} | N/A |
+| ₄ | **p** | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} | N/A |
+| ✂ | **f** | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} | N/A |
+
 #### Kí tự lạ
 Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
 
