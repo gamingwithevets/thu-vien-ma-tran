@@ -83,6 +83,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ’ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
 | ( | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
 | , | , | ![SHIFT]{:height="20"} ![)]{:height="20"} | N/A |
+| − | <sub>⨯10</sub> | ![×10ˣ]{:height="20"} | N/A |
 | 0 | 0 | ![0]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
 | 1 | 1 | ![1]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
 | 2 | 2 | ![2]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
@@ -130,12 +131,15 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"} |
 | ] | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | ^ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| h | Abs( | ![SHIFT]{:height="20"} ![(]{:height="20"} | N/A |
+| i | Rnd( | ![SHIFT]{:height="20"} ![0]{:height="20"} | N/A |
 | l | sinh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | N/A |
 | m | cosh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} | N/A |
 | n | tanh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} | N/A |
 | o | sinh<sup>-1</sup>( | ![OPTN]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | N/A |
 | p | cosh<sup>-1</sup>( | ![OPTN]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} | N/A |
 | q | tanh<sup>-1</sup>( | ![OPTN]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} | N/A |
+| r | 𝒆^( | ![SHIFT]{:height="20"} ![ln]{:height="20"} | N/A |
 | s | <sub>10</sub>^( | ![SHIFT]{:height="20"} ![log]{:height="20"} | N/A |
 | t | √( | ![√]{:height="20"} | N/A |
 | u | ln( | ![ln]{:height="20"} | N/A |
@@ -154,13 +158,20 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ∠ | GCD( | ![ALPHA]{:height="20"} ![×]{:height="20"} | N/A |
 | x̄ | LCM( | ![ALPHA]{:height="20"} ![÷]{:height="20"} | N/A |
 | <sup>5</sup> | = | ![ALPHA]{:height="20"} ![CALC]{:height="20"} | N/A |
+| <sup>6</sup> | + | ![+]{:height="20"} | N/A |
+| <sup>7</sup> | − | ![−]{:height="20"} | N/A |
+| <sup>8</sup> | × | ![×]{:height="20"} | N/A |
+| <sup>9</sup> | ÷ | ![÷]{:height="20"} | N/A |
 | <sup>-1</sup> | ÷R | ![ALPHA]{:height="20"} ![⁄]{:height="20"} | N/A |
+| <sub>(</sub> | 𝐏 | ![SHIFT]{:height="20"} ![×]{:height="20"} | N/A |
+| <sub>)</sub> | 𝐂 | ![SHIFT]{:height="20"} ![÷]{:height="20"} | N/A |
 | Σ | - | ![(-)]{:height="20"} | N/A |
 | σ | ⯾ | ![⁄]{:height="20"} | N/A |
 | ***Φ*** | ^( | ![𝑥^]{:height="20"} | N/A |
 | ℓ | <sup>𝑥</sup>√( | ![SHIFT]{:height="20"} ![𝑥^]{:height="20"} | N/A |
 | **k** | <sup>2</sup> | ![𝑥²]{:height="20"} | N/A |
 | **M** | <sup>3</sup> | ![SHIFT]{:height="20"} ![𝑥²]{:height="20"} | N/A |
+| **G** | % | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | N/A |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 | **P** | ° | ![OPTN]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | N/A |
 | **E** | <sup>r</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
@@ -229,6 +240,7 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 [sin]: /thu-vien-ma-tran/images/fx580vnx/sin.png
 [cos]: /thu-vien-ma-tran/images/fx580vnx/cos.png
 [tan]: /thu-vien-ma-tran/images/fx580vnx/tan.png
+[(]: /thu-vien-ma-tran/images/fx580vnx/paren_open.png
 [)]: /thu-vien-ma-tran/images/fx580vnx/paren_closed.png
 [S⇔D]: /thu-vien-ma-tran/images/fx580vnx/sd.png
 [M+]: /thu-vien-ma-tran/images/fx580vnx/mplus.png
