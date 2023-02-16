@@ -35,11 +35,11 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 9. Bấm: ![SHIFT]{:height="20"} ![.]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"}. Rồi bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} 2 lần, sau đó bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} một lần nữa.
 10. Bấm ![←]{:height="20"} ![×]{:height="20"} ![DEL]{:height="20"} 6 lần. Bấm ![DEL]{:height="20"} vài lần để hiện dãy `@FDFDF`. Bây giờ xóa hết phần `=Σ(𝑥,1,1` (không di chuyển trỏ, chỉ dùng ![DEL]{:height="20"} thôi nhé)
 11. Bấm dấu `:` (![ALPHA]{:height="20"} ![∫]{:height="20"}) giữa 𝑥 và @, rồi sau dấu @ bấm `=1.0000`. Bấm `623` trước chữ **F** đứng cuối rồi `23` đằng sau nó. Bây giờ bạn sẽ thấy:  
-<code>
+<pre><code>
 𝑥:<br>
 @=1.0000<b>FDFD</b>623<b>F</b>2<br>
 3
-</code>
+</code></pre>
 12. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự <code>n▸N▸dynlbfQ(<b>F</b></code>
 13. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
 14. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"} ![DEL]{:height="20"}
