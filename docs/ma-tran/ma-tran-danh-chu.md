@@ -20,8 +20,8 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 - Ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
 - Chuỗi kí tự phải có đúng **17 kí tự** (tính cả dấu cách), không được lớn hơn hay nhỏ hơn (nếu nhỏ hơn thì phải để dấu cách ở chỗ trống)
 - Ma trận có thể sẽ không đặt lại dữ liệu (nếu làm đúng hết các bước). Vì ma trận cần chế độ LineI nên bạn nhớ vào cài đặt chỉnh lại (hoặc chỉ cần ![SHIFT]{:height="20"} ![9]{:height="20"} ![1]{:height="20"} ![=]{:height="20"} ![=]{:height="20"} là xong).
-- Trong một số trường hợp chuỗi kí tự có thể xuất hiện sau khi bấm ![CALC]{:height="20"} ở bước cuối cùng, đè lên phần màn hình trước khi bấm ![CALC]{:height="20"}:  
-![Ma trận đánh chữ bị lỗi](/thu-vien-ma-tran/images/thumb/ma-tran-danh-chu-1.png)
+- Nếu chuỗi kí tự không dùng biến (không bấm kí tự @; B-I; K), nó sẽ xuất hiện ngay sau khi bấm ![CALC]{:height="20"} ở bước cuối cùng, đè lên phần màn hình trước khi bấm ![CALC]{:height="20"}:  
+![Ma trận đánh chữ với chuỗi kí tự không biến](/thu-vien-ma-tran/images/thumb/ma-tran-danh-chu-1.png)
 
 ### Các bước làm
 1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
@@ -38,7 +38,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 12. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự <code>n▸N▸dynlbfQ(<b>F</b></code>
 13. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
 14. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"}×2
-15. Đặt trỏ trước phần <code>Q(<b>F</b></code> và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng ![CALC]{:height="20"} ![=]{:height="20"} để kích hoạt ma trận.
+15. Đặt trỏ trước phần <code>Q(<b>F</b></code> và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng bấm ![CALC]{:height="20"}. Nếu bạn chưa thấy ma trận, bấm ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
 * Mẹo: Nếu ma trận không đặt lại dữ liệu thì có thể bắt đầu từ bước 8 thay vì bắt đầu lại từ đầu.
