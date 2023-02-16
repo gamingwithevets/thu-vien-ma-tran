@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 15/02/2023
+last_modified_date: 16/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -25,8 +25,8 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 
 ### Các bước làm
 1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
-2. Bấm phương trình `𝑥=Σ(x,1,1⨯₁₀9`. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
-3. Quay lại và xóa phần `[×10^]9`. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
+2. Bấm phương trình <code>𝑥=Σ(x,1,1<sub>⨯10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
+3. Quay lại và xóa phần <code><sub>⨯10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
 4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
 5. Bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} rồi ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}. Bây giờ bạn sẽ thấy `an` xuất hiện trên màn hình.
 6. Bấm để ra: `𝑥=Σ(x,1,1)+an`.
@@ -35,15 +35,15 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 9. Bấm: ![SHIFT]{:height="20"} ![.]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"}. Rồi bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} 2 lần, sau đó bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} một lần nữa.
 10. Bấm ![←]{:height="20"} ![×]{:height="20"} ![DEL]{:height="20"} 6 lần. Bấm ![DEL]{:height="20"} vài lần để hiện dãy `@FDFDF`. Bây giờ xóa hết phần `=Σ(x,1,1` (không di chuyển trỏ, chỉ dùng ![DEL]{:height="20"} thôi nhé)
 11. Bấm dấu `:` (![ALPHA]{:height="20"} ![∫]{:height="20"}) giữa 𝑥 và @, rồi sau dấu @ bấm `=1.0000`. Bấm `623` trước chữ **F** đứng cuối rồi `23` đằng sau nó. Bây giờ bạn sẽ thấy:  
-```
+<pre>
 𝑥:
-@=1.0000FDFD623F2
+@=1.0000<b>FDFD</b>623<b>F</b>2
 3
-```
-12. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự `n▸N▸dynlbfQ(F`
+</pre>
+12. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự <code>n▸N▸dynlbfQ(<b>F</b></code>
 13. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
 14. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"} ![DEL]{:height="20"}
-15. Đặt trỏ trước phần `Q(F` và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần `Q(F` và bấm số ![2]{:height="20"}. Cuối cùng ![CALC]{:height="20"} ![=]{:height="20"} để kích hoạt ma trận.
+15. Đặt trỏ trước phần <code>Q(<b>F</b></code> và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng ![CALC]{:height="20"} ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
 * Mẹo: Nếu ma trận không đặt lại dữ liệu thì có thể bắt đầu từ bước 8 thay vì bắt đầu lại từ đầu.
@@ -69,10 +69,10 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
 | & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
-| ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
-| ₜ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
-| ₕ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
-| ₅ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
+| <sub>T</sub> | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
+| <sub>t</sub> | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| <sub>h</sub> | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| <sub>5</sub> | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | (dấu cách) | 𝑖 | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
 | ! | 𝒆 | ![ALPHA]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
 | ˮ | π | ![SHIFT]{:height="20"} ![×10ˣ]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
@@ -133,50 +133,54 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | l | sinh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | N/A |
 | m | cosh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} | N/A |
 | n | tanh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} | N/A |
-| o | sinh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | N/A |
-| p | cosh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} | N/A |
-| q | tanh⁻¹( | ![OPTN]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} | N/A |
-| s | ₁₀^( | ![SHIFT]{:height="20"} ![log]{:height="20"} | N/A |
+| o | sinh<sup>-1</sup>( | ![OPTN]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} | N/A |
+| p | cosh<sup>-1</sup>( | ![OPTN]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} | N/A |
+| q | tanh<sup>-1</sup>( | ![OPTN]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} | N/A |
+| s | <sub>10</sub>^( | ![SHIFT]{:height="20"} ![log]{:height="20"} | N/A |
 | t | √( | ![√]{:height="20"} | N/A |
 | u | ln( | ![ln]{:height="20"} | N/A |
-| v | ³√( | ![SHIFT]{:height="20"} ![√]{:height="20"} | N/A |
+| v | <sup>3</sup>√( | ![SHIFT]{:height="20"} ![√]{:height="20"} | N/A |
 | w | sin( | ![sin]{:height="20"} | N/A |
 | x | cos( | ![cos]{:height="20"} | N/A |
 | y | tan( | ![tan]{:height="20"} | N/A |
-| z | sin⁻¹( | ![SHIFT]{:height="20"} ![sin]{:height="20"} | N/A |
-| { | cos⁻¹( | ![SHIFT]{:height="20"} ![cos]{:height="20"} | N/A |
-| (con trỏ) | tan⁻¹( | ![SHIFT]{:height="20"} ![tan]{:height="20"} | N/A |
+| z | sin<sup>-1</sup>( | ![SHIFT]{:height="20"} ![sin]{:height="20"} | N/A |
+| { | cos<sup>-1</sup>( | ![SHIFT]{:height="20"} ![cos]{:height="20"} | N/A |
+| (con trỏ) | tan<sup>-1</sup>( | ![SHIFT]{:height="20"} ![tan]{:height="20"} | N/A |
 | } | log( | ![log]{:height="20"} | N/A |
 | ~ | Pol( | ![SHIFT]{:height="20"} ![+]{:height="20"} | N/A |
 | ┠ | Rec( | ![SHIFT]{:height="20"} ![−]{:height="20"} | N/A |
-| ₁₀ | Int( | ![ALPHA]{:height="20"} ![+]{:height="20"} | N/A |
+| <sub>10</sub> | Int( | ![ALPHA]{:height="20"} ![+]{:height="20"} | N/A |
 | ∞ | Intg( | ![ALPHA]{:height="20"} ![−]{:height="20"} | N/A |
 | ∠ | GCD( | ![ALPHA]{:height="20"} ![×]{:height="20"} | N/A |
 | x̄ | LCM( | ![ALPHA]{:height="20"} ![÷]{:height="20"} | N/A |
+| <sup>5</sup> | = | ![ALPHA]{:height="20"} ![CALC]{:height="20"} | N/A |
+| <sup>-1</sup> | ÷R | ![ALPHA]{:height="20"} ![⁄]{:height="20"} | N/A |
 | Σ | - | ![(-)]{:height="20"} | N/A |
 | σ | ⯾ | ![⁄]{:height="20"} | N/A |
 | ***Φ*** | ^( | ![𝑥^]{:height="20"} | N/A |
-| **k** | ² | ![𝑥²]{:height="20"} | N/A |
+| ℓ | <sup>𝑥</sup>√( | ![SHIFT]{:height="20"} ![𝑥^]{:height="20"} | N/A |
+| **k** | <sup>2</sup> | ![𝑥²]{:height="20"} | N/A |
+| **M** | <sup>3</sup> | ![SHIFT]{:height="20"} ![𝑥²]{:height="20"} | N/A |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 | **P** | ° | ![OPTN]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | N/A |
-| **E** | ʳ | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
-| *F* | ᵍ | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
+| **E** | <sup>r</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
+| *F* | <sup>g</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
 
 #### Kí hiệu kĩ thuật
 Sử dụng kí hiệu kĩ thuật (![OPTN]{:height="20"} ![3]{:height="20"}) có thể xuất hiện lỗi cú pháp ở bước cuối cùng. Cách dễ nhất để sửa là bấm 1 số trước mỗi kí hiệu kỹ thuật. Bấm xong công thức rồi thì nhớ bấm dãy nút đối với công thức nhập **không** sử dụng CONST/CONV ở trên nhé!
 
 | Kí tự | Kí tự trên màn hình | Công thức nhập |
 |--|--|--|
-| ₑ | **E** | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
-| ⱼ | **P** | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
-| ₖ | **T** | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
-| ₜ | **G** | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
-| ᵤ | **M** | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
-| ₉ | **k** | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
+| <sub>e</sub> | **E** | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
+| <sub>J</sub> | **P** | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
+| <sub>K</sub> | **T** | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
+| <sub>て</sub> | **G** | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
+| <sub>u</sub> | **M** | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
+| <sub>9</sub> | **k** | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
 | Å | **m** | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
-| ₘ | ***μ*** | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
-| ᵢ | **n** | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
-| ₄ | **p** | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| <sub>m</sub> | ***μ*** | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| <sub>I</sub> | **n** | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| <sub>4</sub> | **p** | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
 | ✂ | **f** | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} |
 
 #### Kí tự lạ
