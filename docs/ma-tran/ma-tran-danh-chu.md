@@ -79,6 +79,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ( | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
 | , | , | ![SHIFT]{:height="20"} ![)]{:height="20"} | N/A |
 | − | <sub>⨯10</sub> | ![×10ˣ]{:height="20"} | N/A |
+| . | . | ![.]{:height="20"} | N/A |
 | 0 | 0 | ![0]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
 | 1 | 1 | ![1]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
 | 2 | 2 | ![2]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
@@ -150,6 +151,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ┠ | Rec( | ![SHIFT]{:height="20"} ![−]{:height="20"} | N/A |
 | <sub>10</sub> | Int( | ![ALPHA]{:height="20"} ![+]{:height="20"} | N/A |
 | ∞ | Intg( | ![ALPHA]{:height="20"} ![−]{:height="20"} | N/A |
+| <sup>g</sup> | RanInt#( | ![ALPHA]{:height="20"} ![.]{:height="20"} | N/A |
 | ∠ | GCD( | ![ALPHA]{:height="20"} ![×]{:height="20"} | N/A |
 | x̄ | LCM( | ![ALPHA]{:height="20"} ![÷]{:height="20"} | N/A |
 | <sup>5</sup> | = | ![ALPHA]{:height="20"} ![CALC]{:height="20"} | N/A |
