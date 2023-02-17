@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 16/02/2023
+last_modified_date: 17/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -41,7 +41,6 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 15. Đặt trỏ trước phần <code>Q(<b>F</b></code> và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng bấm ![CALC]{:height="20"}. Nếu bạn chưa thấy ma trận, bấm ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
-* Mẹo: Nếu ma trận không đặt lại dữ liệu thì có thể bắt đầu từ bước 8 thay vì bắt đầu lại từ đầu.
 
 ### Bảng kí tự
 Đây là danh sách các kí tự có thể nhập vào chuỗi kí tự của mình. Bảng này sẽ tiếp tục cập nhật trong tương lai nếu có thể bấm được thêm kí tự.  
@@ -173,23 +172,17 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | **P** | ° | ![OPTN]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | N/A |
 | **E** | <sup>r</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
 | *F* | <sup>g</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
-
-#### Kí hiệu kĩ thuật
-Sử dụng kí hiệu kĩ thuật (![OPTN]{:height="20"} ![3]{:height="20"}) có thể xuất hiện lỗi cú pháp ở bước cuối cùng. Cách dễ nhất để sửa là bấm 1 số trước mỗi kí hiệu kỹ thuật. Bấm xong công thức rồi thì nhớ bấm dãy nút đối với công thức nhập **không** sử dụng CONST/CONV ở trên nhé!
-
-| Kí tự | Kí tự trên màn hình | Công thức nhập |
-|--|--|--|
-| <sub>e</sub> | **E** | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
-| <sub>J</sub> | **P** | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
-| <sub>K</sub> | **T** | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
-| <sub>て</sub> | **G** | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
-| <sub>u</sub> | **M** | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
-| <sub>9</sub> | **k** | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
-| Å | **m** | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
-| <sub>m</sub> | ***μ*** | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
-| <sub>I</sub> | **n** | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
-| <sub>4</sub> | **p** | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
-| ✂ | **f** | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} |
+| <sub>e</sub> | **E** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
+| <sub>J</sub> | **P** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
+| <sub>K</sub> | **T** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
+| <sub>て</sub> | **G** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
+| <sub>u</sub> | **M** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
+| <sub>9</sub> | **k** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
+| Å | **m** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| <sub>m</sub> | ***μ*** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| <sub>I</sub> | **n** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| <sub>4</sub> | **p** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| ✂ | **f** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} |
 
 #### Kí tự lạ
 Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
