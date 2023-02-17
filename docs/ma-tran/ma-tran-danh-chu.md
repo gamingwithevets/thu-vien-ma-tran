@@ -170,8 +170,8 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | **G** | % | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | N/A |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 | **P** | ° | ![OPTN]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | N/A |
-| **E** | <sup>r</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A | N/A |
-| *F* | <sup>g</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A | N/A |
+| **E** | <sup>r</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
+| *F* | <sup>g</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
 | <sub>e</sub> | **E** | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} | N/A |
 | <sub>J</sub> | **P** | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} | N/A |
 | <sub>K</sub> | **T** | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} | N/A |
