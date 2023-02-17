@@ -170,19 +170,19 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | **G** | % | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | N/A |
 | **T** | ! | ![SHIFT]{:height="20"} ![𝑥⁻¹]{:height="20"} | N/A |
 | **P** | ° | ![OPTN]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | N/A |
-| **E** | <sup>r</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
-| *F* | <sup>g</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
-| <sub>e</sub> | **E** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
-| <sub>J</sub> | **P** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
-| <sub>K</sub> | **T** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
-| <sub>て</sub> | **G** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
-| <sub>u</sub> | **M** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
-| <sub>9</sub> | **k** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
-| Å | **m** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
-| <sub>m</sub> | ***μ*** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
-| <sub>I</sub> | **n** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
-| <sub>4</sub> | **p** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
-| ✂ | **f** | N/A | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} |
+| **E** | <sup>r</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A | N/A |
+| *F* | <sup>g</sup> | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A | N/A |
+| <sub>e</sub> | **E** | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} | N/A |
+| <sub>J</sub> | **P** | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} | N/A |
+| <sub>K</sub> | **T** | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} | N/A |
+| <sub>て</sub> | **G** | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} | N/A |
+| <sub>u</sub> | **M** | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} | N/A |
+| <sub>9</sub> | **k** | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} | N/A |
+| Å | **m** | ![OPTN]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} | N/A |
+| <sub>m</sub> | ***μ*** | ![OPTN]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} | N/A |
+| <sub>I</sub> | **n** | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} | N/A |
+| <sub>4</sub> | **p** | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} | N/A |
+| ✂ | **f** | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} | N/A |
 
 #### Kí tự lạ
 Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
