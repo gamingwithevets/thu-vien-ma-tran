@@ -17,7 +17,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 Để hồi phục từ ma trận này phải reset máy nhé!
 
 ### Cách làm
-1. Cho A = 9×10⁹⁹
+1. Cho A = 9×10<sup>99</sup>
 2. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
 3. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
 4. Quay lại và **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
@@ -39,7 +39,7 @@ Có 2 cách sửa:
 Ma trận này chỉ có thể **tháo pin máy lắp lại** để sửa, nên nhớ chuẩn bị đầy đủ dụng cụ trước nhé!
 
 ### Cách làm
-1. Cho A = 9×10⁹⁹
+1. Cho A = 9×10<sup>99</sup>
 2. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
 3. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
 4. Quay lại và **không di chuyển trỏ**, bấm ![log]{:height="20"} ![𝑥^]{:height="20"} ![DEL]{:height="20"}×5, màn hình sẽ tắt ngay lập tức và mình không sẽ bật nó lên lại được.
