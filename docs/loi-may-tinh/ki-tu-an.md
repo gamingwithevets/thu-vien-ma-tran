@@ -25,13 +25,20 @@ Kí tự `an` là một trong các kí tự đặc có thể bấm được trê
 5. ![ENG]{:height="20"} ![←]{:height="20"} ![6]{:height="20"} ![DEL]{:height="20"}
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
+[MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
+[↓]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.png
 [CALC]: /thu-vien-ma-tran/images/fx580vnx/calc.png
 [√]: /thu-vien-ma-tran/images/fx580vnx/sqrt.png
 [ENG]: /thu-vien-ma-tran/images/fx580vnx/del.png
 [DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
+[AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png
 [1]: /thu-vien-ma-tran/images/fx580vnx/1.png
-[6]: /thu-vien-ma-tran/images/fx580vnx/1.png
+[2]: /thu-vien-ma-tran/images/fx580vnx/2.png
+[6]: /thu-vien-ma-tran/images/fx580vnx/6.png
 [7]: /thu-vien-ma-tran/images/fx580vnx/7.png
+[8]: /thu-vien-ma-tran/images/fx580vnx/8.png
+[9]: /thu-vien-ma-tran/images/fx580vnx/9.png
+[.]: /thu-vien-ma-tran/images/fx580vnx/decimal.png
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
