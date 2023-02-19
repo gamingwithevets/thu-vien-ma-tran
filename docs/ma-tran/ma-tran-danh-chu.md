@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 18/02/2023
+last_modified_date: 20/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -24,21 +24,17 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 ![Ma trận đánh chữ với chuỗi kí tự không biến](/thu-vien-ma-tran/images/thumb/ma-tran-danh-chu-1.png)
 
 ### Các bước làm
-1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
-2. Bấm phương trình <code>𝑥=Σ(𝑥,1,1<sub>⨯10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
-3. Quay lại và xóa phần <code><sub>⨯10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
-4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
-5. Bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} rồi ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}. Bây giờ bạn sẽ thấy `an` xuất hiện trên màn hình.
-6. Bấm để ra: `𝑥=Σ(𝑥,1,1)+an`.
-7. Đặt con trỏ trước `an` rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần. ![CALC]{:height="20"} với 𝑥 = 0. Nếu máy bật lại thì bạn đã làm đúng.
-8. Bấm lại `𝑥=Σ(𝑥,1,1`, ![CALC]{:height="20"} với 𝑥 = 0 và quay lại.
-9. Bấm: ![SHIFT]{:height="20"} ![.]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"}. Rồi bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} 2 lần, sau đó bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} một lần nữa.
-10. Bấm ![←]{:height="20"} ![×]{:height="20"} ![DEL]{:height="20"} 6 lần. Bấm ![DEL]{:height="20"} vài lần để hiện dãy <code>@<b>FDFDF</b></code>. Bây giờ xóa hết phần `=Σ(𝑥,1,1` (không di chuyển trỏ, chỉ dùng ![DEL]{:height="20"} thôi nhé)
-11. Bấm dấu `:` (![ALPHA]{:height="20"} ![∫]{:height="20"}) giữa `𝑥` và `@`, rồi sau dấu `@` bấm `=1.0000`. Bấm `623` trước chữ <code><b>F</b></code> đứng cuối rồi `23` đằng sau nó.
-12. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự <code>n▸N▸dynlbfQ(<b>F</b></code>
-13. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
-14. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"}×2
-15. Đặt trỏ trước phần <code>Q(<b>F</b></code> và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng bấm ![CALC]{:height="20"}. Nếu bạn chưa thấy ma trận, bấm ![=]{:height="20"} để kích hoạt ma trận.
+1. [Bấm kí tự `an` trong chế độ phép tính thường và chế độ LineI.](/thu-vien-ma-tran/docs/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường-linei)
+2. Bấm để ra: `𝑥=Σ(𝑥,1,1)+an`.
+3. Đặt con trỏ trước `an` rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần. ![CALC]{:height="20"} với 𝑥 = 0. Nếu máy bật lại thì bạn đã làm đúng.
+4. Bấm lại `𝑥=Σ(𝑥,1,1`, ![CALC]{:height="20"} với 𝑥 = 0 và quay lại.
+5. Bấm: ![SHIFT]{:height="20"} ![.]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"}. Rồi bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} 2 lần, sau đó bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥⁻¹]{:height="20"} một lần nữa.
+6. Bấm ![←]{:height="20"} ![×]{:height="20"} ![DEL]{:height="20"} 6 lần. Bấm ![DEL]{:height="20"} vài lần để hiện dãy <code>@<b>FDFDF</b></code>. Bây giờ xóa hết phần `=Σ(𝑥,1,1` (không di chuyển trỏ, chỉ dùng ![DEL]{:height="20"} thôi nhé)
+7. Bấm dấu `:` (![ALPHA]{:height="20"} ![∫]{:height="20"}) giữa `𝑥` và `@`, rồi sau dấu `@` bấm `=1.0000`. Bấm `623` trước chữ <code><b>F</b></code> đứng cuối rồi `23` đằng sau nó.
+8. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự <code>n▸N▸dynlbfQ(<b>F</b></code>
+9. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
+10. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"}×2
+11. Đặt trỏ trước phần <code>Q(<b>F</b></code> và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng bấm ![CALC]{:height="20"}. Nếu bạn chưa thấy ma trận, bấm ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
 
@@ -190,7 +186,7 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 | Kí tự | Kí tự trên màn hình | Công thức nhập | Lưu ý |
 |--|--|--|--|
 | Kí tự trắng | Kí tự lỗi | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | Kí tự lỗi (trước ma trận): Hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này.<br>Kí tự trắng (sau ma trận): Không được cho là kí tự, chuỗi kí tự sẽ hơi bị lỗi khi sử dụng. |
-| ⯇ | Ô nhập/xuất | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, sau đó làm bước 14 đặc biệt đưới đây:<br>14. Đặt trỏ trước phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![DEL]{:height="20"}×2<br>Sau đó làm bước 15 như bình thường. |
+| ⯇ | Ô nhập/xuất | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, sau đó làm bước 10 đặc biệt đưới đây:<br>10. Đặt trỏ trước phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![DEL]{:height="20"}×2<br>Sau đó làm bước 15 như bình thường. |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
