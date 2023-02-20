@@ -34,8 +34,8 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 [AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png
 [0]: /thu-vien-ma-tran/images/fx580vnx/0.png
 [1]: /thu-vien-ma-tran/images/fx580vnx/1.png
-[2]: /thu-vien-ma-tran/images/fx580vnx/8.png
-[7]: /thu-vien-ma-tran/images/fx580vnx/8.png
+[2]: /thu-vien-ma-tran/images/fx580vnx/2.png
+[7]: /thu-vien-ma-tran/images/fx580vnx/7.png
 [8]: /thu-vien-ma-tran/images/fx580vnx/8.png
 [9]: /thu-vien-ma-tran/images/fx580vnx/9.png
 [.]: /thu-vien-ma-tran/images/fx580vnx/decimal.png
