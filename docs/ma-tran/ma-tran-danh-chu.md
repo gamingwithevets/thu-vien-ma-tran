@@ -33,7 +33,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 7. Bấm dấu `:` (![ALPHA]{:height="20"} ![∫]{:height="20"}) giữa `𝑥` và `@`, rồi sau dấu `@` bấm `=1.0000`. Bấm `623` trước chữ <code><b>F</b></code> đứng cuối rồi `23` đằng sau nó.
 8. ![CALC]{:height="20"} với 𝑥 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự <code>n▸N▸dynlbfQ(<b>F</b></code>
 9. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
-10. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![←]{:height="20"} ![→]{:height="20"} ![DEL]{:height="20"}×2
+10. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![DEL]{:height="20"}×2
 11. Đặt trỏ trước phần <code>Q(<b>F</b></code> và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng bấm ![CALC]{:height="20"}. Nếu bạn chưa thấy ma trận, bấm ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
@@ -186,7 +186,7 @@ Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặ
 | Kí tự | Kí tự trên màn hình | Công thức nhập | Lưu ý |
 |--|--|--|--|
 | Kí tự trắng | Kí tự lỗi | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | Kí tự lỗi (trước ma trận): Hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này.<br>Kí tự trắng (sau ma trận): Không được cho là kí tự, chuỗi kí tự sẽ hơi bị lỗi khi sử dụng. |
-| ⯇ | Ô nhập/xuất | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, sau đó làm bước 10 đặc biệt đưới đây:<br>10. Đặt trỏ trước phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} ![DEL]{:height="20"}×2<br>Sau đó làm bước 15 như bình thường. |
+| ⯇ | Ô nhập/xuất | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, sau đó làm bước 10 nhưng đặt trỏ *trước* phần `nlbf`. Sau đó làm bước 11 như bình thường. |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
