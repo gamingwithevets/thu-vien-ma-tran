@@ -10,6 +10,13 @@ Kí tự `an` là một trong các kí tự đặc có thể bấm được trê
 
 ## Cách bấm
 #### Casio fx-580VN X
+##### Chế độ phép tính thường (MathI)
+1. Cho A = 9×10<sup>99</sup>
+2. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
+3. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
+4. Quay lại và **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
+5. Bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} rồi ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}.
+
 ##### Chế độ phép tính thường (LineI)
 1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
 2. Bấm phương trình <code>𝑥=Σ(𝑥,1,1<sub>⨯10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
