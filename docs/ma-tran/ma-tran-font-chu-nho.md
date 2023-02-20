@@ -22,7 +22,7 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"}), giải theo biến 𝑥.
 4. Quay lại, **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
 5. ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} để ra `𝑥=AAcm▸innlbf@`
-6. ![←]{:height="20"} ![DEL]{:height="20"}×5 ![=]{:height="20"} rồi quay lại. Bấm ![AC]{:height="20"} ![←]{:height="20"} ![=]{:height="20"} và quay lại.
+6. ![←]{:height="20"}×2 ![DEL]{:height="20"}×5 ![=]{:height="20"} rồi quay lại. Bấm ![AC]{:height="20"} ![←]{:height="20"} ![=]{:height="20"} và quay lại.
 7. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} **48 lần**. Cuối cùng ![⁄]{:height="20"} ![AC]{:height="20"}
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
 - Bấm ![ON]{:height="20"} để quay lại phông chữ thường.
