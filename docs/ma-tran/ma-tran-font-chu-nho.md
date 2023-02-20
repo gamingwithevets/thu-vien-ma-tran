@@ -10,6 +10,8 @@ last_modified_date: 20/02/2023
 
 Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử dụng phông chữ nhỏ (trong các chế độ nhập MathI thì dùng với số mũ, bậc căn, v.v.) trong các chế độ nhập LineI.
 
+![Ma trận phông chữ nhỏ](/thu-vien-ma-tran/images/thumb/ma-tran-font-chu-nho.png)
+
 ## Hướng dẫn
 ### Lưu ý
 - Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/ma-tran/ma-tran-danh-chu.html), ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
