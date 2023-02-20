@@ -26,7 +26,7 @@ Kí tự `an` là một trong các kí tự đặc có thể bấm được trê
 
 ##### Chế độ số phức
 1. Bấm `1÷1((` rồi bấm ![√]{:height="20"} đến khi hết bấm được. Bấm `1` vào ô trống. Di chuyển trỏ sau dãy căn, bấm dấu `:`. Bấm ![√]{:height="20"} lần nữa, **không điền gì vào ô trống**! Bấm ![CALC]{:height="20"} ![=]{:height="20"}, sẽ ra lỗi.
-2. Quay lại và ![DEL]{:height="20"} hết mọi thứ. Bấm ![→]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}.
+2. Quay lại và ![DEL]{:height="20"} hết mọi thứ đứng trước ô trống (không di chuyển trỏ). Bấm ![→]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}.
 3. Bấm `99` rồi ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![1]{:height="20"}, bấm `99` lần nữa rồi bấm ![√]{:height="20"}
 4. ![DEL]{:height="20"} ![←]{:height="20"}×3 ![DEL]{:height="20"}×3 ![←]{:height="20"}×2
 5. ![ENG]{:height="20"} ![←]{:height="20"} ![6]{:height="20"} ![DEL]{:height="20"}
