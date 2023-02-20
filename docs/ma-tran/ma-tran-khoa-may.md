@@ -21,7 +21,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 2. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
 3. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
 4. Quay lại và **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
-5. ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} sẽ xuất hiện `nlbf$`. Để trỏ đứng trước phần `𝑥=AAcm⯈in` và xóa nó, để lại phần `nlbf$`.
+5. ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} sẽ xuất hiện `nlbf$`. Bấm ![→]{:height="20"} để trỏ đứng trước phần `𝑥=AAcm⯈in` rồi xóa nó, để lại phần `nlbf$`.
 6. Để trỏ trước dấu `$` rồi ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} một lần nữa, sau đó ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} để biến ra thêm một dấu `$`.
 7. Xóa cụm `nlbf` và bấm ![⁄]{:height="20"} giữa hai dấu `$`.
 8. Bấm ![𝑥²]{:height="20"} sau phân số và ![=]{:height="20"} để ra kết quả 0.
