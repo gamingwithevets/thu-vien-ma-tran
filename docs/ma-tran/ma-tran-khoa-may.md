@@ -2,7 +2,7 @@
 title: Ma trận khóa máy
 layout: default
 parent: Ma trận
-last_modified_date: 15/02/2023
+last_modified_date: 20/02/2023
 ---
 
 # Ma trận khóa máy
@@ -27,7 +27,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 8. Bấm ![𝑥²]{:height="20"} sau phân số và ![=]{:height="20"} để ra kết quả 0.
 9. Xóa hết mọi thứ trừ dấu `$` ở tử phân số. Bấm ![STO]{:height="20"} ![cos]{:height="20"}, máy sẽ bị màn hình trắng (chưa bị khóa nhé). Bấm ![ON]{:height="20"}.
 10. Bấm ![MENU]{:height="20"} ![𝑥⁻¹]{:height="20"} và chọn một trong hai lựa chọn tỉ lệ thức.
-11. Trong ô A và B bấm chữ `E` để ra `ERROR`. Cuối cùng trong ô C hoặc D bấm `E`, máy sẽ bị đơ màn hình. Bấm ![ON]{:height="20"} và nếu có màn hình nhưng không có gì hiện ra thì khóa máy thành công.
+11. Trong ô A bấm chữ `E` để ra `ERROR`. Sau đó di chuyển trỏ lên ô `ERROR`, máy sẽ bị đơ màn hình. Bấm ![ON]{:height="20"} và nếu có màn hình nhưng không có gì hiện ra thì khóa máy thành công.
 
 ### Cách sửa
 Có 2 cách sửa:  
