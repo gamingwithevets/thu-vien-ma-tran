@@ -2,7 +2,7 @@
 title: Kí tự an
 layout: default
 parent: Lỗi máy tính
-last_modified_date: 19/02/2023
+last_modified_date: 20/02/2023
 ---
 
 # Kí tự an
