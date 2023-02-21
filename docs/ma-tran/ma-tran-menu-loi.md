@@ -10,7 +10,7 @@ last_modified_date: 20/02/2023
 
 Ma trận menu lỗi, khi được kích hoạt và vào menu chọn chế độ sẽ hiện một phiên bản lỗi của nó.
 
-![&nbsp;bộ nhớ?](/thu-vien-ma-tran/images/thumb/ma-tran-menu-loi.png)
+![&nbsp; bộ nhớ?](/thu-vien-ma-tran/images/thumb/ma-tran-menu-loi.png)
 
 ## Hướng dẫn
 ### Lưu ý
@@ -23,9 +23,9 @@ Bấm xong thì đặt trỏ sau dãy căn.
 3. Bấm ![⁄]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 2 lần, rồi bấm ![1]{:height="20"} ~ ![4]{:height="20"}. Lặp lại bước này thêm 3 lần.
 4. ![=]{:height="20"} rồi bấm `6÷2` và ![=]{:height="20"} tiếp, máy sẽ hiện lỗi.
 5. Quay lại rồi ![SHIFT]{:height="20"} ![9]{:height="20"} ![2]{:height="20"} ![=]{:height="20"}×2
-6. ![←]{:height="20"} ![(]{:height="20"}×10 ![=]{:height="20"} ![AC]{:height="20"}, màn hình sẽ bị trắng (máy đặt lại dữ liệu)
-- Bây giờ mình có thể bấm ![MENU]{:height="20"} để xem kết quả. Bấm ![AC]{:height="20"} hoặc chọn chế độ hợp lệ để thoát.
-- Mình có thể xem menu lỗi bất cứ khi nào mình muốn bằng cách bấm ![MENU]{:height="20"} cho đến khi bấm ![ON]{:height="20"} (máy đặt lại dữ liệu)
+6. ![←]{:height="20"} ![(]{:height="20"}×10 ![=]{:height="20"} sẽ ra `Syntax ERROR` (máy đặt lại dữ liệu). Cuối cùng bấm ![AC]{:height="20"}, màn hình sẽ bị trắng.
+- Bây giờ mình có thể bấm ![MENU]{:height="20"} để xem kết quả. Bấm ![AC]{:height="20"} để thoát.
+- Mình có thể xem menu lỗi bất cứ khi nào mình muốn bằng cách bấm ![MENU]{:height="20"} cho đến khi chọn một chế độ hoặc bấm ![ON]{:height="20"} (máy đặt lại dữ liệu)
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png
@@ -43,3 +43,5 @@ Bấm xong thì đặt trỏ sau dãy căn.
 [9]: /thu-vien-ma-tran/images/fx580vnx/9.png
 [.]: /thu-vien-ma-tran/images/fx580vnx/decimal.png
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
+
+*[&nbsp; bộ nhớ?]: &nbsp; bộ nhớ?
