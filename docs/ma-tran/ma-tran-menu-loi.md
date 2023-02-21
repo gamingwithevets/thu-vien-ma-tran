@@ -43,5 +43,3 @@ Bấm xong thì đặt trỏ sau dãy căn.
 [9]: /thu-vien-ma-tran/images/fx580vnx/9.png
 [.]: /thu-vien-ma-tran/images/fx580vnx/decimal.png
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
-
-*[&nbsp; bộ nhớ?]: &nbsp; bộ nhớ?
