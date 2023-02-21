@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 20/02/2023
+last_modified_date: 21/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -40,13 +40,13 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 
 ### Bảng kí tự
 Đây là danh sách các kí tự có thể nhập vào chuỗi kí tự của mình. Bảng này sẽ tiếp tục cập nhật trong tương lai nếu có thể bấm được thêm kí tự.  
-**LƯU Ý**: Sau khi nhập một kí tự thì bấm:
-- Nếu dùng công thức nhập sử dụng CONST/CONV (![SHIFT]{:height="20"} ![7]{:height="20"} / ![SHIFT]{:height="20"} ![8]{:height="20"}): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
-- Nếu dùng công thức nhập không sử dụng CONST/CONV: ![←]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
+**LƯU Ý**: Sau khi nhập một kí tự thì bấm 1 trong 2 dãy nút dựa vào loại công thức nhập:
+- Đối với công thức nhập A (trừ dấu $): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
+- Đối với công thức nhập B (và công thức nhập A cho dấu $): ![←]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 
 *(các kí tự được săp xếp theo thứ tự xuất hiện trong bộ nhớ chỉ đọc của máy)*
 
-| Kí tự | Kí tự trên màn hình | Công thức nhập (không dùng CONST/CONV) | Công thức nhập (dùng CONST/CONV) |
+| Kí tự | Kí tự trên màn hình | Công thức nhập A | Công thức nhập B |
 |--|--|--|--|
 | 𝑥 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
 | 𝑦 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
@@ -56,7 +56,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ⯆ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | ▸ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
 | ‑ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
-| $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
+| $ | @ | ![SHIFT]{:height="20"} ![.]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
 | & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
 | <sub>T</sub> | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
@@ -181,7 +181,8 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ✂ | **f** | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} | N/A |
 
 #### Kí tự lạ
-Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ. Nhớ là vẫn bấm dãy nút đối với công thức nhập sử dụng CONST/CONV ở trên nhé!
+Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ.  
+Các công thức nhập ở dưới đều là loại B.
 
 | Kí tự | Kí tự trên màn hình | Công thức nhập | Lưu ý |
 |--|--|--|--|
