@@ -2,7 +2,7 @@
 title: Ma trận đánh chữ
 layout: default
 parent: Ma trận
-last_modified_date: 21/02/2023
+last_modified_date: 25/02/2023
 ---
 
 # Ma trận đánh chữ
@@ -122,6 +122,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | ▫ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝑥]{:height="20"} |
 | ] | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | ^ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| - | ( | ![(]{:height="20"} | N/A |
 | h | Abs( | ![SHIFT]{:height="20"} ![(]{:height="20"} | N/A |
 | i | Rnd( | ![SHIFT]{:height="20"} ![0]{:height="20"} | N/A |
 | l | sinh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | N/A |
@@ -161,6 +162,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 | σ | ⯾ | ![⁄]{:height="20"} | N/A |
 | ***Φ*** | ^( | ![𝑥^]{:height="20"} | N/A |
 | ℓ | <sup>𝑥</sup>√( | ![SHIFT]{:height="20"} ![𝑥^]{:height="20"} | N/A |
+| **f** | ) | ![)]{:height="20"} | N/A |
 | **k** | <sup>2</sup> | ![𝑥²]{:height="20"} | N/A |
 | **M** | <sup>3</sup> | ![SHIFT]{:height="20"} ![𝑥²]{:height="20"} | N/A |
 | **G** | % | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | N/A |
