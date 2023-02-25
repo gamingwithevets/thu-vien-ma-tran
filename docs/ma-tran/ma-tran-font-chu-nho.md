@@ -37,7 +37,7 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 
 #### Các bước làm
 1. Nhấn HOME chọn Equation \> Solver.
-2. Cho A = 9×1099
+2. Cho A = 9×10<sup>99</sup>
 3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: trong menu chọn chuyển đổi đơn vị chọn Length \> cm▸in)
 4. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
 5. Quay lại, **không di chuyển trỏ**, vào menu chọn hằng số, chọn Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
