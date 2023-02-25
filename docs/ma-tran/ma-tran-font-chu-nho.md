@@ -27,6 +27,7 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 5. ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} để ra `𝑥=AAcm▸innlbf@`
 6. ![←]{:height="20"}×2 rồi xóa phần `𝑥=AAcm▸in`, ![=]{:height="20"} rồi quay lại. Bấm ![AC]{:height="20"} ![←]{:height="20"} ![=]{:height="20"} và quay lại.
 7. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} **48 lần**. Cuối cùng ![⁄]{:height="20"} ![AC]{:height="20"}
+
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
 - Bấm ![ON]{:height="20"} để quay lại phông chữ thường.
 
@@ -44,6 +45,7 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 6. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ vô menu chọn chuyển đổi đơn vị, chọn Length \> m▸n mile.
 7. Bấm nút trái 2 lần rồi xóa phần `AAcm▸in` để ra `𝑥=@`, giải với giá trị ban đầu của 𝑥 là 0.
 8. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm nút phân số rồi nút AC.
+
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
 - Bật lại máy để quay lại phông chữ thường.
 
