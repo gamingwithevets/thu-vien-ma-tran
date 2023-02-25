@@ -14,6 +14,8 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 *(hình được chụp trên giả lập Casio fx-580VN X)*
 
 ## Hướng dẫn
+Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
+
 ### Casio fx-580VN X
 #### Lưu ý
 - Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/ma-tran/ma-tran-danh-chu.html), ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
@@ -39,10 +41,10 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 #### Các bước làm
 1. Nhấn HOME chọn Equation \> Solver.
 2. Cho A = 9×10<sup>99</sup>
-3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: trong menu chọn chuyển đổi đơn vị chọn Length \> cm▸in)
+3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: nút CATALOG \> Unit Conversions \> Length \> cm▸in)
 4. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
-5. Quay lại, **không di chuyển trỏ**, vào menu chọn hằng số, chọn Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
-6. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ vô menu chọn chuyển đổi đơn vị, chọn Length \> m▸n mile.
+5. Quay lại, **không di chuyển trỏ**, bấm nút CATALOG \> Sci Constants \> Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
+6. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ bấm nút CATALOG \> Unit Conversions \> Length \> m▸n mile.
 7. Bấm nút trái 2 lần rồi xóa phần `AAcm▸in` để ra `𝑥=@`, giải với giá trị ban đầu của 𝑥 là 0.
 8. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm nút phân số rồi nút AC.
 
@@ -68,5 +70,7 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 <!-- abbreviations for kramdown -->
 *[Equation]: Phương trình
 *[Solver]: Bộ giải pt
-*[Length]: Độ dài
+*[Sci Constants]: Hằng số Khoa học
 *[Universal]: Hằng số chung
+*[Unit Conversions]: Chuyển đổi Đơn vị
+*[Length]: Độ dài
