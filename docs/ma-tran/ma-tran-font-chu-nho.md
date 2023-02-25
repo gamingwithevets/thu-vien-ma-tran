@@ -33,9 +33,10 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
 - Bấm ![ON]{:height="20"} để quay lại phông chữ thường.
 
-### Casio fx-880BTG
+### Casio fx-880BTG[^1]
 #### Lưu ý
 - Cách làm vẫn hơi giống trên Casio fx-580VN X nhưng cũng dễ hơn một chút.
+- Nếu làm bước 8 sai thì máy có thể bị đơ khi kích hoạt phông chữ nhỏ hoặc có thể bị xóa dữ liệu khi chọn chế độ.
 - Nhớ là sau khi trở về phông thường thì vào cài đặt chỉnh lại chế độ MathI nhé!
 
 #### Các bước làm
@@ -50,6 +51,9 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
 - Bật lại máy để quay lại phông chữ thường.
+
+## Tham khảo
+[^1]: [Video ma trận phông chữ nhỏ trên giả lập Casio fx-880BTG. Nguồn: Baidu Tieba](https://tieba.baidu.com/p/8231299030)
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ON]: /thu-vien-ma-tran/images/fx580vnx/on.png
