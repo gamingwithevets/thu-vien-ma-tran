@@ -10,7 +10,8 @@ last_modified_date: 25/02/2023
 
 Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử dụng phông chữ nhỏ (trong các chế độ nhập MathI thì dùng với số mũ, bậc căn, v.v.) trong các chế độ nhập LineI.
 
-![Ma trận phông chữ nhỏ](/thu-vien-ma-tran/images/thumb/ma-tran-font-chu-nho.png)
+![Ma trận phông chữ nhỏ (Casio fx-580VN X)](/thu-vien-ma-tran/images/thumb/ma-tran-font-chu-nho.png)  
+*(hình được chụp trên giả lập Casio fx-580VN X)*
 
 ## Hướng dẫn
 ### Casio fx-580VN X
