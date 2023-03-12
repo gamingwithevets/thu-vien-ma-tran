@@ -3,7 +3,6 @@ title: Kí tự an
 layout: default
 parent: Lỗi máy tính
 grand_parent: Casio fx-580VN X
-last_modified_date: 27/02/2023
 ---
 
 # Kí tự an

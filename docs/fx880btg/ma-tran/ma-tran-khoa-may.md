@@ -3,7 +3,6 @@ title: Ma trận khóa máy
 layout: default
 parent: Ma trận
 grand_parent: Casio fx-880BTG
-last_modified_date: 04/03/2023
 ---
 
 # Ma trận khóa máy

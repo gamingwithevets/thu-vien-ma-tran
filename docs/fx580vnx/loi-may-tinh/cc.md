@@ -3,7 +3,6 @@ title: Character Converser
 layout: default
 parent: Lỗi máy tính
 grand_parent: Casio fx-580VN X
-last_modified_date: 11/03/2023
 ---
 
 # Character Converser
