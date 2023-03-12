@@ -17,7 +17,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 ### Lưu ý
 - Ma trận sẽ xóa hết dữ liệu trên máy tính.
 - Ma trận có thể thay đổi tùy theo những gì ta bấm trong hàm tích phân (xem ở dưới).
-- - **Đối với Casio fx-580VN X:** Nếu có ô nào ghi `+1` thì máy sẽ bị **vô hiệu hóa** nhé! Để sửa thì cần tháo ra và lắp lại pin.
+- Trên máy fx-580VN X, ma trận này rất dễ hư máy. Để sửa thì cần tháo ra và lắp lại pin.
 
 ### Cách làm
 Do hai máy Casio fx-X80 rất khác nhau nên sẽ có hướng dẫn chung cho hai máy.
@@ -34,10 +34,3 @@ Do hai máy Casio fx-X80 rất khác nhau nên sẽ có hướng dẫn chung cho
 9. Để con trỏ trên phần tử của phân số và bấm xóa (đến đây máy có thể bắt đầu lag nên nhớ chờ nhé). Cuối cùng bấm nút AC để kích hoạt ma trận.
 
 - Bấm nút ON để tắt ma trận
-
-<!-- abbreviations for kramdown -->
-*[Equation]: Phương trình
-*[Solver]: Bộ giải pt
-*[Length]: Độ dài
-*[Universal]: Hằng số chung
-*[Mass]: Khối lượng

@@ -28,8 +28,13 @@ Xong rồi thì đặt trỏ trước `an` trên phần tử số.
 3. Bấm `1234567890` 10 lần. Sau đó ![EXE]{:height="20"} \> Execute rồi bấm ![ON]{:height="20"} ![HOME]{:height="20"}.
 
 ### Cách sửa
-Có 2 cách sửa:  
-**Cách 1** (an toàn nhất): Giữ ![SHIFT]{:height="20"} + ![7]{:height="20"} + ![CATALOG]{:height="20"} cho đến khi thấy chữ trên màn hình. Bấm ![9]{:height="20"} (làm lại từ đầu nếu ra màn hình trắng tiếp) rồi bấm AC.  
+Có 2 cách để mở khóa máy.
+
+**Cách 1** (an toàn nhất):
+1. Giữ ![SHIFT]{:height="20"} + ![7]{:height="20"} + ![CATALOG]{:height="20"} cho đến khi thấy chữ trên màn hình.
+2. Bấm ![9]{:height="20"}. Nếu ra màn hình trắng, nên làm lại bước 1, sau đó bấm câu trả lời của phép tính trên màn hình. Máy sẽ ghi `TEST OK` rồi ra màn hình trắng tiếp. Sau đó làm lại như bình thường.
+3. Bấm ![ON]{:height="20"}
+
 **Cách 2**: Mở máy tính ra, tháo pin rồi lắp lại.
 
 [ON]: /thu-vien-ma-tran/images/fx880btg/on.png

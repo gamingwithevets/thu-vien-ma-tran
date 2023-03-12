@@ -3,7 +3,7 @@ title: Ma trận menu lỗi
 layout: default
 parent: Ma trận
 grand_parent: Casio fx-580VN X
-last_modified_date: 21/02/2023
+last_modified_date: 11/03/2023
 ---
 
 # Ma trận menu lỗi
@@ -11,13 +11,13 @@ last_modified_date: 21/02/2023
 
 Ma trận menu lỗi, khi được kích hoạt và vào menu chọn chế độ sẽ hiện một phiên bản lỗi của nó.
 
-![&nbsp; bộ nhớ?](/thu-vien-ma-tran/images/thumb/ma-tran-menu-loi.png)
+![&nbsp; bộ nhớ?](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-menu-loi.png)
 
 ## Hướng dẫn
 ### Lưu ý
 Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/ma-tran/ma-tran-danh-chu.html), ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
 ### Các bước làm
-1. [Bấm chữ `an` trong chế độ số phức.](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi)
+1. [Bấm chữ `an` trong chế độ số phức](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) hoặc [chế độ phép tính thường (MathI)](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường).
 2. Đặt trỏ trước `an`  nhấn ![⁄]{:height="20"}. Trên phần tử số, bấm dãy căn:  
 ![<sup>88888888</sup>√<sup>88888888</sup>√<sup>88888888</sup>√88888888<sup>1</sup>](https://latex.codecogs.com/png.image?\inline%20\LARGE%20\dpi{110}\bg{black}\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}})  
 Bấm xong thì đặt trỏ sau dãy căn.
@@ -27,6 +27,12 @@ Bấm xong thì đặt trỏ sau dãy căn.
 6. ![←]{:height="20"} ![(]{:height="20"}×10 ![=]{:height="20"} sẽ ra `Syntax ERROR` (máy đặt lại dữ liệu). Cuối cùng bấm ![AC]{:height="20"}, màn hình sẽ bị trắng.
 - Bây giờ mình có thể bấm ![MENU]{:height="20"} để xem kết quả. Bấm ![AC]{:height="20"} để thoát.
 - Mình có thể xem menu lỗi bất cứ khi nào mình muốn bằng cách bấm ![MENU]{:height="20"} cho đến khi chọn một chế độ hoặc bấm ![ON]{:height="20"} (máy đặt lại dữ liệu)
+
+## Bản nâng cấp
+Một bản nâng cấp của ma trận menu lỗi đã được tìm thấy và có nhiều chế độ lỗi hơn phiên bản thường. Bản này khác ở chỗ là sau khi bấm dãy căn thì bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần trước `an` ở dưới mẫu số.  
+Tuy nhiên, bản này dễ bị đơ máy do máy hiển thị tên chế độ lỗi.
+
+![Ma trận menu lỗi bản nâng cấp](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-menu-loi-1.png)
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png

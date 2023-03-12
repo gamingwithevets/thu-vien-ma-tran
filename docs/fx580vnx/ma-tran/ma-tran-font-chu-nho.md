@@ -11,7 +11,7 @@ last_modified_date: 27/02/2023
 
 Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử dụng phông chữ nhỏ (trong các chế độ nhập MathI thì dùng với số mũ, bậc căn, v.v.) trong các chế độ nhập LineI.
 
-![Ma trận phông chữ nhỏ (Casio fx-580VN X)](/thu-vien-ma-tran/images/thumb/ma-tran-font-chu-nho.png)  
+![Ma trận phông chữ nhỏ (Casio fx-580VN X)](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-font-chu-nho.png)  
 
 ## Hướng dẫn
 fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/ma-tran/ma-tran-font-chu-nho.html#hướng-dẫn)
@@ -23,7 +23,7 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 - Nhớ là sau khi trở về phông thường thì ![SHIFT]{:height="20"} ![9]{:height="20"} ![1]{:height="20"} ![=]{:height="20"} ![=]{:height="20"} để quay về chế độ MathI nhé!
 
 #### Các bước làm
-1. [Bấm chữ `an` trong chế độ phép tính thường (MathI).](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường-mathi)
+1. [Bấm chữ `an` trong chế độ phép tính thường (MathI).](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường)
 2. Đặt trỏ trước `an` rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần. Bấm ![=]{:height="20"} ![ON]{:height="20"}
 3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"}), giải theo biến 𝑥.
 4. Quay lại, **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6

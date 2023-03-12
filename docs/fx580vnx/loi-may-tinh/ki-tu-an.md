@@ -7,26 +7,15 @@ last_modified_date: 27/02/2023
 ---
 
 # Kí tự an
-Kí tự `an` là một trong các kí tự đặc có thể bấm được trên máy tính qua lỗi chuyển đổi đơn vị.
+Kí tự `an` là một trong các [*Weird Symbol*](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ws.html) có thể nhập qua [CC](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html).
 
 ## Cách bấm
-fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
+[fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#cách-bấm)&nbsp; fx-880BTG
 
 Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
 
-#### Chế độ phép tính thường (MathI)
-1. Cho A = 9×10<sup>99</sup>
-2. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
-3. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
-4. Quay lại và **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
-5. Bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} rồi ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}.
-
-#### Chế độ phép tính thường (LineI)
-1. **[QUAN TRỌNG]** ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
-2. Bấm phương trình <code>𝑥=Σ(𝑥,1,1<sub>⨯10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
-3. Quay lại và xóa phần <code><sub>⨯10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
-4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
-5. Bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} rồi ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}.
+#### Chế độ phép tính thường
+[Sử dụng CC để ra kí tự `an`.](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ws.html#cách-bấm)
 
 ##### Chế độ số phức (MathI)
 1. Bấm `1÷1((` rồi bấm ![√]{:height="20"} đến khi hết bấm được. Bấm `1` vào ô trống. Di chuyển trỏ sau dãy căn, bấm dấu `:`. Bấm ![√]{:height="20"} lần nữa, **không điền gì vào ô trống**! Bấm ![CALC]{:height="20"} ![=]{:height="20"}, sẽ ra lỗi.

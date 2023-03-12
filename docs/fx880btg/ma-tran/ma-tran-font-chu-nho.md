@@ -7,12 +7,11 @@ last_modified_date: 27/02/2023
 ---
 
 # Ma trận phông chữ nhỏ
-*Hoạt động trên máy: [Casio fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-font-chu-nho.html), Casio fx-880BTG*
+*Hoạt động trên máy: Casio fx-580VN X, Casio fx-880BTG*
 
 Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử dụng phông chữ nhỏ (trong các chế độ nhập MathI thì dùng với số mũ, bậc căn, v.v.) trong các chế độ nhập LineI.
 
-![Ma trận phông chữ nhỏ (Casio fx-580VN X)](/thu-vien-ma-tran/images/thumb/ma-tran-font-chu-nho.png)  
-*(hình được chụp trên giả lập Casio fx-580VN X)*
+![Ma trận phông chữ nhỏ (Casio fx-880BTG)](/thu-vien-ma-tran/images/fx880btg/thumb/ma-tran-font-chu-nho.png)  
 
 *Lưu ý: Những tên lựa chọn sẽ là của giao diện Tiếng Anh. Để chuột lên chúng để xem tên tiếng Việt.*
 
