@@ -3,7 +3,6 @@ title: Ma trận phông chữ nhỏ
 layout: default
 parent: Ma trận
 grand_parent: Casio fx-880BTG
-last_modified_date: 27/02/2023
 ---
 
 # Ma trận phông chữ nhỏ
@@ -26,14 +25,9 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 - Nhớ là sau khi trở về phông thường thì vào cài đặt chỉnh lại chế độ MathI nhé!
 
 ### Các bước làm[^1]
-1. Nhấn HOME chọn Equation \> Solver.
-2. Cho A = 9×10<sup>99</sup>
-3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: nút CATALOG \> Unit Conversions \> Length \> cm▸in)
-4. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
-5. Quay lại, **không di chuyển trỏ**, bấm nút CATALOG \> Sci Constants \> Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
-6. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ bấm nút CATALOG \> Unit Conversions \> Length \> m▸n mile.
-7. Bấm nút trái 2 lần rồi xóa phần `AAcm▸in` để ra `𝑥=@`, giải với giá trị ban đầu của 𝑥 là 0.
-8. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm nút phân số rồi nút AC.
+1. [Lấy CC (m▸n mile).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html#cc-chuyển-đổi-đơn-vị)
+7. ![←]{:height="20"}×2 rồi xóa phần `AAcm▸in` để ra `𝑥=@` rồi ![EXE]{:height="20"} \> Execute.
+8. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm ![⁄]{:height="20"} ![AC]{:height="20"}.
 
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
 - Bật lại máy để quay lại phông chữ thường.
@@ -41,10 +35,10 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 ## Tham khảo
 [^1]: [Video ma trận phông chữ nhỏ trên giả lập Casio fx-880BTG. Nguồn: Baidu Tieba](https://tieba.baidu.com/p/8231299030)
 
+[←]: /thu-vien-ma-tran/images/fx880btg/left.png
+[⁄]: /thu-vien-ma-tran/images/fx880btg/frac.png
+[AC]: /thu-vien-ma-tran/images/fx880btg/ac.png
+[EXE]: /thu-vien-ma-tran/images/fx880btg/exe.png
+
 <!-- abbreviations for kramdown -->
-*[Equation]: Phương trình
-*[Solver]: Bộ giải pt
-*[Sci Constants]: Hằng số Khoa học
-*[Universal]: Hằng số chung
-*[Unit Conversions]: Chuyển đổi Đơn vị
-*[Length]: Độ dài
+*[Execute]: Vận hành

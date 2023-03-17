@@ -3,7 +3,6 @@ title: Kí tự an
 layout: default
 parent: Lỗi máy tính
 grand_parent: Casio fx-880BTG
-last_modified_date: 04/03/2023
 ---
 
 # Kí tự an

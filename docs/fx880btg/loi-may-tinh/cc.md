@@ -3,7 +3,6 @@ title: Character Converser
 layout: default
 parent: Lỗi máy tính
 grand_parent: Casio fx-880BTG
-last_modified_date: 11/03/2023
 ---
 
 # Character Converser
@@ -11,7 +10,7 @@ last_modified_date: 11/03/2023
 Các CC không thể làm được trên các máy fx-ES, fx-MS và các máy PLUS.
 
 ## Hình dạng các CC
-Trên máy fx-880BTG, CC sẽ là một kí tự duy nhất, thường 2 kí tự với một kí tự tàng hình.
+Trên máy fx-880BTG, CC sẽ là một kí tự duy nhất, thường 2 kí tự với kí tự đầu tiên luôn là kí tự tàng hình. Kí tự thứ 2 là kí tự thật của CC. Có thể xóa kí tự tàng hình đi để biến CC thành kí tự bình thường.
 
 ## Cách bấm
 [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#cách-bấm)&nbsp; fx-880BTG
@@ -39,6 +38,7 @@ CC chuyển đổi đơn vị, như tên gọi, sử dụng các kí tự chuy�
 | CC | Kí tự | Cách bấm | Lưu ý |
 |--|--|--|--|
 | `Space` | in▸cm | ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> in▸cm |
+| @ | m▸n mile | ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> m▸n mile |
 | 𝑖 | Pa▸kgf/cm<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> Pa▸kgf/cm<sup>2</sup> | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
 | : | lbf/in<sup>2</sup>▸kPa | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> lbf/in<sup>2</sup>▸kPa |
 | $ | kPa▸lbf/in<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> kPa▸lbf/in<sup>2</sup> |

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Ma trận
-last_modified_date: 04/03/2023
 ---
 
 # Ma trận

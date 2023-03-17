@@ -3,7 +3,6 @@ title: Ma trận X80
 layout: default
 parent: Ma trận
 grand_parent: Casio fx-580VN X
-last_modified_date: 17/02/2023
 ---
 
 # Ma trận X80

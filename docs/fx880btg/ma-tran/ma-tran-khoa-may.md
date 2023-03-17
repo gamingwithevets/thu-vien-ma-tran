@@ -3,7 +3,6 @@ title: Ma trận khóa máy
 layout: default
 parent: Ma trận
 grand_parent: Casio fx-880BTG
-last_modified_date: 04/03/2023
 ---
 
 # Ma trận khóa máy
@@ -32,7 +31,7 @@ Có 2 cách để mở khóa máy.
 
 **Cách 1** (an toàn nhất):
 1. Giữ ![SHIFT]{:height="20"} + ![7]{:height="20"} + ![CATALOG]{:height="20"} cho đến khi thấy chữ trên màn hình.
-2. Bấm ![9]{:height="20"}. Nếu ra màn hình trắng, nên làm lại bước 1, sau đó bấm câu trả lời của phép tính trên màn hình. Máy sẽ ghi `TEST OK` rồi ra màn hình trắng tiếp. Sau đó làm lại như bình thường.
+2. Bấm ![9]{:height="20"}. Nếu ra màn hình trắng, nên làm lại bước 1, sau đó bấm câu trả lời của phép tính trên màn hình. Máy sẽ ghi `TEST OK`. Đợi khoảng 1.5 giây rồi bấm ![ON]{:height="20"}, sau đó làm lại như bình thường.
 3. Bấm ![ON]{:height="20"}
 
 **Cách 2**: Mở máy tính ra, tháo pin rồi lắp lại.
