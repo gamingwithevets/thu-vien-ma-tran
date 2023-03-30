@@ -45,7 +45,7 @@ Dưới đây là một số loại của ma trận X80 được kích hoạt qu
 [︽]: /thu-vien-ma-tran/images/fx880btg/pageup.png
 [CATALOG]: /thu-vien-ma-tran/images/fx880btg/catalog.png
 [⌫]: /thu-vien-ma-tran/images/fx880btg/del.png
-[9]: /thu-vien-ma-tran/images/fx880btg/9.png
+[AC]: /thu-vien-ma-tran/images/fx880btg/ac.png
 [EXE]: /thu-vien-ma-tran/images/fx880btg/exe.png
 
 <!-- abbreviations for kramdown -->
