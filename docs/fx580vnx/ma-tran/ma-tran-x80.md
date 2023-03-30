@@ -11,25 +11,38 @@ grand_parent: Casio fx-580VN X
 Ma trận X80 có thể nói là "demo" để ta có thể hình dung được là ma trận như thế nào. Ma trận này (hiện tại) là ma trận dễ nhất để làm trên những máy Casio fx-X80 (ở Việt Nam).
 
 ## Hướng dẫn
+fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/ma-tran/ma-tran-x80.html#hướng-dẫn)
+
 Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
 
 ### Lưu ý
 - Ma trận sẽ xóa hết dữ liệu trên máy tính.
 - Ma trận có thể thay đổi tùy theo những gì ta bấm trong hàm tích phân (xem ở dưới).
-- Trên máy fx-580VN X, ma trận này rất dễ hư máy. Để sửa thì cần tháo ra và lắp lại pin.
+- Trên máy fx-580VN X, ma trận này rất dễ hư máy.
 
 ### Cách làm
-Do hai máy Casio fx-X80 rất khác nhau nên sẽ có hướng dẫn chung cho hai máy.
+1. [Lấy CC (kg▸lb).](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#chế-độ-nhập-mathi)
+2. ![←]{:height="20"}×2 ![→]{:height="20"} ![⁄]{:height="20"} ![DEL]{:height="20"}×6 ![←]{:height="20"} ![DEL]{:height="20"}×2 ![←]{:height="20"}×2
+3. Bấm ![∫]{:height="20"} rồi trong 3 ô trống để một hằng số bất kì.
+4. Để con trỏ trên phần tử của phân số và bấm ![DEL]{:height="20"} (đến đây máy có thể bắt đầu lag nên nhớ chờ nhé). Cuối cùng bấm ![AC]{:height="20"} để kích hoạt ma trận.
 
-*Lưu ý: Những tên lựa chọn sẽ là của giao diện Tiếng Anh. Để chuột lên chúng để xem tên tiếng Việt.*
-1. Trên máy fx-880BTG, nhấn HOME chọn Equation \> Solver.
-2. Cho A = 9×10<sup>99</sup>
-3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: trong menu chọn chuyển đổi đơn vị chọn Length \> cm▸in)
-4. Giải theo biến 𝑥 với giá trị ban đầu của 𝑥 là 0.
-5. Quay lại, **không di chuyển trỏ**, vào menu chọn hằng số, chọn Universal \> h (không gạch). Vào chọn lại 1 lần nữa.
-6. Bấm nút trái 2 lần, bấm nút xóa 1 lần, rồi bấm nút trái thêm 6 lần. Bây giờ vô menu chọn chuyển đổi đơn vị, chọn Mass \> kg▸lb.
-7. Bây giờ bấm nút trái 2 lần, nút phải 1 lần, rồi bấm nút phân số và bấm xóa 6 lần. Xóa cụm `𝑥=` đi rồi để trỏ trước kí tự @ ở mẫu của phân số.
-8. Bấm hàm tích phân (∫) rồi trong 3 ô trống để một hằng số bất kì.
-9. Để con trỏ trên phần tử của phân số và bấm xóa (đến đây máy có thể bắt đầu lag nên nhớ chờ nhé). Cuối cùng bấm nút AC để kích hoạt ma trận.
+- Bấm ![ON]{:height="20"} để tắt ma trận
 
-- Bấm nút ON để tắt ma trận
+### Một số loại của ma trận X80
+Dưới đây là một số loại của ma trận X80 được kích hoạt qua các kí tự khác nhau trong các ô trống của tích phân. Trên máy fx-580VN X, ma trận X80 rất dễ vô hiệu hóa máy nếu không cẩn thận, vì vậy sẽ có thêm cột "Vô hiệu hóa máy".
+
+| Tên | Biểu thức | Cận trên | Cận dưới | Vô hiệu hóa máy? | Lưu ý |
+|--|--|--|--|--|--|
+| Chớp màn hình | 69 | 69 | 69 | Không |
+| Ma trận chết chóc | = | Trị tuyệt đối (ô trống) | , | Có | Phải bấm ![DEL]{:height="20"} và ![AC]{:height="20"} thật nhanh.
+
+[SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
+[ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
+[MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png
+[ON]: /thu-vien-ma-tran/images/fx580vnx/on.png
+[←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
+[→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
+[∫]: /thu-vien-ma-tran/images/fx580vnx/integral.png
+[⁄]: /thu-vien-ma-tran/images/fx580vnx/frac.png
+[DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
+[AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png

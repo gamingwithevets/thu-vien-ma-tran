@@ -25,9 +25,9 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 - Nhớ là sau khi trở về phông thường thì vào cài đặt chỉnh lại chế độ MathI nhé!
 
 ### Các bước làm[^1]
-1. [Lấy CC (m▸n mile).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html#cc-chuyển-đổi-đơn-vị)
-7. ![←]{:height="20"}×2 rồi xóa phần `AAcm▸in` để ra `𝑥=@` rồi ![EXE]{:height="20"} \> Execute.
-8. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm ![⁄]{:height="20"} ![AC]{:height="20"}.
+1. [Lấy CC (m▸n mile).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html#cách-bấm)
+2. ![←]{:height="20"}×2 rồi xóa phần `AAcm▸in` để ra `𝑥=@` rồi ![EXE]{:height="20"} \> Execute.
+3. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm ![⁄]{:height="20"} ![AC]{:height="20"}.
 
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
 - Bật lại máy để quay lại phông chữ thường.

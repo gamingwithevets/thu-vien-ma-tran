@@ -47,6 +47,7 @@ CC chuyển đổi đơn vị sẽ là hai kí tự, kí tự thứ nhất sẽ 
 | CC | Kí tự | Cách bấm | Lưu ý |
 |--|--|--|--|
 | `Space` | in▸cm | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| @ | kg▸lb | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
 | 𝑖 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
 | : | lbf/in<sup>2</sup>▸kPa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
 | $ | kPa▸lbf/in<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} |

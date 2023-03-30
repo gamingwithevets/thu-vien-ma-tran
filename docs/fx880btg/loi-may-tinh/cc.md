@@ -39,6 +39,7 @@ CC chuyển đổi đơn vị, như tên gọi, sử dụng các kí tự chuy�
 |--|--|--|--|
 | `Space` | in▸cm | ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> in▸cm |
 | @ | m▸n mile | ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> m▸n mile |
+| @ | kg▸lb | ![CATALOG]{:height="20"} \> Unit Conversions \> Mass \> kg▸lb |
 | 𝑖 | Pa▸kgf/cm<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> Pa▸kgf/cm<sup>2</sup> | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
 | : | lbf/in<sup>2</sup>▸kPa | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> lbf/in<sup>2</sup>▸kPa |
 | $ | kPa▸lbf/in<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> kPa▸lbf/in<sup>2</sup> |
@@ -73,6 +74,7 @@ Các CC đặc biệt sử dụng các kí tự hằng số, hàm, v.v. Các CC 
 *[Back]: Quay lại
 *[Unit Conversions]: Chuyển đổi Đơn vị
 *[Length]: Độ dài
+*[Mass]: Khối lượng
 *[Pressure]: Áp suất
 *[Power]: Công suất
 *[Temperature]: Nhiệt độ
