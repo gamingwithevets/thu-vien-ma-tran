@@ -34,8 +34,8 @@ Dưới đây là một số loại của ma trận X80 được kích hoạt qu
 
 | Tên | Biểu thức | Cận trên | Cận dưới | Lưu ý |
 |--|--|--|--|--|--|
-| Chớp màn hình | 69 | 69 | 69 |
-| Ma trận rừng tre | Trị tuyệt đối của `−` (dấu trừ) | = | , | Cần đợi tầm 2 giây để ma trận xuất hiện.
+| Chớp màn hình | `69` | `69` | `69` |
+| Ma trận rừng tre | `|−|` | `=` | `,` | Cần đợi tầm 2 giây để ma trận xuất hiện.
 
 [ON]: /thu-vien-ma-tran/images/fx880btg/on.png
 [HOME]: /thu-vien-ma-tran/images/fx880btg/home.png
