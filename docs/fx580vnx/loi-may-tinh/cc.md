@@ -67,33 +67,50 @@ Con trỏ hơi bị lỗi khi di chuyển qua CC đặc biệt.
 | 5 | h | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
+[ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png
+[ON]: /thu-vien-ma-tran/images/fx580vnx/on.png
+[↑]: /thu-vien-ma-tran/images/fx580vnx/dpad_up.png
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
-[↑]: /thu-vien-ma-tran/images/fx580vnx/dpad_up.png
 [↓]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.png
+[OPTN]: /thu-vien-ma-tran/images/fx580vnx/optn.png
 [CALC]: /thu-vien-ma-tran/images/fx580vnx/calc.png
+[∫]: /thu-vien-ma-tran/images/fx580vnx/integral.png
+[⁄]: /thu-vien-ma-tran/images/fx580vnx/frac.png
+[𝑥]: /thu-vien-ma-tran/images/fx580vnx/x.png
 [√]: /thu-vien-ma-tran/images/fx580vnx/sqrt.png
-[ENG]: /thu-vien-ma-tran/images/fx580vnx/eng.png
+[𝑥²]: /thu-vien-ma-tran/images/fx580vnx/expo_2.png
+[𝑥^]: /thu-vien-ma-tran/images/fx580vnx/expo.png
+[log]: /thu-vien-ma-tran/images/fx580vnx/log.png
+[ln]: /thu-vien-ma-tran/images/fx580vnx/ln.png
+[(-)]: /thu-vien-ma-tran/images/fx580vnx/negat.png
+[°’”]: /thu-vien-ma-tran/images/fx580vnx/degr.png
+[𝑥⁻¹]: /thu-vien-ma-tran/images/fx580vnx/expo_-1.png
+[sin]: /thu-vien-ma-tran/images/fx580vnx/sin.png
+[cos]: /thu-vien-ma-tran/images/fx580vnx/cos.png
+[tan]: /thu-vien-ma-tran/images/fx580vnx/tan.png
+[(]: /thu-vien-ma-tran/images/fx580vnx/paren_open.png
+[)]: /thu-vien-ma-tran/images/fx580vnx/paren_closed.png
+[S⇔D]: /thu-vien-ma-tran/images/fx580vnx/sd.png
+[M+]: /thu-vien-ma-tran/images/fx580vnx/mplus.png
 [DEL]: /thu-vien-ma-tran/images/fx580vnx/del.png
 [AC]: /thu-vien-ma-tran/images/fx580vnx/ac.png
+[+]: /thu-vien-ma-tran/images/fx580vnx/plus.png
+[−]: /thu-vien-ma-tran/images/fx580vnx/minus.png
+[×]: /thu-vien-ma-tran/images/fx580vnx/mul.png
+[÷]: /thu-vien-ma-tran/images/fx580vnx/div.png
+[0]: /thu-vien-ma-tran/images/fx580vnx/0.png
 [1]: /thu-vien-ma-tran/images/fx580vnx/1.png
 [2]: /thu-vien-ma-tran/images/fx580vnx/2.png
+[3]: /thu-vien-ma-tran/images/fx580vnx/3.png
+[4]: /thu-vien-ma-tran/images/fx580vnx/4.png
+[5]: /thu-vien-ma-tran/images/fx580vnx/5.png
 [6]: /thu-vien-ma-tran/images/fx580vnx/6.png
 [7]: /thu-vien-ma-tran/images/fx580vnx/7.png
 [8]: /thu-vien-ma-tran/images/fx580vnx/8.png
 [9]: /thu-vien-ma-tran/images/fx580vnx/9.png
 [.]: /thu-vien-ma-tran/images/fx580vnx/decimal.png
+[×10ˣ]: /thu-vien-ma-tran/images/fx580vnx/exp.png
+[Ans]: /thu-vien-ma-tran/images/fx580vnx/ans.png
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
-
-<!-- abbreviations for kramdown -->
-*[Equation]: Phương trình
-*[Solver]: Bộ giải pt
-*[Edit]: Chỉnh sửa
-*[Sci Constants]: Hằng số Khoa học
-*[Universal]: Hằng số chung
-*[Execute]: Vận hành
-*[Back]: Quay lại
-*[Unit Conversions]: Chuyển đổi Đơn vị
-*[Length]: Độ dài
-*[Pressure]: Áp suất
