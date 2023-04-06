@@ -9,7 +9,7 @@ grand_parent: Casio fx-580VN X
 Kí tự `an` là một trong các [*Weird Symbol*](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ws.html) có thể nhập qua [CC](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html).
 
 ## Cách bấm
-[fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#cách-bấm)&nbsp; fx-880BTG
+fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
 
 Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
 

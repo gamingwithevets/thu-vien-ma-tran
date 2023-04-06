@@ -20,11 +20,11 @@ Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng
 Để sửa phải đặt lại dữ liệu máy nhé!
 
 ### Các bước làm
-1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/loi-may-tinh/ki-tu-an.html#bộ-giải-phương-trình-mathi)
-2. Bấm để ra `𝑥=an`. Bấm nút phân số, rồi dưới phần mẫu số bấm dãy căn:  
+1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
+2. Bấm để ra `𝑥=an`. Bấm ![⁄]{:height="20"} sau `an`, rồi dưới phần mẫu số bấm dãy căn:  
 ![<sup>88888888</sup>√<sup>88888888</sup>√<sup>88888888</sup>√88888888<sup>1</sup>](https://latex.codecogs.com/png.image?\inline%20\LARGE%20\dpi{110}\bg{black}\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}})  
 Xong rồi thì đặt trỏ trước `an` trên phần tử số.
-3. Bấm `1234567890` 10 lần. Sau đó ![EXE]{:height="20"} \> Execute rồi bấm ![ON]{:height="20"} ![HOME]{:height="20"}.
+3. Bấm `1234567890` 10 lần. Sau đó ![EXE]{:height="20"} \> Execute và đợi tầm 2-3 giây rồi bấm ![ON]{:height="20"} ![HOME]{:height="20"}.
 
 ### Cách sửa
 Có 2 cách để mở khóa máy.
@@ -43,6 +43,7 @@ Có 2 cách để mở khóa máy.
 [→]: /thu-vien-ma-tran/images/fx880btg/right.png
 [SHIFT]: /thu-vien-ma-tran/images/fx880btg/shift.png
 [CATALOG]: /thu-vien-ma-tran/images/fx880btg/catalog.png
+[⁄]: /thu-vien-ma-tran/images/fx880btg/frac.png
 [⌫]: /thu-vien-ma-tran/images/fx880btg/del.png
 [AC]: /thu-vien-ma-tran/images/fx880btg/ac.png
 [7]: /thu-vien-ma-tran/images/fx880btg/7.png

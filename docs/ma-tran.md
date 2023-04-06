@@ -32,7 +32,7 @@ Không phải mọi ma trận hoạt động với mọi loại máy tính khoa 
 Hiện tại, chưa có máy clone nào có thể làm được ma trận.
 
 ### Giả lập
-Một số loại máy tính khoa học của Casio có giả lập (emulator) mình có thể tải về trên [website của Casio](https://edu.casio.com/softwarelicense/index.php). Do các giả lập này hơi khác với máy thật nên chúng thường không có ma trận.  
+Một số loại máy tính khoa học của Casio có giả lập (emulator) mình có thể tải về trên [website của Casio](https://edu.casio.com/softwarelicense/index.php). Do các giả lập này hơi khác với máy thật nên chúng thường không làm ma trận được.  
 Tuy nhiên, không phải chỉ có mỗi giả lập của Casio. Đây là một [giả lập Casio gần hoàn hảo có thể làm được ma trận](https://drive.google.com/file/d/11co4YDYDUsCghI-DrhpqYU0PDO7BL-uZ/view?usp=share_link). (mã nguồn và ROM trên [GitHub](https://github.com/user202729/fxesplus), có thể bị đơ, các máy ClassWiz dễ đơ nhất)
 
-*[中文版]: Phiên bản	Trung Quốc
+*[中文版]: Trung văn bản (Phiên bản Trung Quốc)
