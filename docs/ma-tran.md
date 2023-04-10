@@ -19,12 +19,12 @@ Không phải mọi ma trận hoạt động với mọi loại máy tính khoa 
 - ***ClassWiz***
 - - **Thế hệ 1 (fx-EX)**
 - - - fx-570EX/991EX
-- - - fx-580VN X (Việt Nam)
+- - - [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx) (Việt Nam)
 - - - fx-991CN X 中文版 (Trung Quốc)
 - - - fx-JP700/JP900 (Nhật Bản)
 - - **Thế hệ 2 (fx-CW)**
 - - - fx-570CW/991CW
-- - - fx-880BTG (Việt Nam)
+- - - [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg) (Việt Nam)
 - - - fx-991CN CW/999CN CW 中文版 (Trung Quốc)
 
 ### Máy clone của công ty khác
