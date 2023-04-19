@@ -18,12 +18,20 @@ html {
 }
 
 body {
-  font-family: $body-font-family;
-  font-size: inherit;
+  font-family: 'ClassWiz X Display';
+  font-size: 13px;
   line-height: $body-line-height;
   color: $body-text-color;
   background-color: $body-background-color;
   overflow-wrap: break-word;
+}
+
+@font-face {
+  font-family: 'ClassWiz X Display';
+  src: url('../fonts/cwxd.ttf') format('truetype');
+  src: url('../fonts/cwxd.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 ol,
@@ -76,8 +84,8 @@ a:not([class]) {
 }
 
 code {
-  font-family: $mono-font-family;
-  font-size: 0.75em;
+  font-family: 'ClassWiz X Display';
+  font-size: 13px;
   line-height: $body-line-height;
 }
 
