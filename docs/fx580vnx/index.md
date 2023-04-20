@@ -5,7 +5,6 @@ has_children: true
 ---
 
 # Casio fx-580VN X
-{: .no_toc }
 Máy tính Casio fx-580VN X là một trong các máy tính ClassWiz thế hệ thứ nhất (fx-EX) của [Casio](https://vi.wikipedia.org/wiki/Casio), được phát hành độc quyền tại Việt Nam bởi công ty [Bitex](https://bitex.com.vn) vào tháng 8/2018.[^1]
 
 ## Tính năng mới
@@ -19,10 +18,10 @@ Máy fx-580VN X được tạo dựa trên phiên bản quốc tế của dòng 
 Ngược lại, một số tính năng mới được thêm vào máy fx-580VN X, gồm:
 - Giao diện tiếng Việt
 - Biến PreAns (giá trị trước của Ans)
-- Biến 𝑧
+- Biến 𝒛
 - Cực trị hàm số
 - Hàm ước chung lớn nhất (GCD) và bội chung nhỏ nhất (LCM)
-- Hàm tích (Π)
+- Hàm tích (∏)
 - Tính số dư trong phép chia (÷R)
 - Các hàm phần nguyên (Int, Intg)
 - Số thập phân vô hạn tuần hoàn
