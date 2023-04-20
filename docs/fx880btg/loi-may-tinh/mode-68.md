@@ -14,11 +14,9 @@ Mode 68 (hay còn gọi là chế độ 68 hoặc chế độ lưu giữ công t
 
 [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/mode-68.html#cách-kích-hoạt)&nbsp; fx-880BTG
 
-Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
-
 1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
-2. Bấm để ra `an=𝑥` (`𝑥=an` không được nhé!) Bấm ![⁄]{:height="20"} trước `an`, trên tử bấm:  
-![√(∫(11111/11111, 11111, 11111))](https://latex.codecogs.com/png.image?\inline%20\huge%20\dpi{110}\bg{black}\sqrt{\int_{11111}^{11111}\frac{11111}{11111}dx})  
+2. Bấm để ra `an=𝒙` (`𝒙=an` không được nhé!) Bấm ![⁄]{:height="20"} trước `an`, trên tử bấm:  
+![√(∫(11111/11111, 11111, 11111))](https://latex.codecogs.com/png.image?\inline%20\huge%20\dpi{110}\bg{black}%20\sqrt{\int_{11111}^{11111}\frac{11111}{11111}textrm{d}x})  
 Xong rồi, ở dưới mẫu, bấm để ra: 123456<sup>1234an</sup>
 3. ![EXE]{:height="20"} \> Execute, máy sẽ khởi động lại. Cuối cùng ![HOME]{:height="20"} ![SETTINGS]{:height="20"} ![ON]{:height="20"}
 
@@ -49,7 +47,7 @@ Xong rồi, ở dưới mẫu, bấm để ra: 123456<sup>1234an</sup>
 
 <!-- abbreviations for kramdown -->
 *[Execute]: Vận hành
-*[kí tự MathI đặc biệt]: Kí tự MathI đặc biệt gồm có: trị tuyệt đối, phân số, hỗn số, căn, căn bậc x, lũy thừa, hàm logₐ(b) (khác hàm log(x)), kí tự 10ˣ, kí tự 𝒆ˣ, kí tự tính số dư trong phép chia (÷R), hàm tích phân, tổng và tích.
+*[kí tự MathI đặc biệt]: Kí tự MathI đặc biệt gồm có: trị tuyệt đối, phân số, hỗn số, căn, căn bậc x, lũy thừa, hàm logₐ(b) (khác hàm log(x)), kí tự 10ˣ, kí tự 𝒆ˣ, kí tự tính số dư trong phép chia (÷R), kí tự số thập phân vô hạn tuần hoàn, hàm tích phân, tổng và tích.
 *[Reset]: Cài đặt lại
 *[Settings & Data]: Cđặt & Dữ liệu
 *[Initialize All]: Khởi tạo tất cả

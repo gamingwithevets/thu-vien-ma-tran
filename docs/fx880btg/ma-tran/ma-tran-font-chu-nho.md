@@ -17,16 +17,14 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 ## Hướng dẫn
 [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-font-chu-nho.html#hướng-dẫn)&nbsp; fx-880BTG
 
-Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
-
 ### Lưu ý
-- Cách làm vẫn hơi giống trên Casio fx-580VN X nhưng cũng dễ hơn một chút.
+- Cách làm gần giống trên Casio fx-580VN X.
 - Nếu làm bước 8 sai thì máy có thể bị đơ khi kích hoạt phông chữ nhỏ hoặc có thể bị xóa dữ liệu khi chọn chế độ.
 - Nhớ là sau khi trở về phông thường thì vào cài đặt chỉnh lại chế độ MathI nhé!
 
 ### Các bước làm[^1]
 1. [Lấy CC (m▸n mile).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html#cách-bấm)
-2. ![←]{:height="20"}×2 rồi xóa phần `AAcm▸in` để ra `𝑥=@` rồi ![EXE]{:height="20"} \> Execute.
+2. ![←]{:height="20"}×2 rồi xóa phần `AAcm▸in` để ra `𝒙=@` rồi ![EXE]{:height="20"} \> Execute.
 3. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm ![⁄]{:height="20"} ![AC]{:height="20"}.
 
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.

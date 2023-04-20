@@ -16,16 +16,16 @@ fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.htm
 Trên fx-580VN X, có thể bấm CC trên chế độ phép tính thường với chế độ nhập MathI hoặc LineI.
 
 ### Chế độ nhập MathI
-1. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
-2. Giải theo biến 𝑥 với 𝑥 = 0 và A = 9<sub>×10</sub>99.
+1. Bấm `𝒙=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
+2. Giải theo biến 𝒙 với 𝒙=0 và A=999.
 3. Quay lại và **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
 
 Bây giờ bấm CC tùy ý theo danh sách dưới.
 
 ### Chế độ nhập LineI
 1. ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
-2. Bấm phương trình <code>𝑥=Σ(𝑥,1,1<sub>×10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 rồi ngắt ![AC]{:height="20"}
-3. Quay lại và xóa phần <code><sub>×10</sub>9</code>. ![CALC]{:height="20"} với 𝑥 = 0 một lần nữa rồi quay lại.
+2. Bấm phương trình `𝒙=∑(𝒙,1,19`. ![CALC]{:height="20"} với 𝒙=0 rồi ngắt ![AC]{:height="20"}
+3. Quay lại và xóa phần `9`. ![CALC]{:height="20"} với 𝒙=0 một lần nữa rồi quay lại.
 4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
 
 Bây giờ bấm CC tùy ý theo danh sách dưới.
@@ -47,8 +47,9 @@ CC chuyển đổi đơn vị sẽ là hai kí tự, kí tự thứ nhất sẽ 
 | CC | Kí tự | Cách bấm | Lưu ý |
 |--|--|--|--|
 | `Space` | in▸cm | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| @ | m▸n mile | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
 | @ | kg▸lb | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
-| 𝑖 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
+| 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
 | : | lbf/in<sup>2</sup>▸kPa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
 | $ | kPa▸lbf/in<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} |
 | `Lag` | hp▸kW | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
@@ -59,7 +60,7 @@ CC chuyển đổi đơn vị sẽ là hai kí tự, kí tự thứ nhất sẽ 
 Các CC đặc biệt sử dụng các kí tự hằng số, hàm, v.v. Các CC này không thể đổi thành *Weird Symbol* vì nếu thử đổi thì sẽ ra kí tự gốc tạo ra CC thay vì *Weird Symbol*.
 
 ##### Hình dạng
-CC đặc biệt cũng sẽ là hai kí tự, kí tự thứ nhất sẽ luôn là `n▸N▸dynlbf`,kí tự thứ 2 là kí tự thật của CC. Có thể bỏ kí tự `nlbf` để biến CC thành kí tự bình thường.  
+CC đặc biệt cũng sẽ là hai kí tự, kí tự thứ nhất sẽ luôn là `n▸N▸dynlbf`, kí tự thứ 2 là kí tự thật của CC. Có thể bỏ kí tự `nlbf` để biến CC thành kí tự bình thường.  
 Con trỏ hơi bị lỗi khi di chuyển qua CC đặc biệt.
 
 | CC | Kí tự | Cách bấm |
@@ -78,15 +79,15 @@ Con trỏ hơi bị lỗi khi di chuyển qua CC đặc biệt.
 [CALC]: /thu-vien-ma-tran/images/fx580vnx/calc.png
 [∫]: /thu-vien-ma-tran/images/fx580vnx/integral.png
 [⁄]: /thu-vien-ma-tran/images/fx580vnx/frac.png
-[𝑥]: /thu-vien-ma-tran/images/fx580vnx/x.png
+[𝒙]: /thu-vien-ma-tran/images/fx580vnx/x.png
 [√]: /thu-vien-ma-tran/images/fx580vnx/sqrt.png
-[𝑥²]: /thu-vien-ma-tran/images/fx580vnx/expo_2.png
-[𝑥^]: /thu-vien-ma-tran/images/fx580vnx/expo.png
+[𝒙²]: /thu-vien-ma-tran/images/fx580vnx/expo_2.png
+[𝒙^]: /thu-vien-ma-tran/images/fx580vnx/expo.png
 [log]: /thu-vien-ma-tran/images/fx580vnx/log.png
 [ln]: /thu-vien-ma-tran/images/fx580vnx/ln.png
 [(-)]: /thu-vien-ma-tran/images/fx580vnx/negat.png
 [°’”]: /thu-vien-ma-tran/images/fx580vnx/degr.png
-[𝑥⁻¹]: /thu-vien-ma-tran/images/fx580vnx/expo_-1.png
+[𝒙⁻¹]: /thu-vien-ma-tran/images/fx580vnx/expo_-1.png
 [sin]: /thu-vien-ma-tran/images/fx580vnx/sin.png
 [cos]: /thu-vien-ma-tran/images/fx580vnx/cos.png
 [tan]: /thu-vien-ma-tran/images/fx580vnx/tan.png

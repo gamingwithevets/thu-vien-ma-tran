@@ -19,7 +19,7 @@ Các máy fx-ES, fx-MS và các máy PLUS có các *Weird Symbol* riêng.
 
 | *Weird Symbol* | CC | Kí tự | Cách bấm |
 |--|--|--|--|
-| [an](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html) | 𝑖 | Pa▸kgf/cm<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> Pa▸kgf/cm<sup>2</sup>
+| [an](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html) | 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> Pa▸kgf/cm<sup>2</sup>
 
 [HOME]: /thu-vien-ma-tran/images/fx880btg/home.png
 [VARIABLE]: /thu-vien-ma-tran/images/fx880btg/variable.png

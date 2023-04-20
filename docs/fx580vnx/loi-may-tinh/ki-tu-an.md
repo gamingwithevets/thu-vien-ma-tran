@@ -11,8 +11,6 @@ Kí tự `an` là một trong các [*Weird Symbol*](/thu-vien-ma-tran/docs/fx580
 ## Cách bấm
 fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
 
-Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
-
 #### Chế độ phép tính thường
 [Sử dụng CC để ra kí tự `an`.](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ws.html#cách-bấm)
 

@@ -19,7 +19,7 @@ fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ws.htm
 
 | *Weird Symbol* | CC | Kí tự | Cách bấm |
 |--|--|--|--|
-| [an](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html) | 𝑖 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"}
+| [an](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html) | 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"}
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png

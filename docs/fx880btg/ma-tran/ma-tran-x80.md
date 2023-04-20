@@ -13,8 +13,6 @@ Ma trận X80 có thể nói là "demo" để ta có thể hình dung được l
 ## Hướng dẫn
 [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-x80.html#hướng-dẫn)&nbsp; fx-880BTG
 
-Lưu ý nho nhỏ: Một số kí tự có thể sẽ không hiển thị đúng trên một số thiết bị.
-
 ### Lưu ý
 - Ma trận sẽ xóa hết dữ liệu trên máy tính.
 - Ma trận có thể thay đổi tùy theo những gì ta bấm trong hàm tích phân (xem ở dưới).

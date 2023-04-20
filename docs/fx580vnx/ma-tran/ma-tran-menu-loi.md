@@ -14,7 +14,7 @@ Ma trận menu lỗi, khi được kích hoạt và vào menu chọn chế độ
 
 ## Hướng dẫn
 ### Lưu ý
-Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/ma-tran/ma-tran-danh-chu.html), ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
+Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-danh-chu.html), ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
 ### Các bước làm
 1. [Bấm chữ `an` trong chế độ số phức](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) hoặc [chế độ phép tính thường (MathI)](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường).
 2. Đặt trỏ trước `an`  nhấn ![⁄]{:height="20"}. Trên phần tử số, bấm dãy căn:  

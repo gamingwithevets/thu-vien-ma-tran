@@ -16,9 +16,9 @@ Trên máy fx-880BTG, CC sẽ là một kí tự duy nhất, thường 2 kí t�
 [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#cách-bấm)&nbsp; fx-880BTG
 
 1. Bấm ![HOME]{:height="20"} chọn Equation \> Solver.
-2. Bấm ![VARIABLE]{:height="20"} \> A \> Edit \> nhập A = 9×10<sup>99</sup>
-3. Bấm `𝑥=AAcm▸in` (để bấm cm▸in: ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> cm▸in)
-4. ![EXE]{:height="20"} \> 𝑥 \> Execute \> Back
+2. Bấm ![VARIABLE]{:height="20"} \> A \> Edit \> nhập A=9×10<sup>99</sup>
+3. Bấm `𝒙=AAcm▸in` (để bấm cm▸in: ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> cm▸in)
+4. ![EXE]{:height="20"} \> 𝒙 \> Execute \> Back
 5. **Không di chuyển trỏ**, bấm ![CATALOG]{:height="20"} \> Sci Constants \> Universal \> h. Vào chọn lại 1 lần nữa.
 6. Bấm ![←]{:height="20"}×2 ![⌫]{:height="20"} ![︽]{:height="20"} ![←]{:height="20"}.
 
@@ -40,7 +40,7 @@ CC chuyển đổi đơn vị, như tên gọi, sử dụng các kí tự chuy�
 | `Space` | in▸cm | ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> in▸cm |
 | @ | m▸n mile | ![CATALOG]{:height="20"} \> Unit Conversions \> Length \> m▸n mile |
 | @ | kg▸lb | ![CATALOG]{:height="20"} \> Unit Conversions \> Mass \> kg▸lb |
-| 𝑖 | Pa▸kgf/cm<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> Pa▸kgf/cm<sup>2</sup> | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
+| 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> Pa▸kgf/cm<sup>2</sup> | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
 | : | lbf/in<sup>2</sup>▸kPa | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> lbf/in<sup>2</sup>▸kPa |
 | $ | kPa▸lbf/in<sup>2</sup> | ![CATALOG]{:height="20"} \> Unit Conversions \> Pressure \> kPa▸lbf/in<sup>2</sup> |
 | `Lag` | hp▸kW | ![CATALOG]{:height="20"} \> Unit Conversions \> Power \> hp▸kW |
