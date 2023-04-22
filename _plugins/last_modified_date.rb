@@ -21,16 +21,14 @@ module Jekyll
       repo_owner = repo_name.split('/').first
       repo_name = repo_name.split('/').last
 
-      file_path = File.join(repo_owner, repo_name, 'commits', 'master', path)
-
-      url = "https://api.github.com/repos/#{repo_owner}/#{repo_name}/commits?path=#{file_path}&per_page=1"
+      url = "https://api.github.com/repos/#{repo_owner}/#{repo_name}/commits?path=#{path}&per_page=1"
       uri = URI(url)
 
       response = Net::HTTP.get(uri)
       json = JSON.parse(response)
 
       if json.empty?
-        return nil
+        return Time.now
       end
 
       last_commit_date = json[0]['commit']['committer']['date']
