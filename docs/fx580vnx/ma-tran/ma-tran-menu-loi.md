@@ -18,7 +18,7 @@ Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran
 ### Các bước làm
 1. [Bấm chữ `an` trong chế độ số phức](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) hoặc [chế độ phép tính thường (MathI)](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường).
 2. Đặt trỏ trước `an`  nhấn ![⁄]{:height="20"}. Trên phần tử số, bấm dãy căn:  
-![<sup>88888888</sup>√<sup>88888888</sup>√<sup>88888888</sup>√88888888<sup>1</sup>](https://latex.codecogs.com/png.image?\inline%20\LARGE%20\dpi{110}\bg{black}\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}})  
+$$ \sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}} $$  
 Bấm xong thì đặt trỏ sau dãy căn.
 3. Bấm ![⁄]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 2 lần, rồi bấm ![1]{:height="20"} ~ ![4]{:height="20"}. Lặp lại bước này thêm 3 lần.
 4. ![=]{:height="20"} rồi bấm `6÷2` và ![=]{:height="20"} tiếp, máy sẽ hiện lỗi.

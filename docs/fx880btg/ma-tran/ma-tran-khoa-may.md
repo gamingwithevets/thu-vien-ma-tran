@@ -16,14 +16,14 @@ Trang này là tổng hợp các loại ma trận dùng để khóa máy Casio f
 ## Cách 1
 1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
 2. Bấm để ra `𝒙=an`. Bấm ![⁄]{:height="20"} sau `an`, rồi dưới phần mẫu số bấm dãy căn:  
-![<sup>88888888</sup>√<sup>88888888</sup>√<sup>88888888</sup>√88888888<sup>1</sup>](https://latex.codecogs.com/png.image?\inline%20\LARGE%20\dpi{110}\bg{black}\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}})  
+$$ \sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}} $$   
 Xong rồi thì đặt trỏ trước `an` trên phần tử số.
 3. Bấm `1234567890` 10 lần. Sau đó ![EXE]{:height="20"} \> Execute và đợi tầm 2-3 giây rồi bấm ![ON]{:height="20"} ![HOME]{:height="20"}.
 
 ## Cách 2
 1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
 2. Bấm để ra `an=𝒙` (`𝒙=an` không được nhé!) Bấm ![⁄]{:height="20"} trước `an`. Trên tử bấm:  
-![∫(3332366, 3332366, 3332366)](https://latex.codecogs.com/png.image?\inline%20\huge%20\dpi{110}\bg{black}%20\int_{3332366}^{3332366}3332366\textrm{d}x)  
+$$ \int_{3332366}^{3332366}3332366\textrm{d}x $$  
 Xong rồi, ở dưới mẫu, bấm để ra: 123456<sup>1234an</sup>
 3. Đặt trỏ trước phân số, bấm ![SHIFT]{:height="20"} ![⌫]{:height="20"} ![√]{:height="20"}
 4. ![EXE]{:height="20"} \> Execute, máy sẽ khởi động lại. Cuối cùng ![HOME]{:height="20"} ![ON]{:height="20"}

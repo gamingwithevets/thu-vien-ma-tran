@@ -6,6 +6,10 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 # gem "just-the-docs", "0.4.1" # pinned to the current release
 gem "just-the-docs"            # always download the latest release
 
-group :jekyll_plugins do
-  gem "jekyll-last-modified-at"
-end
+gem "tzinfo"
+gem "tzinfo-data"
+
+gem "jekyll-sass-converter", "<= 2.2.0" # no Dart Sass allowed!
+gem "sassc", "~> 2.4"
+
+gem "jekyll-last-modified-at"

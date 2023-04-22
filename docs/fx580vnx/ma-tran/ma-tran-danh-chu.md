@@ -172,8 +172,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | **E** | ʳ | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
 | 𝐹 | ᵍ | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
 | ₑ | **E** | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} | N/A |
-| <sub>J</sub> | 𝐏 | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} | N/A |
-| <sub>K</sub> | 𝐓 | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} | N/A |
+| ᴊ | 𝐏 | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} | N/A |
+| ᴋ | 𝐓 | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} | N/A |
 |  | 𝐆 | ![OPTN]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} | N/A |
 | <sub>u</sub> | 𝐌 | ![OPTN]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} | N/A |
 | ₉ | 𝐤 | ![OPTN]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} | N/A |
