@@ -1,3 +1,6 @@
+require 'net/http'
+require 'json'
+
 module Jekyll
   class LastModifiedDateTag < Liquid::Tag
     def render(context)
