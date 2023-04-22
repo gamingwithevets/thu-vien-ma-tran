@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  font-family: 'ClassWiz X Display';
+  font-family: 'ClassWiz X Display Unofficial';
   font-size: 13px;
   line-height: $body-line-height;
   color: $body-text-color;
@@ -27,7 +27,7 @@ body {
 }
 
 @font-face {
-  font-family: 'ClassWiz X Display';
+  font-family: 'ClassWiz X Display Unofficial';
   src: url('../fonts/cwxd.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
@@ -83,7 +83,7 @@ a:not([class]) {
 }
 
 code {
-  font-family: 'ClassWiz X Display';
+  font-family: 'ClassWiz X Display Unofficial';
   font-size: 13px;
   line-height: $body-line-height;
 }
