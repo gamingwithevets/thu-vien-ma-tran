@@ -24,20 +24,27 @@ module Jekyll
       url = "https://api.github.com/repos/#{repo_owner}/#{repo_name}/commits?path=#{path}&per_page=1"
       uri = URI(url)
 
+	  p "here comes request code"
 	  response = Net::HTTP.start(uri.hostname, uri.port, use_ssl: uri.scheme == 'https') do |http|
 		request = Net::HTTP::Get.new(uri)
 		request['authorization'] = "Bearer #{ENV['token']}"
 		http.request(request)
 	  end
-	  
+	
+	  p "passed request code!"
+	
       json = JSON.parse(response)
 	  
+	  p "checkign da rate limit..."
 	  begin
 	    if json['message'].start_with?("API rate limit exceeded for")
+		  p "shet we got rate limited"
 		  return Time.now
 		end
 	  rescue StandardError
 	  end
+
+	  p "passed rate limit check, cool!"
 
       if json.nil? || json.empty?
         return Time.now
