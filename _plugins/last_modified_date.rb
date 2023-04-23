@@ -30,7 +30,8 @@ module Jekyll
 		http.request(request)
 	  end
 	  
-	  puts response.body
+	  puts response.class
+	  puts response.content_type
       json = JSON.parse(response)
 	  
 	  begin
