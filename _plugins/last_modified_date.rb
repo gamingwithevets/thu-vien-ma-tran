@@ -30,9 +30,7 @@ module Jekyll
 		http.request(request)
 	  end
 	  
-	  puts response.class
-	  puts response.content_type
-      json = JSON.parse(response)
+      json = JSON.parse(response.body)
 	  
 	  begin
 	    if json['message'].start_with?("API rate limit exceeded for")
