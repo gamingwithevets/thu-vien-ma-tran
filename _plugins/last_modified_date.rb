@@ -1,5 +1,6 @@
-require 'net/http'
 require 'json'
+require 'net/http'
+require 'tzinfo'
 
 module Jekyll
   class LastModifiedDateTag < Liquid::Tag
@@ -13,8 +14,9 @@ module Jekyll
         page['last_modified_date'] = File.mtime(page['path'])
       end
 
-	  Time.zone = context.registers[:site].config['timezone']	
-      Time.zone.at(page['last_modified_date']).strftime(format_string)
+	  timezone = context.registers[:site].config['timezone']
+	  timezone_object = TZInfo::Timezone.get(timezone)
+	  timezone_object.utc_to_local(page['last_modified_date']).strftime(format_string)
     end
 
     def get_last_commit_date(path)
