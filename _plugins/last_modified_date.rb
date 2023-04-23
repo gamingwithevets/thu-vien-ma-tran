@@ -13,7 +13,8 @@ module Jekyll
         page['last_modified_date'] = File.mtime(page['path'])
       end
 
-      page['last_modified_date'].strftime(format_string)
+	  Time.zone = context.registers[:site].config['timezone']	
+      Time.zone.at(page['last_modified_date']).strftime(format_string)
     end
 
     def get_last_commit_date(path)
