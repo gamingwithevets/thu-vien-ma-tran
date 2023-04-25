@@ -5,7 +5,13 @@
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
-      processEnvironments: true
-    }
+      processEnvironments: true,
+	  TeX: { extensions: ['AMSmath.js', 'AMSsymbols.js', 'noErrors.js', 'noUndefined.js'] }
+    },
+	CommonHTML: { scale: 150 },
+    "HTML-CSS": { scale: 150 },
+    SVG: { scale: 150 },
+    messageStyle: "none",
+	"locale": "vi"
   });
 </script>
