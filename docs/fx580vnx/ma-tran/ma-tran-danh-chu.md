@@ -171,6 +171,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | 𝐏 | ° | ![OPTN]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | N/A |
 | 𝐄 | ʳ | ![OPTN]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} | N/A |
 | 𝐹 | ᵍ | ![OPTN]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} | N/A |
+| ₚ |  | ![°’”]{:height="20"} | N/A |
 | ₑ | 𝐄 | ![OPTN]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} | N/A |
 | ᴊ | 𝐏 | ![OPTN]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} | N/A |
 | ᴋ | 𝐓 | ![OPTN]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} | N/A |
@@ -190,7 +191,7 @@ Các công thức nhập ở dưới đều là loại B.
 | Kí tự | Kí tự trên màn hình | Công thức nhập | Lưu ý |
 |--|--|--|--|
 | Kí tự trắng | Kí tự lỗi | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | Kí tự lỗi (trước ma trận): Hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này.<br>Kí tự trắng (sau ma trận): Không được cho là kí tự, chuỗi kí tự sẽ hơi bị lỗi khi sử dụng. |
-| ⯇ |  (ô nhập/xuất) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, sau đó làm bước 10 nhưng đặt trỏ *trước* phần `nlbf`. Sau đó làm bước 11 như bình thường. |
+| ◀ |  (ô nhập/xuất) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, sau đó làm bước 10 nhưng đặt trỏ *trước* phần `nlbf`. Sau đó làm bước 11 như bình thường. |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |

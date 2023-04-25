@@ -24,7 +24,7 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 
 ### Các bước làm[^1]
 1. [Lấy CC (m▸n mile).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html#cách-bấm)
-2. ![←]{:height="20"}×2 rồi xóa phần `AAcm▸in` để ra `𝒙=@` rồi ![EXE]{:height="20"} \> Execute.
+2. ![︽]{:height="20"} để con trỏ đứng ở đầu rồi xóa phần `AAcm▸in` để ra `𝒙=@` rồi ![EXE]{:height="20"} \> Execute.
 3. Quay lại, **không di chuyển trỏ**. Bây giờ bấm `1234567890` **18 lần**, rồi bấm `123456`. Cuối cùng bấm ![⁄]{:height="20"} ![AC]{:height="20"}.
 
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
@@ -34,6 +34,7 @@ Ma trận phông (font) chữ nhỏ, như tên gọi, sẽ làm máy tính sử 
 [^1]: [Video ma trận phông chữ nhỏ trên giả lập Casio fx-880BTG. Nguồn: Baidu Tieba](https://tieba.baidu.com/p/8231299030)
 
 [←]: /thu-vien-ma-tran/images/fx880btg/left.png
+[︽]: /thu-vien-ma-tran/images/fx880btg/pageup.png
 [⁄]: /thu-vien-ma-tran/images/fx880btg/frac.png
 [AC]: /thu-vien-ma-tran/images/fx880btg/ac.png
 [EXE]: /thu-vien-ma-tran/images/fx880btg/exe.png

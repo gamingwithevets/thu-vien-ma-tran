@@ -16,13 +16,14 @@ Mode 68 (hay còn gọi là chế độ 68 hoặc chế độ lưu giữ công t
 
 1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
 2. Bấm để ra `an=𝒙` (`𝒙=an` không được nhé!) Bấm ![⁄]{:height="20"} trước `an`, trên tử bấm:  
-$$ \sqrt{\int_{11111}^{11111}\frac{11111}{11111}\textrm{d}x} $$  
+$$ \sqrt{\int_{11111}^{11111}\frac{11111}{11111}\text{d}x} $$  
 Xong rồi, ở dưới mẫu, bấm để ra: 123456<sup>1234an</sup>
 3. ![EXE]{:height="20"} \> Execute, máy sẽ khởi động lại. Cuối cùng ![HOME]{:height="20"} ![SETTINGS]{:height="20"} ![ON]{:height="20"}
 
 ## Lưu ý
 - Khi kích hoạt Mode 68, một số thứ sẽ bị lỗi nên nhớ chỉnh lại trong cài đặt.
 - Trong Mode 68, công thức sẽ luôn được lưu trữ cả khi đổi chế độ nhập/xuất. Vì vậy, nếu nhập kí tự MathI đặc biệt trong một phép tính rồi chuyển qua LineI, sẽ có kí tự `@` xuất hiện.<br>Đối với máy fx-880BTG, khi bấm hàm tích phân trong MathI rồi chuyển qua LineI và chỉ để kí tự `@` đầu tiên, để trỏ sau nó và bấm ![→]{:height="20"} sẽ để trỏ ở vị trí lỗi như trong bộ giải phương trình, nên có thể dễ dàng bấm kí tự đặc biệt.
+- Trong Mode 68, nút ![TOOLS]{:height="20"} sẽ không bấm được và trong menu ![CATALOG]{:height="20"} sẽ có một số thứ bị mất.
 
 ## Cách tắt
 Đây là 3 cách tắt Mode 68 (không tính cách tháo và lắp lại pin và chế độ DIAGNOSTIC):
@@ -38,6 +39,7 @@ Xong rồi, ở dưới mẫu, bấm để ra: 123456<sup>1234an</sup>
 [→]: /thu-vien-ma-tran/images/fx880btg/right.png
 [SHIFT]: /thu-vien-ma-tran/images/fx880btg/shift.png
 [CATALOG]: /thu-vien-ma-tran/images/fx880btg/catalog.png
+[TOOLS]: /thu-vien-ma-tran/images/fx880btg/tools.png
 [⁄]: /thu-vien-ma-tran/images/fx880btg/frac.png
 [⌫]: /thu-vien-ma-tran/images/fx880btg/del.png
 [AC]: /thu-vien-ma-tran/images/fx880btg/ac.png

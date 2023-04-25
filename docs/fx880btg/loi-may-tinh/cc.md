@@ -53,6 +53,7 @@ Các CC đặc biệt sử dụng các kí tự hằng số, hàm, v.v. Các CC 
 | CC | Kí tự | Cách bấm |
 |--|--|--|--|
 | 5 | h | ![CATALOG]{:height="20"} \> Sci Constants \> Universal \> h
+| @ | AtWt | ![CATALOG]{:height="20"} \> Atomic Table \> Atomic Weight
 
 [HOME]: /thu-vien-ma-tran/images/fx880btg/home.png
 [VARIABLE]: /thu-vien-ma-tran/images/fx880btg/variable.png
@@ -78,3 +79,5 @@ Các CC đặc biệt sử dụng các kí tự hằng số, hàm, v.v. Các CC 
 *[Pressure]: Áp suất
 *[Power]: Công suất
 *[Temperature]: Nhiệt độ
+*[Atomic Table]: Bảng Nguyên tử
+*[Atomic Weight]: Khối lượng ngtử

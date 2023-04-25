@@ -33,7 +33,8 @@ Dưới đây là một số loại của ma trận X80 được kích hoạt qu
 | Tên | Biểu thức | Cận trên | Cận dưới | Lưu ý |
 |--|--|--|--|--|--|
 | Chớp màn hình | `69` | `69` | `69` |
-| Ma trận rừng tre | `|−|` | `=` | `,` | Cần đợi tầm 2 giây để ma trận xuất hiện.
+| Ma trận rừng tre | $$ \lvert - \rvert  $$ | `=` | `,` | Cần đợi tầm 2 giây để ma trận xuất hiện.
+| Ma trận đám mây | `=` | $$ \lvert $$$$ \rvert $$ | `,` | Thay vì ![⌫]{:height="20"} ![AC]{:height="20"} thì mình cứ spam ![⌫]{:height="20"} cho đến khi ma trận hiện ra. Sau đó có thể spam ![⌫]{:height="20"} tiếp để nguyên dòng đầu tiên biến mất.
 
 [ON]: /thu-vien-ma-tran/images/fx880btg/on.png
 [HOME]: /thu-vien-ma-tran/images/fx880btg/home.png

@@ -9,14 +9,15 @@ module Jekyll
       format_string = context.registers[:site].config['last_edit_time_format']	
 
       if ENV['GITHUB_REPOSITORY']
-        page['last_modified_date'] = get_last_commit_date(page['path'])
+        time_utc = get_last_commit_date(page['path'])
+		timezone = context.registers[:site].config['timezone']
+		timezone_object = TZInfo::Timezone.get(timezone)
+		page['last_modified_date'] = timezone_object.utc_to_local(time_utc)
       else
         page['last_modified_date'] = File.mtime(page['path'])
       end
 
-	  timezone = context.registers[:site].config['timezone']
-	  timezone_object = TZInfo::Timezone.get(timezone)
-	  timezone_object.utc_to_local(page['last_modified_date']).strftime(format_string)
+	  page['last_modified_date'].strftime(format_string)
     end
 
     def get_last_commit_date(path)
