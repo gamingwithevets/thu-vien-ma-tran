@@ -49,9 +49,9 @@ CC chuyển đổi đơn vị sẽ là hai kí tự, kí tự thứ nhất sẽ 
 | `Space` | in▸cm | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | @ | m▸n mile | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
 | @ | kg▸lb | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
-| 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html)
+| 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html)
 | : | lbf/in<sup>2</sup>▸kPa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
-| $ | kPa▸lbf/in<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} |
+| $ | kPa▸lbf/in<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} | Dùng trong [ma trận khóa máy an toàn](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-khoa-may.html#khóa-máy-an-toàn)
 | `Lag` | hp▸kW | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | `Lag` | kW▸hp | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
 | ? | °C▸°F | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↑]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
