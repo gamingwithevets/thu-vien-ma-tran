@@ -23,8 +23,7 @@ Xong rồi thì đặt trỏ trước `an` trên phần tử số.
 ## Cách 2
 1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
 2. Bấm để ra `an=𝒙` (`𝒙=an` không được nhé!) Bấm ![⁄]{:height="20"} trước `an`. Trên tử bấm:  
-$$ \int_{3332366}^{3332366}3332366\text{d}x $$  
-Xong rồi, ở dưới mẫu, bấm để ra: 123456<sup>1234an</sup>
+$$ \frac{\int_{3332366}^{3332366}3332366\text{d}x}{123456^{1234\text{an}}} $$  
 3. Đặt trỏ trước phân số, bấm ![SHIFT]{:height="20"} ![⌫]{:height="20"} ![√]{:height="20"}
 4. ![EXE]{:height="20"} \> Execute, máy sẽ khởi động lại. Cuối cùng ![HOME]{:height="20"} ![ON]{:height="20"}
 

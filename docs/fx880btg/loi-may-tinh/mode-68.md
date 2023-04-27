@@ -16,8 +16,7 @@ Mode 68 (hay còn gọi là chế độ 68 hoặc chế độ lưu giữ công t
 
 1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
 2. Bấm để ra `an=𝒙` (`𝒙=an` không được nhé!) Bấm ![⁄]{:height="20"} trước `an`, trên tử bấm:  
-$$ \sqrt{\int_{11111}^{11111}\frac{11111}{11111}\text{d}x} $$  
-Xong rồi, ở dưới mẫu, bấm để ra: 123456<sup>1234an</sup>
+$$ \frac{\sqrt{\int_{11111}^{11111}\frac{11111}{11111}\text{d}x}}{123456^{1234{\text{an}}}} $$  
 3. ![EXE]{:height="20"} \> Execute, máy sẽ khởi động lại. Cuối cùng ![HOME]{:height="20"} ![SETTINGS]{:height="20"} ![ON]{:height="20"}
 
 ## Lưu ý

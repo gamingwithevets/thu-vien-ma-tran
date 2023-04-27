@@ -16,38 +16,58 @@ Ma trận menu lỗi, khi được kích hoạt và vào menu chọn chế độ
 ### Lưu ý
 Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-danh-chu.html), ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
 ### Các bước làm
-1. [Bấm chữ `an` trong chế độ số phức](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) hoặc [chế độ phép tính thường (MathI)](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường).
-2. Đặt trỏ trước `an`  nhấn ![⁄]{:height="20"}. Trên phần tử số, bấm dãy căn:  
-$$ \sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}} $$  
-Bấm xong thì đặt trỏ sau dãy căn.
-3. Bấm ![⁄]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 2 lần, rồi bấm ![1]{:height="20"} ~ ![4]{:height="20"}. Lặp lại bước này thêm 3 lần.
+1. Bấm chữ `an` trong [chế độ phép tính thường](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường) hoặc [chế độ số phức](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) (MathI).
+2. Bấm để ra:  
+$$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\text{an}}}}}} $$
 4. ![=]{:height="20"} rồi bấm `6÷2` và ![=]{:height="20"} tiếp, máy sẽ hiện lỗi.
 5. Quay lại rồi ![SHIFT]{:height="20"} ![9]{:height="20"} ![2]{:height="20"} ![=]{:height="20"}×2
 6. ![←]{:height="20"} ![(]{:height="20"}×10 ![=]{:height="20"} sẽ ra `Syntax ERROR` (máy đặt lại dữ liệu). Cuối cùng bấm ![AC]{:height="20"}, màn hình sẽ bị trắng.
 - Bây giờ mình có thể bấm ![MENU]{:height="20"} để xem kết quả. Bấm ![AC]{:height="20"} để thoát.
 - Mình có thể xem menu lỗi bất cứ khi nào mình muốn bằng cách bấm ![MENU]{:height="20"} cho đến khi bấm ![ON]{:height="20"} (máy đặt lại dữ liệu). Chọn một chế độ có thể tắt máy nhưng bật lên bình thường.
 
-## Bản nâng cấp
-Một bản nâng cấp của ma trận menu lỗi đã được tìm thấy và có nhiều chế độ lỗi hơn phiên bản thường.  
-Bản này khác ở chỗ là *(1)* phải dùng chế độ số phức, và *(2)* sau khi bấm dãy căn thì bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần trước `an` ở dưới mẫu số.  
-Tuy nhiên, bản này dễ bị đơ máy do máy hiển thị tên chế độ lỗi.
+## Các bản khác
+Dưới đây là một số bản khác của ma trận menu lỗi. Làm theo hướng dẫn menu lỗi thường nhưng nhớ làm theo các thay đổi có ghi ở mỗi bản.
 
+## Bản nâng cấp
+Một bản nâng cấp của ma trận menu lỗi đã được tìm thấy và có nhiều chế độ lỗi hơn phiên bản thường. Tuy nhiên, bản này dễ bị đơ máy do máy hiển thị tên chế độ lỗi.
 ![Ma trận menu lỗi bản nâng cấp](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-menu-loi-1.png)
 
-## Các bản khác
+Ở bước 2, bấm để ra:  
+$$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{[100{\text{an}]}} $$  
+(`[100an]`: bấm 1-9 và số 0 10 lần trước `an`)
 
 ### 8 menu + lỗi tên menu
-Công thức cho bản menu lỗi này chưa được rõ nên sẽ không ghi ở trang này cho đến khi thử được trên máy thật và chụp được hình trên giả lập.
+Bản này chưa làm được trên giả lập.
+
+- Ở bước 2 bấm để ra:  
+$$ \frac{\sqrt[1234567890]{\sum_{x=1234567890}^{1234567890}(1234567890)}}{\frac{123456789012345678901234}{\frac{12345678901234567890}{\frac{12345678901234567890}{\frac{123456789012345678901234567890}{\text{an}}}}}} $$
+- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
+
+### 16 menu
+Bản này chưa làm được trên giả lập.
+
+- **[QUAN TRỌNG]** Trước khi làm ma trận, bấm ![1]{:height="20"} ![=]{:height="20"}
+- Ở bước 2, bấm để ra:  
+$$ \sqrt[111111]{\frac{1111111111}{11111\text{Ans}}}^{\frac{1\text{an}}{111111111111\text{Ans}^1}} $$  
+(tip: bấm dấu `+` trước `an`, bấm phần căn, sau đó bỏ dấu `+` rồi bấm phần lũy thừa nhé!)
 
 ### Menu lỗi \"bất tử\"
 Menu lỗi \"bất tử\", như tên gọi, không thể tắt bằng cách bấm ![ON]{:height="20"}, tuy nhiên có thể đặt lại dữ liệu máy để tắt.
 
 - Ở bước 2, bấm lũy thừa căn:  
 $$  10^{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888}}}} $$
-- Ở bước 4, không bấm ![=]{:height="20"}, bỏ bước 5, bước 6 không bấm ![←]{:height="20"}.
+- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
 - **[QUAN TRỌNG]** Sau khi bấm ![AC]{:height="20"}, vào menu lỗi ít nhất một lần rồi thoát ra (bấm ![MENU]{:height="20"} ![AC]{:height="20"}).
 - Bấm ![SHIFT]{:height="20"} ![9]{:height="20"} ![2]{:height="20"} ![=]{:height="20"}×2, màn hình sẽ bị trắng do độ sáng/tối bị lỗi.
 - Chỉnh lại độ sáng/tối: ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![↑]{:height="20"} ![2]{:height="20"} rồi bấm ![←]{:height="20"} hoặc ![→]{:height="20"}
+
+### ???
+Bản này chưa làm được trên giả lập.
+
+- Ở bước 2, bấm:  
+$$ \frac{\sqrt[111111]{111111\frac{111111}{111111}^1}}{\frac{12345678911234567890}{\frac{12345678921234567890}{\frac{12345678931234567890}{1234567891234\text{an}}}}} $$  
+(lưu ý: phần $$ 111111\frac{111111}{111111} $$ là hỗn số)
+- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png

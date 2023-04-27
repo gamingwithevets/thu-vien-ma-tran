@@ -21,7 +21,7 @@ fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/ma-tran/ma-tran-fon
 
 ### Các bước làm
 1. [Lấy CC (m▸n mile).](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#chế-độ-nhập-mathi)
-2. ![←]{:height="20"}×2 rồi xóa phần `𝒙=AAcm▸in`, ![=]{:height="20"} rồi quay lại. Bấm ![AC]{:height="20"} ![←]{:height="20"} ![=]{:height="20"} và quay lại.
+2. ![←]{:height="20"}×2 rồi xóa phần `𝒙=AAcm▸in`, ![=]{:height="20"} rồi quay lại.
 3. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} **48 lần**. Cuối cùng ![⁄]{:height="20"} ![AC]{:height="20"}
 
 - Để bật phông chữ nhỏ cần chuyển qua một chế độ nhập LineI hoặc một chế độ có sử dụng chế độ nhập LineI.
