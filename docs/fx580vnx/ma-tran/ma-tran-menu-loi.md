@@ -34,7 +34,7 @@ Một bản nâng cấp của ma trận menu lỗi đã được tìm thấy và
 
 Ở bước 2, bấm để ra:  
 $$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{[100{\text{an}]}} $$  
-(`[100an]`: bấm 1-9 và số 0 10 lần trước `an`)
+(`[100an]`: bấm từ 1-9 và số 0 10 lần trước `an`)
 
 ### 8 menu + lỗi tên menu
 Bản này chưa làm được trên giả lập.
@@ -61,12 +61,23 @@ $$  10^{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888}}}} $$
 - Bấm ![SHIFT]{:height="20"} ![9]{:height="20"} ![2]{:height="20"} ![=]{:height="20"}×2, màn hình sẽ bị trắng do độ sáng/tối bị lỗi.
 - Chỉnh lại độ sáng/tối: ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![↑]{:height="20"} ![2]{:height="20"} rồi bấm ![←]{:height="20"} hoặc ![→]{:height="20"}
 
-### ???
+### ??? (1)
 Bản này chưa làm được trên giả lập.
 
 - Ở bước 2, bấm:  
 $$ \frac{\sqrt[111111]{111111\frac{111111}{111111}^1}}{\frac{12345678911234567890}{\frac{12345678921234567890}{\frac{12345678931234567890}{1234567891234\text{an}}}}} $$  
 (lưu ý: phần $$ 111111\frac{111111}{111111} $$ là hỗn số)
+- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
+
+### ??? (2)
+Bản này hoạt động trên giả lập nhưng chưa được test hoàn toàn.
+![Ma trận menu lỗi (??? 2)](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-menu-loi-2.png)
+
+- Ở bước 2, bấm:  
+$$ \frac{\int_{111111}^{111111}111111\frac{11111}{11111}\text{d}x}{\frac{\text{[50num]}}{\frac{\text{[50num]}}{\text{an}}}} $$  
+Trong đó:  
+Phần $$ 111111\frac{111111}{111111} $$ là hỗn số.  
+`[50num]`: từ 1-9 và số 0 5 lần.
 - Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png

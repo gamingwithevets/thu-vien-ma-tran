@@ -8,7 +8,7 @@ grand_parent: Casio fx-580VN X
 # Ma trận X80
 *Hoạt động trên máy: Casio fx-580VN X, Casio fx-880BTG*
 
-Ma trận X80 có thể nói là "demo" để ta có thể hình dung được là ma trận như thế nào. Ma trận này (hiện tại) là ma trận dễ nhất để làm trên những máy Casio fx-X80 (ở Việt Nam).
+Ma trận X80 có thể nói là \"demo\" để ta có thể hình dung được là ma trận như thế nào. Ma trận này (hiện tại) là ma trận dễ nhất để làm trên những máy Casio fx-X80 (ở Việt Nam).
 
 ## Hướng dẫn
 fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/ma-tran/ma-tran-x80.html#hướng-dẫn)

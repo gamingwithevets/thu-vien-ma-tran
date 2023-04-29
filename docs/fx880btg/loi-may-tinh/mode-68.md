@@ -15,8 +15,8 @@ Mode 68 (hay còn gọi là chế độ 68 hoặc chế độ lưu giữ công t
 [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/mode-68.html#cách-kích-hoạt)&nbsp; fx-880BTG
 
 1. [Bấm chữ `an` trong bộ giải phương trình (MathI).](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html#cách-bấm)
-2. Bấm để ra `an=𝒙` (`𝒙=an` không được nhé!) Bấm ![⁄]{:height="20"} trước `an`, trên tử bấm:  
-$$ \frac{\sqrt{\int_{11111}^{11111}\frac{11111}{11111}\text{d}x}}{123456^{1234{\text{an}}}} $$  
+2. Bấm để ra:  
+$$ \frac{\sqrt{\int_{11111}^{11111}\frac{11111}{11111}\text{d}x}}{123456^{1234{\text{an}}}}=x $$  
 3. ![EXE]{:height="20"} \> Execute, máy sẽ khởi động lại. Cuối cùng ![HOME]{:height="20"} ![SETTINGS]{:height="20"} ![ON]{:height="20"}
 
 ## Lưu ý
