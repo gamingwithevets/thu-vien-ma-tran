@@ -18,10 +18,9 @@ Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran
 ### Các bước làm
 1. Bấm chữ `an` trong [chế độ phép tính thường](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường) hoặc [chế độ số phức](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) (MathI).
 2. Bấm để ra:  
-$$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\text{an}}}}}} $$
-4. ![=]{:height="20"} rồi bấm `6÷2` và ![=]{:height="20"} tiếp, máy sẽ hiện lỗi.
-5. Quay lại rồi ![SHIFT]{:height="20"} ![9]{:height="20"} ![2]{:height="20"} ![=]{:height="20"}×2
-6. ![←]{:height="20"} ![(]{:height="20"}×10 ![=]{:height="20"} sẽ ra `Syntax ERROR` (máy đặt lại dữ liệu). Cuối cùng bấm ![AC]{:height="20"}, màn hình sẽ bị trắng.
+$$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\text{an}}}}}} $$  
+3. ![=]{:height="20"}
+4. Bấm `6÷2` và ![=]{:height="20"} tiếp, máy sẽ hiện lỗi. Quay lại rồi ![SHIFT]{:height="20"} ![9]{:height="20"} ![2]{:height="20"} ![=]{:height="20"}×2, sau đó bấm ![←]{:height="20"} ![(]{:height="20"}×10 ![=]{:height="20"} sẽ ra `Syntax ERROR` (máy đặt lại dữ liệu). Cuối cùng bấm ![AC]{:height="20"}, màn hình sẽ bị trắng.
 - Bây giờ mình có thể bấm ![MENU]{:height="20"} để xem kết quả. Bấm ![AC]{:height="20"} để thoát.
 - Mình có thể xem menu lỗi bất cứ khi nào mình muốn bằng cách bấm ![MENU]{:height="20"} cho đến khi bấm ![ON]{:height="20"} (máy đặt lại dữ liệu). Chọn một chế độ có thể tắt máy nhưng bật lên bình thường.
 
@@ -41,7 +40,7 @@ Bản này chưa làm được trên giả lập.
 
 - Ở bước 2 bấm để ra:  
 $$ \frac{\sqrt[1234567890]{\sum_{x=1234567890}^{1234567890}(1234567890)}}{\frac{123456789012345678901234}{\frac{12345678901234567890}{\frac{12345678901234567890}{\frac{123456789012345678901234567890}{\text{an}}}}}} $$
-- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
+- Ở bước 4, chỉ cần bấm `6÷2((((((((((` rồi ![=]{:height="20"} ![AC]{:height="20"}
 
 ### 16 menu
 Bản này chưa làm được trên giả lập.
@@ -56,7 +55,7 @@ Menu lỗi \"bất tử\", như tên gọi, không thể tắt bằng cách bấ
 
 - Ở bước 2, bấm lũy thừa căn:  
 $$  10^{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888}}}} $$
-- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
+- Ở bước 4, chỉ cần bấm `6÷2((((((((((` rồi ![=]{:height="20"} ![AC]{:height="20"}
 - **[QUAN TRỌNG]** Sau khi bấm ![AC]{:height="20"}, vào menu lỗi ít nhất một lần rồi thoát ra (bấm ![MENU]{:height="20"} ![AC]{:height="20"}).
 - Bấm ![SHIFT]{:height="20"} ![9]{:height="20"} ![2]{:height="20"} ![=]{:height="20"}×2, màn hình sẽ bị trắng do độ sáng/tối bị lỗi.
 - Chỉnh lại độ sáng/tối: ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![↑]{:height="20"} ![2]{:height="20"} rồi bấm ![←]{:height="20"} hoặc ![→]{:height="20"}
@@ -67,10 +66,8 @@ Bản này chưa làm được trên giả lập.
 - Ở bước 2, bấm:  
 $$ \frac{\sqrt[111111]{111111\frac{111111}{111111}^1}}{\frac{12345678911234567890}{\frac{12345678921234567890}{\frac{12345678931234567890}{1234567891234\text{an}}}}} $$  
 (lưu ý: phần $$ 111111\frac{111111}{111111} $$ là hỗn số)
-- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
-
+- Ở bước 4, chỉ cần bấm `6÷2((((((((((` rồi ![=]{:height="20"} ![AC]{:height="20"}
 ### ??? (2)
-Bản này hoạt động trên giả lập nhưng chưa được test hoàn toàn.
 ![Ma trận menu lỗi (??? 2)](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-menu-loi-2.png)
 
 - Ở bước 2, bấm:  
@@ -78,7 +75,16 @@ $$ \frac{\int_{111111}^{111111}111111\frac{11111}{11111}\text{d}x}{\frac{\text{[
 Trong đó:  
 Phần $$ 111111\frac{111111}{111111} $$ là hỗn số.  
 `[50num]`: từ 1-9 và số 0 5 lần.
-- Ở bước 3, không bấm ![=]{:height="20"}, bỏ bước 4, bước 5 không bấm ![←]{:height="20"}.
+- Ở bước 4, chỉ cần bấm `6÷2((((((((((` rồi ![=]{:height="20"} ![AC]{:height="20"}
+
+### ??? (3)
+![Ma trận menu lỗi (??? 3)](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-menu-loi-3.png)
+
+- Ở bước 2, bấm:  
+$$ 1 \div 1\left(\right(\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{1}}}}}}}}}}}}:\frac{123456789012345}{\frac{123456789012345}{\text{an}}} $$  
+(lưu ý: dãy căn là 12 căn rồi số 1 nhé)
+- Ở bước 3 bấm ![CALC]{:height="20"} ![=]{:height="20"}
+- Ở bước 4, chỉ cần bấm `6÷2((((((((((` rồi ![=]{:height="20"} ![AC]{:height="20"}
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png
@@ -86,6 +92,7 @@ Phần $$ 111111\frac{111111}{111111} $$ là hỗn số.
 [↑]: /thu-vien-ma-tran/images/fx580vnx/dpad_up.png
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
+[CALC]: /thu-vien-ma-tran/images/fx580vnx/calc.png
 [⁄]: /thu-vien-ma-tran/images/fx580vnx/frac.png
 [(-)]: /thu-vien-ma-tran/images/fx580vnx/negat.png
 [(]: /thu-vien-ma-tran/images/fx580vnx/paren_open.png

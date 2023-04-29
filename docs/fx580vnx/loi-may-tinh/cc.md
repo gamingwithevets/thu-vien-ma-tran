@@ -13,22 +13,30 @@ Các CC không thể làm được trên các máy fx-ES, fx-MS và các máy PL
 ## Cách bấm
 fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html#cách-bấm)
 
-Trên fx-580VN X, có thể bấm CC trên chế độ phép tính thường với chế độ nhập MathI hoặc LineI.
+Trên fx-580VN X, có thể bấm CC trên chế độ phép tính thường với chế độ nhập MathI hoặc LineI, cũng như chế độ số phức.
 
-### Chế độ nhập MathI
+### Chế độ phép tính thường (MathI)
 1. Bấm `𝒙=AAcm▸in` (để bấm cm▸in: ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"})
 2. Giải theo biến 𝒙 với 𝒙=0 và A=999.
 3. Quay lại và **không di chuyển trỏ**, bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![←]{:height="20"}×6
 
 Bây giờ bấm CC tùy ý theo danh sách dưới.
 
-### Chế độ nhập LineI
+### Chế độ phép tính thường (LineI)
 1. ![SHIFT]{:height="20"} ![MENU]{:height="20"} ![1]{:height="20"} và chọn 1 trong 2 chế độ LineI.
 2. Bấm phương trình `𝒙=∑(𝒙,1,19`. ![CALC]{:height="20"} với 𝒙=0 rồi ngắt ![AC]{:height="20"}
 3. Quay lại và xóa phần `9`. ![CALC]{:height="20"} với 𝒙=0 một lần nữa rồi quay lại.
 4. Bấm ![SHIFT]{:height="20"} ![.]{:height="20"} 2 lần rồi ![←]{:height="20"}×2 ![DEL]{:height="20"} ![↓]{:height="20"}
 
 Bây giờ bấm CC tùy ý theo danh sách dưới.
+
+### Chế độ số phức
+1. Bấm `1÷1((` rồi bấm ![√]{:height="20"} đến khi hết bấm được. Bấm `1` vào ô trống. Di chuyển trỏ sau dãy căn, bấm dấu `:`. Bấm ![√]{:height="20"} lần nữa, **không điền gì vào ô trống**! Bấm ![CALC]{:height="20"} ![=]{:height="20"}, sẽ ra lỗi.
+2. Quay lại và ![DEL]{:height="20"} hết mọi thứ đứng trước ô trống (không di chuyển trỏ). Bấm ![→]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}.
+3. Bấm 2 chữ số bất kỳ rồi ![SHIFT]{:height="20"} ![.]{:height="20"}, bấm thêm 2 chữ số bất kỳ nữa rồi bấm ![√]{:height="20"}
+4. ![DEL]{:height="20"} ![←]{:height="20"}×3 ![DEL]{:height="20"}×3 ![←]{:height="20"}×2
+5. Bấm kí tự để ra CC, rồi trong ô trống bấm kí tự bất kì rồi xoá đi.  
+Tuy nhiên nhớ cẩn thận tí với CC chuyển đổi đơn vị nhé, tại khi xoá kí tự đứng trước kí tự đặc biệt thì sẽ ra *Weird Symbol* chứ không còn là CC.
 
 ### Danh sách các CC
 Chú thích kí tự đặc biệt:
