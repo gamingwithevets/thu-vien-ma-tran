@@ -45,11 +45,9 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 
 *(các kí tự được săp xếp theo thứ tự xuất hiện trong bộ nhớ chỉ đọc của máy)*
 
-*Lưu ý: Các kí tự này là [CC](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html), trên trang CC sẽ được cập nhật sau.*
-
 | Kí tự | Kí tự trên màn hình | Công thức nhập A | Công thức nhập B |
 |--|--|--|--|
-| 𝒙 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| 𝒙 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} (?) |
 | 𝒚 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
 | 𝒛 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝒙⁻¹]{:height="20"} |
 | … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |

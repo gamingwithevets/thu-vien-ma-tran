@@ -17,7 +17,7 @@ Trang này là tổng hợp các loại ma trận dùng để khóa máy Casio f
 Để hồi phục từ ma trận này phải đặt lại dữ liệu máy nhé!
 
 ### Cách làm
-1. Lấy kí tự `$` ([CC kPa▸lbf/in<sup>2</sup>](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#cc-chuyển-đổi-đơn-vị)) trong chế độ phép tính thường (MathI).
+1. Lấy kí tự `$` ([CC kPa▸lbf/in²](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#cc-chuyển-đổi-đơn-vị)) trong chế độ phép tính thường (MathI).
 2. Bấm ![→]{:height="20"} để trỏ đứng trước phần `𝒙=AAcm⯈in` rồi xóa nó, để lại phần `nlbf$`.
 6. Để trỏ trước dấu `$` rồi ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} một lần nữa, sau đó ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} để biến ra thêm một dấu `$`.
 7. Xóa cụm `nlbf` và bấm ![⁄]{:height="20"} giữa hai dấu `$`.

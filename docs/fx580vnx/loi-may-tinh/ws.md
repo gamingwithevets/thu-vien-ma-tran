@@ -12,7 +12,7 @@ Các máy fx-ES, fx-MS và các máy PLUS có các *Weird Symbol* riêng.
 ## Cách bấm
 fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ws.html#cách-bấm)
 
-1. [Lấy CC chuyển đổi đơn vị bất kì (trừ `Lag` CC)](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#cc-chuyển-đổi-đơn-vị)
+1. [Lấy CC chuyển đổi đơn vị bất kì.](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#cc-chuyển-đổi-đơn-vị) (nếu dùng chế độ MathI thì tránh các `Lag` CC)
 2. Để trỏ sau CC, bấm ![←]{:height="20"}×2 ![→]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"}
 
 ### Bảng các Weird Symbol

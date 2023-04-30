@@ -30,19 +30,20 @@ Bây giờ bấm CC tùy ý theo danh sách dưới.
 
 Bây giờ bấm CC tùy ý theo danh sách dưới.
 
-### Chế độ số phức
+### Chế độ phép tính thường cách 2/số phức (MathI)
 1. Bấm `1÷1((` rồi bấm ![√]{:height="20"} đến khi hết bấm được. Bấm `1` vào ô trống. Di chuyển trỏ sau dãy căn, bấm dấu `:`. Bấm ![√]{:height="20"} lần nữa, **không điền gì vào ô trống**! Bấm ![CALC]{:height="20"} ![=]{:height="20"}, sẽ ra lỗi.
 2. Quay lại và ![DEL]{:height="20"} hết mọi thứ đứng trước ô trống (không di chuyển trỏ). Bấm ![→]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}.
 3. Bấm 2 chữ số bất kỳ rồi ![SHIFT]{:height="20"} ![.]{:height="20"}, bấm thêm 2 chữ số bất kỳ nữa rồi bấm ![√]{:height="20"}
 4. ![DEL]{:height="20"} ![←]{:height="20"}×3 ![DEL]{:height="20"}×3 ![←]{:height="20"}×2
 5. Bấm kí tự để ra CC, rồi trong ô trống bấm kí tự bất kì rồi xoá đi.  
-Tuy nhiên nhớ cẩn thận tí với CC chuyển đổi đơn vị nhé, tại khi xoá kí tự đứng trước kí tự đặc biệt thì sẽ ra *Weird Symbol* chứ không còn là CC.
+Tuy nhiên nhớ cẩn thận tí với CC chuyển đổi đơn vị nhé, tại khi xoá kí tự đứng trước kí tự đặc biệt thì sẽ ra *Weird Symbol* chứ không còn là CC.  
+Nếu bấm được luôn kí tự của CC (hiện tại chỉ có kí tự 𝒊 mới làm được như vậy) thì sẽ ra luôn *Weird Symbol*.
 
 ### Danh sách các CC
 Chú thích kí tự đặc biệt:
 - `Space`: Dấu cách
 - `Ins`: Kí tự tàng hình
-- `Lag`: Đơ máy
+- `Lag`: Đơ máy (MathI)
 
 Lưu ý: Các CC sử dụng kí tự MathI đặc biệt luôn đơ máy nên sẽ không ghi vào danh sách này.
 
@@ -50,18 +51,52 @@ Lưu ý: Các CC sử dụng kí tự MathI đặc biệt luôn đơ máy nên s
 CC chuyển đổi đơn vị, như tên gọi, sử dụng các kí tự chuyển đổi đơn vị để tạo ra nó. Các CC này có thể đổi thành *Weird Symbol*.
 
 ##### Hình dạng
-CC chuyển đổi đơn vị sẽ là hai kí tự, kí tự thứ nhất sẽ luôn là `nlbf`. Kí tự thứ 2 là kí tự thật của CC. Có thể bỏ kí tự `nlbf` để biến CC thành kí tự bình thường.
+CC chuyển đổi đơn vị sẽ là hai kí tự, kí tự thứ nhất sẽ luôn là `nlbf`. Kí tự thứ 2 là kí tự thật của CC. Có thể bỏ kí tự `nlbf` để biến CC thành kí tự bình thường.  
+Lưu ý là giả lập chính thức của Casio sẽ hiển thị kí tự thứ nhất là `▸N▸lbfkgf▸N▸`.
+
+(lưu ý: do mới copy từ trang [ma trận đánh chữ](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-danh-chu.html) nên chưa ghi các `Lag` CC)
 
 | CC | Kí tự | Cách bấm | Lưu ý |
 |--|--|--|--|
 | `Space` | in▸cm | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
-| @ | m▸n mile | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} |
-| @ | kg▸lb | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
-| 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html)
-| : | lbf/in<sup>2</sup>▸kPa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
-| $ | kPa▸lbf/in<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} | Dùng trong [ma trận khóa máy an toàn](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-khoa-may.html#khóa-máy-an-toàn)
-| `Lag` | hp▸kW | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
-| `Lag` | kW▸hp | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| @ | cm▸in | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| @ | ft▸m | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| @ | m▸ft | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| @ | yd▸m | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
+| @ | m▸yd | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
+| @ | mile▸km | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
+| @ | km▸mile | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
+| @ | n mile▸m | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
+| @ | m▸n mile | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![(-)]{:height="20"} | Dùng để bật [phông chữ nhỏ](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-font-chu-nho.html)
+| @ | pc▸km | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
+| @ | km▸pc | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝒙⁻¹]{:height="20"} |
+| @ | acre▸m² | ![SHIFT]{:height="20"} ![8]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
+| @ | m²▸acre | ![SHIFT]{:height="20"} ![8]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| @ | gal(US)▸L | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| @ | L▸gal(US) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| @ | gal(UK)▸L | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| @ | L▸gal(UK) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| @ | oz▸g | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| @ | g▸oz | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| @ | lb▸kg | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
+| @ | kg▸lb | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} | Dùng trong đa số [ma trận X80](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-x80.html)
+| @ | km/h▸m/s | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| @ | m/s▸km/h | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+|  (ô nhập/xuất) | atm▸Pa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
+| @ | Pa▸atm | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| @ | mmHg▸Pa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
+| @ | Pa▸mmHg | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
+| @ | kgf/cm²▸Pa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
+| 𝒊 | Pa▸kgf/cm² | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html)
+| : | lbf/in²▸kPa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
+| $ | kPa▸lbf/in² | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![8]{:height="20"} | Dùng trong [ma trận khóa máy an toàn](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-khoa-may.html#khóa-máy-an-toàn)
+| 𝒆 | kgf⋅m▸J | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| 𝜋 | J▸kgf⋅m | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| @ | J▸cal | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| @ | cal▸J | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| @ (`Lag`) | hp▸kW | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| @ (`Lag`) | kW▸hp | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| @ | °F▸°C | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↑]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | ? | °C▸°F | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↑]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 
 #### CC đặc biệt
@@ -74,6 +109,52 @@ Con trỏ hơi bị lỗi khi di chuyển qua CC đặc biệt.
 | CC | Kí tự | Cách bấm |
 |--|--|--|--|
 | 5 | h | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| 8 | ℏ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| 𝒛 | c₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| @ | 𝜀₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| ∑( | 𝜇₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![5]{:height="20"} |
+| @ | Z₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![6]{:height="20"} |
+| @ | G | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![7]{:height="20"} |
+| Min( | lᴘ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![8]{:height="20"} |
+| Max( | tᴘ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![1]{:height="20"} ![9]{:height="20"} |
+| 6 | 𝜇ɴ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
+| 7 | 𝜇ʙ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| E | e | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
+| ∫( | 𝜙₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
+| ∏( | G₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
+| Mean( | Kᴊ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} |
+| Sum( | Rᴋ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
+| 0 | mₚ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
+| 1 | mₙ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
+| 2 | mₑ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| 3 | m | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
+| 4 | a₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} |
+| 9 | 𝛼 | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![6]{:height="20"} |
+|  | rₑ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![7]{:height="20"} |
+|  | 𝜆ᴄ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![8]{:height="20"} |
+|  | 𝛾ₚ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![9]{:height="20"} |
+|  | 𝜆ᴄₚ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} |
+|  | 𝜆ᴄₙ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![°’”]{:height="20"} |
+|  | R | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝒙⁻¹]{:height="20"} |
+| Ans | 𝜇ₚ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![sin]{:height="20"} |
+| A | 𝜇ₑ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![cos]{:height="20"} |
+| B | 𝜇ₙ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![tan]{:height="20"} |
+| C | 𝜇 | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![M+]{:height="20"} |
+| @ | m | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝒙]{:height="20"} |
+| M | u | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
+| D | 𝐹 | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
+| F | Nᴀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
+| 𝒙 | k | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
+| 𝒚 | Vₘ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![5]{:height="20"} |
+| PreAns | R | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![6]{:height="20"} |
+| 𝜃 | c₁ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![7]{:height="20"} |
+| @ | c₂ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"} |
+| @ | 𝜎 | ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![9]{:height="20"} |
+| d/dx( | g | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
+| @ | atm | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
+| @ | Rᴋ₋₉₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
+| @ | Kᴊ₋₉₀ | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| @ | t | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
