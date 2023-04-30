@@ -9,5 +9,5 @@ _site/
 .bundle/
 vendor/
 
-# Ignore the serve batch script (don't mind my laziness)
-serve.bat
+# Ignore batch scripts (don't mind my laziness)
+*.bat

@@ -86,12 +86,22 @@ $$ 1 \div 1\left(\right(\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\s
 - Ở bước 3 bấm ![CALC]{:height="20"} ![=]{:height="20"}
 - Ở bước 4, chỉ cần bấm `6÷2((((((((((` rồi ![=]{:height="20"} ![AC]{:height="20"}
 
+Để ra màn hình như trong hình, sau khi vào menu lỗi bấm ![↓]{:height="20"}
+
+### ??? (4)
+Bản này chưa làm được trên giả lập.
+
+- Ở bước 2, bấm:  
+$$ \frac{1\text{an}}{111111111111\text{Ans}^2} $$
+- Ở bước 4, chỉ cần bấm `6÷2((((((((((` rồi ![=]{:height="20"} ![AC]{:height="20"}
+
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [MENU]: /thu-vien-ma-tran/images/fx580vnx/menu.png
 [ON]: /thu-vien-ma-tran/images/fx580vnx/on.png
 [↑]: /thu-vien-ma-tran/images/fx580vnx/dpad_up.png
 [←]: /thu-vien-ma-tran/images/fx580vnx/dpad_left.png
 [→]: /thu-vien-ma-tran/images/fx580vnx/dpad_right.png
+[↓]: /thu-vien-ma-tran/images/fx580vnx/dpad_down.png
 [CALC]: /thu-vien-ma-tran/images/fx580vnx/calc.png
 [⁄]: /thu-vien-ma-tran/images/fx580vnx/frac.png
 [(-)]: /thu-vien-ma-tran/images/fx580vnx/negat.png
