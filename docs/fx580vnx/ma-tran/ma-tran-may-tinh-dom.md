@@ -34,7 +34,7 @@ $$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{\frac{[\
 1. Bấm chữ `an` trong [chế độ phép tính thường](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường) hoặc [chế độ số phức](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) (MathI).
 2. Bấm để ra:  
 $$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{\frac{\text{[45num]}}{\frac{\text{[45num]}}{\text{an}}}} $$  
-(`[100num]`: từ 1-9 và số 0 4 lần, rồi `12345`)
+(`[45num]`: từ 1-9 và số 0 4 lần, rồi `12345`)
 3. ![=]{:height="20"}
 
 [=]: /thu-vien-ma-tran/images/fx580vnx/exec.png
