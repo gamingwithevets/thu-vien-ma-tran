@@ -17,10 +17,11 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 ### Lưu ý
 - Ma trận mất khoảng từ 5-10 phút để làm.
 - Ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
-- Chuỗi kí tự phải có đúng **17 kí tự** (tính cả dấu cách), không được lớn hơn hay nhỏ hơn (nếu nhỏ hơn thì phải để dấu cách ở chỗ trống)
-- Ma trận có thể sẽ không đặt lại dữ liệu (nếu làm đúng hết các bước). Vì ma trận cần chế độ LineI nên bạn nhớ vào cài đặt chỉnh lại (hoặc chỉ cần ![SHIFT]{:height="20"} ![9]{:height="20"} ![1]{:height="20"} ![=]{:height="20"} ![=]{:height="20"} là xong).
+- Chuỗi kí tự phải có đúng **17 kí tự** (tính cả dấu cách), không được lớn hơn hay nhỏ hơn.
 - Nếu chuỗi kí tự không dùng biến (không bấm kí tự @; B-I; K), nó sẽ xuất hiện ngay sau khi bấm ![CALC]{:height="20"} ở bước cuối cùng, đè lên phần màn hình trước khi bấm ![CALC]{:height="20"}:  
 ![Ma trận đánh chữ với chuỗi kí tự không biến](/thu-vien-ma-tran/images/fx580vnx/thumb/ma-tran-danh-chu-1.png)
+- - Trong trường hợp này, ma trận sẽ đặt lại dữ liệu.
+- Vì ma trận cần chế độ LineI nên bạn nhớ vào cài đặt chỉnh lại hoặc đặt lại dữ liệu.
 
 ### Các bước làm
 1. [Bấm kí tự `an` trong chế độ phép tính thường với chế độ nhập LineI.](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường)
@@ -32,8 +33,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 7. Bấm dấu `:` (![ALPHA]{:height="20"} ![∫]{:height="20"}) giữa `𝒙` và `@`, rồi sau dấu `@` bấm `=1.0000`. Bấm `623` trước chữ `` đứng cuối rồi `23` đằng sau nó.
 8. ![CALC]{:height="20"} với 𝒙 = 0 nhưng **không bấm quay lại**! Bấm ![=]{:height="20"} ![↑]{:height="20"} để ra chuỗi kí tự `n▸N▸dynlbfQ(`
 9. Đặt trỏ trước chữ Q (![←]{:height="20"} ít nhất 4 lần rồi ![→]{:height="20"}) rồi bấm **từ cuối đến đầu** chuỗi kí tự của mình theo [bảng kí tự](#b%E1%BA%A3ng-k%C3%AD-t%E1%BB%B1) ở dưới.
-10. Đặt trỏ sau phần `nlbf` rồi bấm ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"}×2 ![DEL]{:height="20"}×2
-11. Đặt trỏ trước phần `Q(` và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần <code>Q(<b>F</b></code> và bấm số ![2]{:height="20"}. Cuối cùng bấm ![CALC]{:height="20"}. Nếu bạn chưa thấy ma trận, bấm ![=]{:height="20"} để kích hoạt ma trận.
+10. Đặt trỏ trước phần `nlbf` hoặc `n▸N▸dynlbf` rồi bấm ![SHIFT]{:height="20"} ![.]{:height="20"} ![DEL]{:height="20"}×2
+11. Đặt trỏ trước phần `Q(` và bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"}, rồi bấm ![1]{:height="20"} ~ ![7]{:height="20"}. Di chuyển trỏ về sau phần `Q(` và bấm số ![2]{:height="20"}. Cuối cùng bấm ![CALC]{:height="20"}. Nếu bạn chưa thấy ma trận, bấm ![=]{:height="20"} để kích hoạt ma trận.
 
 * Bấm ![ON]{:height="20"} để tắt ma trận
 
@@ -43,11 +44,13 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 - Đối với công thức nhập A (trừ dấu $): ![←]{:height="20"}×2 ![→]{:height="20"}
 - Đối với công thức nhập B (và công thức nhập A cho dấu $): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 
+Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí tự ở hàng đó hiện không bấm được.
+
 *(các kí tự được săp xếp theo thứ tự xuất hiện trong bộ nhớ chỉ đọc của máy)*
 
 | Kí tự | Kí tự trên màn hình | Công thức nhập A | Công thức nhập B |
 |--|--|--|--|
-| 𝒙 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} (?) |
+| 𝒙 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
 | 𝒚 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![°’”]{:height="20"} |
 | 𝒛 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![𝒙⁻¹]{:height="20"} |
 | … | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
@@ -71,9 +74,13 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | ÷ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↑]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | \' | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} |
 | ( | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
+| ) | @ | N/A | N/A |
+| \* | @ | N/A | N/A |
+| + | @ | N/A | N/A |
 | , | , | ![SHIFT]{:height="20"} ![)]{:height="20"} | N/A |
 | - |  | ![×10ˣ]{:height="20"} | N/A |
 | . | . | ![.]{:height="20"} | N/A |
+| / | @ | N/A | N/A |
 | 0 | 0 | ![0]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![1]{:height="20"} |
 | 1 | 1 | ![1]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![2]{:height="20"} |
 | 2 | 2 | ![2]{:height="20"} | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} |
@@ -121,9 +128,19 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 |  | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝒙]{:height="20"} |
 | ] | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | ^ | @ | N/A | ![SHIFT]{:height="20"} ![7]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |
+| _ | @ | N/A | N/A |
 | −	| ( | ![(]{:height="20"} | N/A |
+| a | P( | N/A | N/A |
+| b | Q( | N/A | N/A |
+| c | R( | N/A | N/A |
+| d | Not( | N/A | N/A |
+| e | Neg( | N/A | N/A |
+| f | Conjg( | N/A | N/A |
+| g | Arg( | N/A | N/A |
 | h | Abs( | ![SHIFT]{:height="20"} ![(]{:height="20"} | N/A |
 | i | Rnd( | ![SHIFT]{:height="20"} ![0]{:height="20"} | N/A |
+| j | Det( | N/A | N/A |
+| k | Trn( | N/A | N/A |
 | l | sinh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | N/A |
 | m | cosh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} | N/A |
 | n | tanh( | ![OPTN]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} | N/A |
@@ -144,24 +161,90 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | } | log( | ![log]{:height="20"} | N/A |
 | ~ | Pol( | ![SHIFT]{:height="20"} ![+]{:height="20"} | N/A |
 |  | Rec( | ![SHIFT]{:height="20"} ![−]{:height="20"} | N/A |
+| 𝒊 | @( | N/A | N/A |
+| 𝒆 | @( | N/A | N/A |
+|  | @( | N/A | N/A |
 |  | Int( | ![ALPHA]{:height="20"} ![+]{:height="20"} | N/A |
 |  | Intg( | ![ALPHA]{:height="20"} ![−]{:height="20"} | N/A |
+| ° | Ref( | N/A | N/A |
+| ʳ | Rref( | N/A | N/A |
 | ᵍ | RanInt#( | ![ALPHA]{:height="20"} ![.]{:height="20"} | N/A |
 | ∠ | GCD( | ![ALPHA]{:height="20"} ![×]{:height="20"} | N/A |
 |  | LCM( | ![ALPHA]{:height="20"} ![÷]{:height="20"} | N/A |
+|  | RndFix( | N/A | N/A |
+|  | @ | N/A | N/A |
+|  | @ | N/A | N/A |
+| → | @ | N/A | N/A |
+| ∏ | @ | N/A | N/A |
+| ⇒ | ReP( | N/A | N/A |
+|  | ImP( | N/A | N/A |
+|  | Identity( | N/A | N/A |
+|  | UnitV( | N/A | N/A |
+|  | Angle( | N/A | N/A |
+| ≤ | @ | N/A | N/A |
+| ≠ | @ | N/A | N/A |
+| ≥ | @ | N/A | N/A |
+| ⇩ | @ | N/A | N/A |
+| √ | @ | N/A | N/A |
+| ∫ | @ | N/A | N/A |
+| ᴀ | @ | N/A | N/A |
+| ʙ | @ | N/A | N/A |
+| ᴄ | @ | N/A | N/A |
+| ₙ | @ | N/A | N/A |
+| ▶ | @ | N/A | N/A |
+| ⁰ | or | N/A | N/A |
+| ¹ | xor | N/A | N/A |
+| ² | xnor | N/A | N/A |
+| ³ | and | N/A | N/A |
+| ⁴ | @ | N/A | N/A |
 | ⁵ | = | ![ALPHA]{:height="20"} ![CALC]{:height="20"} | N/A |
 | ⁶ | + | ![+]{:height="20"} | N/A |
 | ⁷ | − | ![−]{:height="20"} | N/A |
 | ⁸ | × | ![×]{:height="20"} | N/A |
 | ⁹ | ÷ | ![÷]{:height="20"} | N/A |
 |  | ÷R | ![ALPHA]{:height="20"} ![⁄]{:height="20"} | N/A |
+|  | \* | N/A | N/A |
+|  | ∠ | N/A | N/A |
 | ₍ |  | ![SHIFT]{:height="20"} ![×]{:height="20"} | N/A |
 | ₎ |  | ![SHIFT]{:height="20"} ![÷]{:height="20"} | N/A |
+|  | @ | N/A | N/A |
+| ₀ | @ | N/A | N/A |
+| ₁ | @ | N/A | N/A |
+| ₂ | @ | N/A | N/A |
+|  | @ | N/A | N/A |
+| ꜰ | @ | N/A | N/A |
+| ɴ | @ | N/A | N/A |
+| ᴘ | @ | N/A | N/A |
+|  | @ | N/A | N/A |
+|  |  | N/A | N/A |
+|  |  | N/A | N/A |
+|  | ₁ | N/A | N/A |
+|  | ₂ | N/A | N/A |
+|  | @ | N/A | N/A |
+|  | @ | N/A | N/A |
+|  | @ | N/A | N/A |
+| ▷ | @ | N/A | N/A |
 | ∑ | - | ![(-)]{:height="20"} | N/A |
+| 𝛼 | b | N/A | N/A |
+| 𝛾 | o | N/A | N/A |
+| 𝜀 | d | N/A | N/A |
+| 𝜃 | h | N/A | N/A |
+| 𝜆 | @ | N/A | N/A |
+| 𝜇 | @ | N/A | N/A |
+| 𝜋 | @ | N/A | N/A |
 | 𝜎 |  | ![⁄]{:height="20"} | N/A |
 | 𝜙 | ^( | ![𝒙^]{:height="20"} | N/A |
 | ℓ | √( | ![SHIFT]{:height="20"} ![𝒙^]{:height="20"} | N/A |
+| ℏ | @ | N/A | N/A |
+|  | @ | N/A | N/A |
+|  | @ | N/A | N/A |
+| ₃ | @ | N/A | N/A |
+|  | @ | N/A | N/A |
 | 𝐟 | ) | ![)]{:height="20"} | N/A |
+| 𝐩 | ▸t | N/A | N/A |
+| 𝐧 | ▸a+b𝒊 | N/A | N/A |
+| 𝝁 | ▸r∠𝜃 | N/A | N/A |
+| 𝐦 |  | ![𝒙⁻¹]{:height="20"} | N/A |
 | 𝐤 | ² | ![𝒙²]{:height="20"} | N/A |
 | 𝐌 | ³ | ![SHIFT]{:height="20"} ![𝒙²]{:height="20"} | N/A |
 | 𝐆 | % | ![SHIFT]{:height="20"} ![Ans]{:height="20"} | N/A |
@@ -181,6 +264,10 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 | ɪ | 𝐧 | ![OPTN]{:height="20"} ![3]{:height="20"} ![3]{:height="20"} | N/A |
 | ₄ | 𝐩 | ![OPTN]{:height="20"} ![3]{:height="20"} ![4]{:height="20"} | N/A |
 |  | 𝐟 | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} | N/A |
+|  | @ | N/A | N/A |
+|  | ▶Simp | N/A | N/A |
+|  | @ | N/A | N/A |
+| ⁿ | @ | N/A | N/A |
 
 #### Kí tự lạ
 Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ.  
@@ -188,8 +275,8 @@ Các công thức nhập ở dưới đều là loại B.
 
 | Kí tự | Kí tự trên màn hình | Công thức nhập | Lưu ý |
 |--|--|--|--|
-| Kí tự trắng | Kí tự lỗi | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | Kí tự lỗi (trước ma trận): Hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này.<br>Kí tự trắng (sau ma trận): Không được cho là kí tự, chuỗi kí tự sẽ hơi bị lỗi khi sử dụng. |
-| ◀ |  (ô nhập/xuất) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, sau đó làm bước 10 nhưng đặt trỏ *trước* phần `nlbf`. Sau đó làm bước 11 như bình thường. |
+| Kí tự lỗi | Kí tự lỗi | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} | Trước ma trận, hình có thể thay đổi, chiều rộng gần bằng con trỏ, con trỏ hơi bị lỗi khi di chuyển qua kí tự này.<br>Trong ma trận kí tự này làm dãy chữ đằng sau nó hơi bị lỗi. |
+| ◀ |  (ô nhập/xuất) | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} | Để nhập ô nhập xuất an toàn, phải để nó ở cuối chuỗi kí tự, vì nếu bấm một kí tự trong ô trống sẽ xoá nó đi. |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![3]{:height="20"} |
 | Kí tự lạ | @ | ![SHIFT]{:height="20"} ![8]{:height="20"} ![1]{:height="20"} ![4]{:height="20"} |

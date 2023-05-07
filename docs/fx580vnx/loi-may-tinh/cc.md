@@ -42,7 +42,7 @@ Nếu bấm được luôn kí tự của CC (hiện tại chỉ có kí tự �
 ### Danh sách các CC
 Chú thích kí tự đặc biệt:
 - `Space`: Dấu cách
-- `Ins`: Kí tự tàng hình
+- `Ins`: Kí tự tàng hình (MathI)
 - `Lag`: Đơ máy (MathI)
 
 Lưu ý: Các CC sử dụng kí tự MathI đặc biệt luôn đơ máy nên sẽ không ghi vào danh sách này.
@@ -53,8 +53,6 @@ CC chuyển đổi đơn vị, như tên gọi, sử dụng các kí tự chuy�
 ##### Hình dạng
 CC chuyển đổi đơn vị sẽ là hai kí tự, kí tự thứ nhất sẽ luôn là `nlbf`. Kí tự thứ 2 là kí tự thật của CC. Có thể bỏ kí tự `nlbf` để biến CC thành kí tự bình thường.  
 Lưu ý là giả lập chính thức của Casio sẽ hiển thị kí tự thứ nhất là `▸N▸lbfkgf▸N▸`.
-
-(lưu ý: do mới copy từ trang [ma trận đánh chữ](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-danh-chu.html) nên chưa ghi các `Lag` CC)
 
 | CC | Kí tự | Cách bấm | Lưu ý |
 |--|--|--|--|
@@ -83,9 +81,9 @@ Lưu ý là giả lập chính thức của Casio sẽ hiển thị kí tự th�
 | @ | km/h▸m/s | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![1]{:height="20"} |
 | @ | m/s▸km/h | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![1]{:height="20"} ![2]{:height="20"} |
 |  (ô nhập/xuất) | atm▸Pa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![1]{:height="20"} |
-| @ | Pa▸atm | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
-| @ | mmHg▸Pa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
-| @ | Pa▸mmHg | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
+| @ (`Lag`) | Pa▸atm | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
+| @ (`Ins`) | mmHg▸Pa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
+| @ (`Ins`) | Pa▸mmHg | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
 | @ | kgf/cm²▸Pa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![5]{:height="20"} |
 | 𝒊 | Pa▸kgf/cm² | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"} | Thường dùng để nhập [kí tự `an`](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ki-tu-an.html)
 | : | lbf/in²▸kPa | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![7]{:height="20"} |
