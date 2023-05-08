@@ -266,6 +266,7 @@ Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí
 |  | 𝐟 | ![OPTN]{:height="20"} ![3]{:height="20"} ![5]{:height="20"} | N/A |
 |  | @ | N/A | N/A |
 |  | ▶Simp | N/A | N/A |
+| ↺ | @ | N/A | N/A |
 |  | @ | N/A | N/A |
 | ⁿ | @ | N/A | N/A |
 
