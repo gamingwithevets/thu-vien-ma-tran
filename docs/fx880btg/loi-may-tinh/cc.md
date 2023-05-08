@@ -1,5 +1,5 @@
 ---
-title: Character Converser
+title: Character Converter
 layout: default
 parent: Lỗi máy tính
 grand_parent: Casio fx-880BTG
