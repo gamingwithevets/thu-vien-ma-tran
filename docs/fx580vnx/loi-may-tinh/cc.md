@@ -1,14 +1,13 @@
 ---
-title: Character Converser
+title: Character Converter
 layout: default
 parent: Lỗi máy tính
 grand_parent: Casio fx-580VN X
 ---
 
-# Character Converser
-***Character Converser*** (viết tắt là CC) là một loại kí tự có thể nhập qua lỗi chuyển đổi đơn vị. Các CC có thể được đổi thành các [*Weird Symbol*](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ws.html) hoặc các AAWSF.  
+# Character Converter
+***Character Converter*** (viết tắt là CC) là một loại kí tự có thể nhập qua lỗi chuyển đổi đơn vị. Các CC có thể được đổi thành các [*Weird Symbol*](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/ws.html).  
 Các CC không thể làm được trên các máy fx-ES, fx-MS và các máy PLUS.
-
 
 ## Cách bấm
 fx-580VN X&nbsp; [fx-880BTG](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html#cách-bấm)

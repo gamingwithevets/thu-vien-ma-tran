@@ -5,12 +5,9 @@ parent: Lỗi máy tính
 grand_parent: Casio fx-880BTG
 ---
 
-# Character Converser
-***Character Converser*** (viết tắt là CC) là một loại kí tự có thể nhập qua lỗi chuyển đổi đơn vị. Các CC có thể được đổi thành các [*Weird Symbol*](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ws.html) hoặc các AAWSF.  
+# Character Converter
+***Character Converter*** (viết tắt là CC) là một loại kí tự có thể nhập qua lỗi chuyển đổi đơn vị. Các CC có thể được đổi thành các [*Weird Symbol*](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ws.html).  
 Các CC không thể làm được trên các máy fx-ES, fx-MS và các máy PLUS.
-
-## Hình dạng các CC
-Trên máy fx-880BTG, CC sẽ là một kí tự duy nhất, thường 2 kí tự với kí tự đầu tiên luôn là kí tự tàng hình. Kí tự thứ 2 là kí tự thật của CC. Có thể xóa kí tự tàng hình đi để biến CC thành kí tự bình thường.
 
 ## Cách bấm
 [fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/loi-may-tinh/cc.html#cách-bấm)&nbsp; fx-880BTG
@@ -23,6 +20,9 @@ Trên máy fx-880BTG, CC sẽ là một kí tự duy nhất, thường 2 kí t�
 6. Bấm ![←]{:height="20"}×2 ![⌫]{:height="20"} ![︽]{:height="20"} ![←]{:height="20"}.
 
 Bây giờ bấm CC tùy ý theo danh sách dưới.
+
+## Hình dạng các CC
+Trên máy fx-880BTG, CC sẽ là một kí tự duy nhất, thường 2 kí tự với kí tự đầu tiên luôn là kí tự tàng hình. Kí tự thứ 2 là kí tự thật của CC. Có thể xóa kí tự tàng hình đi để biến CC thành kí tự bình thường.
 
 ### Danh sách các CC
 Chú thích kí tự đặc biệt:
