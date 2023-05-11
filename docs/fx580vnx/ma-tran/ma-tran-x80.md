@@ -33,6 +33,7 @@ Dưới đây là một số loại của ma trận X80 được kích hoạt qu
 |--|--|--|--|--|--|
 | Chớp màn hình | `69` | `69` | `69` | Không |
 | Ma trận chết chóc | `=` | `(` hoặc `)` | `,` | Có | Phải bấm ![DEL]{:height="20"} và ![AC]{:height="20"} thật nhanh.
+| N/A | `9` | `9` | `9` | Có |
 
 [SHIFT]: /thu-vien-ma-tran/images/fx580vnx/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/fx580vnx/alpha.png
