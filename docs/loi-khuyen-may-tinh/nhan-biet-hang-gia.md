@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cách kiểm tra hàng lậu
+title: Cách kiểm tra hàng giả
 parent: Lời khuyên máy tính
 ---
 
