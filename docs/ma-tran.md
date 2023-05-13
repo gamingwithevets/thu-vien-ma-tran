@@ -12,10 +12,12 @@ Không phải mọi ma trận hoạt động với mọi loại máy tính khoa 
 Đây là một số máy tính khoa học của Casio có thể hoặc đã có ma trận. Máy nào không ghi nước bán thì tự hiểu là máy quốc tế.
 - ***S-V.P.A.M.***
 - - fx-500MS (+ 2nd edition) (Việt Nam)
-- - fx-570MS (+ 2nd edition)
+- - fx-570MS/991MS (+ 2nd edition)
+- ***Natural Display***
+- - fx-500ES/570ES/991ES
 - ***Natural V.P.A.M.***
-- - fx-570ES PLUS (+ 2nd edition)
-- - fx-570VN PLUS (+ 2nd edition) (Việt Nam)
+- - fx-570ES/991ES PLUS (+ 2nd edition)
+- - fx-500VN/570VN PLUS (+ 2nd edition) (Việt Nam)
 - ***ClassWiz***
 - - [**Thế hệ 1 (fx-EX)**](/thu-vien-ma-tran/docs/classwiz)
 - - - fx-570EX/991EX
@@ -25,11 +27,10 @@ Không phải mọi ma trận hoạt động với mọi loại máy tính khoa 
 - - [**Thế hệ 2 (fx-CW)**](/thu-vien-ma-tran/docs/classwiz2)
 - - - fx-570CW/991CW
 - - - fx-880BTG (Việt Nam)
-- - - fx-991CN CW/999CN CW 中文版 (Trung Quốc)
+- - - fx-991CN/999CN CW 中文版 (Trung Quốc)
 
-### Máy clone của công ty khác
-Đối với wiki này thì sẽ không tập trung vào máy clone.
-Hiện tại, chưa có máy clone nào có thể làm được ma trận.
+### Hàng nhái của công ty khác
+Có một số công ty nhái máy tính của Casio (nhưng không lấy tên Casio). Đối với wiki này thì sẽ không tập trung vào những hàng nhái này.
 
 ### Giả lập
 Một số loại máy tính khoa học của Casio có giả lập (emulator) mình có thể tải về trên [website của Casio](https://edu.casio.com/softwarelicense/index.php). Do các giả lập này hơi khác với máy thật nên chúng thường không làm ma trận được.  
