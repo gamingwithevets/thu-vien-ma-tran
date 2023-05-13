@@ -39,7 +39,7 @@ Ma trận này chỉ có thể **tháo pin máy lắp lại** để sửa, nên 
 2. Quay lại và **không di chuyển trỏ**, bấm ![log]{:height="20"} ![𝒙^]{:height="20"} ![DEL]{:height="20"}×5, màn hình sẽ tắt ngay lập tức và mình không sẽ bật nó lên lại được.
 
 ### Casio fx-880BTG
-Ma trận này có thể làm trên Casio fx-880BTG nhưng sẽ không khóa máy và kết quả sẽ hơi giống [Ma trận X80](/thu-vien-ma-tran/docs/fx880btg/ma-tran/ma-tran-x80.html).
+Ma trận này có thể làm trên Casio fx-880BTG nhưng sẽ không khóa máy và kết quả sẽ hơi giống [Ma trận X80](/thu-vien-ma-tran/docs/classwiz2/ma-tran/ma-tran-x80.html).
 
 [SHIFT]: /thu-vien-ma-tran/images/classwiz/shift.png
 [ALPHA]: /thu-vien-ma-tran/images/classwiz/alpha.png

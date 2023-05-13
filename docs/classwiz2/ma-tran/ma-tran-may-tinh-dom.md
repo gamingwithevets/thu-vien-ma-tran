@@ -11,7 +11,6 @@ grand_parent: Dòng máy ClassWiz (thế hệ 2)
 Ma trận máy tính \"dổm\" (hay còn gọi là ma trận tính toán sai) là ma trận mà máy tính sẽ tính ra kết quả sai.
 
 ## Hướng dẫn
-[fx-580VN X](/thu-vien-ma-tran/docs/fx580vnx/ma-tran/ma-tran-may-tinh-dom.html#hướng-dẫn)&nbsp; fx-880BTG
 
 ### Lưu ý
 - Khởi động lại máy hoặc đặt lại dữ liệu sẽ tắt ma trận.

@@ -6,7 +6,7 @@ grand_parent: Dòng máy ClassWiz
 ---
 
 # Weird Symbol
-***Weird Symbol*** là một loại kí tự có thể nhập qua các [CC](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/cc.html) được nhập qua lỗi chuyển đổi đơn vị.
+***Weird Symbol*** là một loại kí tự có thể nhập qua các [CC](/thu-vien-ma-tran/docs/classwiz/loi-may-tinh/cc.html) được nhập qua lỗi chuyển đổi đơn vị.
 
 ## Cách bấm
 1. [Lấy CC chuyển đổi đơn vị bất kì.](/thu-vien-ma-tran/docs/classwiz/loi-may-tinh/cc.html#cc-chuyển-đổi-đơn-vị) (nếu dùng chế độ MathI thì tránh các `Lag` CC)
@@ -16,7 +16,7 @@ grand_parent: Dòng máy ClassWiz
 
 | *Weird Symbol* | CC | Kí tự | Cách bấm |
 |--|--|--|--|
-| [an](/thu-vien-ma-tran/docs/fx880btg/loi-may-tinh/ki-tu-an.html) | 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"}
+| [an](/thu-vien-ma-tran/docs/classwiz/loi-may-tinh/ki-tu-an.html) | 𝒊 | Pa▸kgf/cm<sup>2</sup> | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![6]{:height="20"}
 
 [SHIFT]: /thu-vien-ma-tran/images/classwiz/shift.png
 [MENU]: /thu-vien-ma-tran/images/classwiz/menu.png

@@ -16,7 +16,7 @@ Ma trận menu lỗi, khi được kích hoạt và vào menu chọn chế độ
 ### Lưu ý
 Giống [ma trận đánh chữ](/thu-vien-ma-tran/docs/classwiz/ma-tran/ma-tran-danh-chu.html), ma trận có thể hơi phức tạp nếu đang làm lần đầu tiên.
 ### Các bước làm
-1. Bấm chữ `an` trong [chế độ phép tính thường](/thu-vien-ma-tran/docs/classwiz/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường) hoặc [chế độ số phức](/thu-vien-ma-tran/docs/classwiz/loi-may-tinh/ki-tu-an.html#chế-độ-số-phức-mathi) (MathI).
+1. [Bấm chữ `an` trong chế độ phép tính thường/số phức](/thu-vien-ma-tran/docs/classwiz/loi-may-tinh/ki-tu-an.html#cách-bấm) (MathI).
 2. Bấm để ra:  
 $$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\frac{123456789012345678901234}{\text{an}}}}}} $$  
 3. ![=]{:height="20"}
@@ -25,15 +25,16 @@ $$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{\frac{12
 - Mình có thể xem menu lỗi bất cứ khi nào mình muốn bằng cách bấm ![MENU]{:height="20"} cho đến khi bấm ![ON]{:height="20"} (máy đặt lại dữ liệu). Có thể chọn một chế độ lỗi, tuy nhiên một số chế độ có thể tắt máy (vẫn bật lên được
 
 ## Các bản khác
-Dưới đây là một số bản khác của ma trận menu lỗi. Làm theo hướng dẫn menu lỗi thường nhưng nhớ làm theo các thay đổi có ghi ở mỗi bản.
+Dưới đây là một số bản khác của ma trận menu lỗi. Làm theo hướng dẫn menu lỗi thường nhưng nhớ làm theo các thay đổi có ghi ở mỗi bản.  
+Có rất nhiều bản menu lỗi khác nhau có thể kích hoạt bằng nhiều công thức khác nhau với kí tự `an` 
 
 ## Bản nâng cấp
 Một bản nâng cấp của ma trận menu lỗi đã được tìm thấy và có nhiều chế độ lỗi hơn phiên bản thường. Tuy nhiên, bản này dễ bị đơ máy do máy hiển thị tên chế độ lỗi.
 ![Ma trận menu lỗi bản nâng cấp](/thu-vien-ma-tran/images/classwiz/thumb/ma-tran-menu-loi-1.png)
 
 Ở bước 2, bấm để ra:  
-$$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{[100{\text{an}]}} $$  
-(`[100an]`: bấm từ 1-9 và số 0 10 lần trước `an`)
+$$ \frac{\sqrt[88888888]{\sqrt[88888888]{\sqrt[88888888]{88888888^1}}}}{[100num]{\text{an}}} $$  
+(`[100num]`: 100 chữ số bất kì)
 
 ### 8 menu + lỗi tên menu
 Bản này chưa làm được trên giả lập.

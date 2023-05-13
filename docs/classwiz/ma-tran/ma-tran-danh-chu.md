@@ -26,7 +26,7 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 ### Các bước làm
 1. [Bấm kí tự `an` trong chế độ phép tính thường với chế độ nhập LineI.](/thu-vien-ma-tran/docs/classwiz/loi-may-tinh/ki-tu-an.html#chế-độ-phép-tính-thường)
 2. Bấm để ra: `𝒙=∑(𝒙,1,1)+an`.
-3. Đặt con trỏ trước `an` rồi bấm ![1]{:height="20"} ~ ![9]{:height="20"} và số ![0]{:height="20"} 10 lần. ![CALC]{:height="20"} với 𝒙=0.  Nếu máy bật lại thì bạn đã làm đúng.
+3. Đặt con trỏ trước `an` rồi bấm 100 chữ số bất kì. ![CALC]{:height="20"} với 𝒙=0.  Nếu máy bật lại thì bạn đã làm đúng.
 4. Bấm lại `𝒙=∑(𝒙,1,1`, ![CALC]{:height="20"} với 𝒙=0 và quay lại.
 5. Bấm: ![SHIFT]{:height="20"} ![.]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![4]{:height="20"} ![8]{:height="20"}. Rồi bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝒙⁻¹]{:height="20"} ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![(-)]{:height="20"} 2 lần, sau đó bấm ![SHIFT]{:height="20"} ![7]{:height="20"} ![3]{:height="20"} ![𝒙⁻¹]{:height="20"} một lần nữa.
 6. Bấm ![←]{:height="20"} ![×]{:height="20"} ![DEL]{:height="20"} 6 lần. Bấm ![DEL]{:height="20"} vài lần để hiện dãy `@`. Bây giờ xóa hết phần `=∑(𝒙,1,1` (không di chuyển trỏ, chỉ dùng ![DEL]{:height="20"} thôi nhé)
