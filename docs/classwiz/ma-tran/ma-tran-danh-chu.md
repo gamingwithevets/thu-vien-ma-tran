@@ -41,8 +41,8 @@ Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên m�
 ### Bảng kí tự
 Đây là danh sách các kí tự có thể nhập vào chuỗi kí tự của mình. Bảng này sẽ tiếp tục cập nhật trong tương lai nếu có thể bấm được thêm kí tự.  
 **LƯU Ý**: Sau khi nhập một kí tự thì bấm 1 trong 2 dãy nút dựa vào loại công thức nhập:
-- Đối với công thức nhập A (trừ dấu $): ![←]{:height="20"}×2 ![→]{:height="20"}
-- Đối với công thức nhập B (và công thức nhập A cho dấu $): ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
+- Đối với công thức nhập A: ![←]{:height="20"}×2 ![→]{:height="20"}
+- Đối với công thức nhập B: ![←]{:height="20"} ![9]{:height="20"} ![DEL]{:height="20"} ![←]{:height="20"} ![→]{:height="20"}
 
 Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí tự ở hàng đó hiện không bấm được.
 
@@ -58,7 +58,7 @@ Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí
 | ▼ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![1]{:height="20"} |
 | ▸ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![2]{:height="20"} |
 | ₋ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![3]{:height="20"} |
-| $ | @ | ![SHIFT]{:height="20"} ![.]{:height="20"} | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} |
+| $ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![4]{:height="20"} ![4]{:height="20"} hoặc ![SHIFT]{:height="20"} ![.]{:height="20"} |
 | & | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![2]{:height="20"} |
 | 𝑡 | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![3]{:height="20"} |
 | ᴛ | @ | N/A | ![SHIFT]{:height="20"} ![8]{:height="20"} ![↓]{:height="20"} ![2]{:height="20"} ![4]{:height="20"} |
@@ -199,7 +199,7 @@ Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí
 | ⁴ | @ | N/A | N/A |
 | ⁵ | = | ![ALPHA]{:height="20"} ![CALC]{:height="20"} | N/A |
 | ⁶ | + | ![+]{:height="20"} | N/A |
-| ⁷ | − | ![−]{:height="20"} | N/A |
+| ⁷ | - | ![−]{:height="20"} | N/A |
 | ⁸ | × | ![×]{:height="20"} | N/A |
 | ⁹ | ÷ | ![÷]{:height="20"} | N/A |
 |  | ÷R | ![ALPHA]{:height="20"} ![⁄]{:height="20"} | N/A |

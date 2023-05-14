@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cách kiểm tra hàng lậu
+title: Cách kiểm tra hàng giả
 parent: Lời khuyên máy tính
 ---
 
@@ -81,14 +81,22 @@ Bấm SHIFT+7+ON, bấm 9 rồi liên tục bấm SHIFT để đến phần ki�
 
 | Phiên bản | SUM | Máy tính |
 |--|--|--|
-| GY450X VerE | 2368 | fx-82ES |
+| GY450X VerE | 6379 | fx-82ES PLUS |
 | GY454X VerE | 8929 | fx-570ES PLUS |
 | GY455X VerE | 8928 | fx-991ES PLUS |
-| LY710X VerA | | fx-570VN PLUS |
+| GY465X VerG | 7A03 | fx-83GT PLUS |
+| GY-458 VerB | 4C05 | fx-95SG PLUS |
+| LY708X VerA | 71F1 | fx-96SG PLUS |
+| LY710X VerA | D457 | fx-570VN PLUS |
+| LY711X VerA | 0A69 | fx-82AU PLUS II |
 | LY713X VerA | F854 | fx-82ES PLUS A |
+| LY726X VerA | 341B | fx-300ES PLUS |
+| CY-235 VerA | 3FB0 | fx-991EX |
 | CY-239 VerC | 04A8 | fx-991CN X 中文版 |
+| CY-297 VerE | | fx-97SG X |
 | CY-298 VerA | BB26 | fx-580VN X |
-| EY-023 | | fx-880BTG |
+| CY-860 VerA | 940B | fx-570VN PLUS 2nd edition |
+| EY-023 | 8113 | fx-880BTG |
 
 ## Định luật lỗi
 Các máy tính Casio thật sẽ luôn có lỗi và các ma trận. Vì vậy, cũng có thể kiểm tra hàng giả bằng cách thử làm ma trận hoặc lỗi máy tính.
