@@ -216,10 +216,10 @@ Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí
 | ɴ | @ | N/A | N/A |
 | ᴘ | @ | N/A | N/A |
 |  | @ | N/A | N/A |
-|  |  | N/A | N/A |
+|  |  | N/A | N/A |
 |  |  | N/A | N/A |
-|  | ₁ | N/A | N/A |
-|  | ₂ | N/A | N/A |
+|  | ₁ | N/A | N/A |
+|  | ₂ | N/A | N/A |
 |  | @ | N/A | N/A |
 |  | @ | N/A | N/A |
 |  | @ | N/A | N/A |
