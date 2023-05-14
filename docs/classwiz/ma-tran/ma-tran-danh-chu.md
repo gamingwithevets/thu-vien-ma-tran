@@ -10,7 +10,7 @@ grand_parent: Dòng máy ClassWiz
 
 Ma trận đánh chữ có thể hiển thị một chuỗi 17 kí tự trên màn hình.
 
-![Ma trận đánh chữ](/thu-vien-ma-tran/images/classwix/thumb/ma-tran-danh-chu.png)
+![Ma trận đánh chữ](/thu-vien-ma-tran/images/classwiz/thumb/ma-tran-danh-chu.png)
 
 ## Hướng dẫn
 
