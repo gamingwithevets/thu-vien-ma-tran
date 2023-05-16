@@ -11,8 +11,8 @@ Không phải mọi ma trận hoạt động với mọi loại máy tính khoa 
 ## Các loại máy tính khoa học có ma trận
 Đây là một số máy tính khoa học của Casio có thể hoặc đã có ma trận. Máy nào không ghi nước bán thì tự hiểu là máy quốc tế.
 - ***S-V.P.A.M.***
-- - fx-500MS (+ 2nd edition) (Việt Nam)
 - - fx-570MS/991MS (+ 2nd edition)
+- - fx-500MS (+ 2nd edition) (Việt Nam)
 - ***Natural Display***
 - - fx-500ES/570ES/991ES
 - ***Natural V.P.A.M.***
@@ -22,6 +22,7 @@ Không phải mọi ma trận hoạt động với mọi loại máy tính khoa 
 - - [**Thế hệ 1 (fx-EX)**](/thu-vien-ma-tran/docs/classwiz)
 - - - fx-570EX/991EX
 - - - [fx-580VN X](/thu-vien-ma-tran/docs/classwiz/cac-loai-may/fx580vnx.html) (Việt Nam)
+- - - fx-92+ Spéciale Collège (Pháp)
 - - - fx-991CN X 中文版 (Trung Quốc)
 - - - fx-JP700/JP900 (Nhật Bản)
 - - [**Thế hệ 2 (fx-CW)**](/thu-vien-ma-tran/docs/classwiz2)
@@ -40,6 +41,7 @@ Các model đính kèm (đều là Casio):
 - fx-82ES (ROM từ giả lập của Casio)
 - fx-82ES PLUS A (Trung Quốc)
 - fx-570ES PLUS
+- fx-92+ Spéciale Collège (Pháp) (ROM từ giả lập của Casio)
 - fx-580VN X (Việt Nam) + phiên bản ROM từ giả lập của Casio
 - fx-991CN X 中文版 (Trung Quốc) + phiên bản ROM từ giả lập của Casio
 
