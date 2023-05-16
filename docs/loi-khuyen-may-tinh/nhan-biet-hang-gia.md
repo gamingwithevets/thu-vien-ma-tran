@@ -82,9 +82,9 @@ Bấm SHIFT+7+ON, bấm 9 rồi liên tục bấm SHIFT để đến phần ki�
 | Phiên bản | SUM | Máy tính |
 |--|--|--|
 | (1) GY-450 VerA[^1]<br>(2) GY-450 VerB[^2]<br>(3) GY450X VerE[^3] | (1) 713C[^1]<br>(2) 0E3F[^2]<br>(3) 6379[^3] | fx-82ES PLUS |
-| GY-458 VerB | 4C05 | fx-95SG PLUS |
 | GY454X VerE | 8929 | fx-570ES PLUS |
-| GY455X VerE | 8928 | fx-991ES PLUS |
+| GY-458 VerB | 4C05 | fx-95SG PLUS |
+| (1) GY-455 VerA<br>(2) GY455X VerE | (1) CD04<br>(2) 8928 | fx-991ES PLUS |
 | GY465X VerG[^4] | 7A03[^4] | fx-83GT PLUS |
 | LY708X VerA[^5] | 71F1[^5] | fx-96SG PLUS |
 | LY710X VerA | D457 | fx-570VN PLUS |

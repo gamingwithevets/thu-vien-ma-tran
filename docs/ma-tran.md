@@ -38,7 +38,7 @@ Một số loại máy tính khoa học của Casio có giả lập (emulator) m
 Tuy nhiên, không phải chỉ có mỗi giả lập của Casio. Giả lập [này](https://github.com/user202729/CasioEmu) trên GitHub có thể làm được đa số ma trận.  
 [Bấm vào đây để tải EXE build sẵn (Windows 10+ 64-bit)](https://drive.google.com/file/d/11co4YDYDUsCghI-DrhpqYU0PDO7BL-uZ/view?usp=share_link) (phiên bản chỉnh sửa)  
 Các model đính kèm (đều là Casio):
-- fx-82ES (ROM từ giả lập của Casio)
+- fx-82ES PLUS (ROM từ giả lập của Casio)
 - fx-82ES PLUS A (Trung Quốc)
 - fx-570ES PLUS
 - fx-991ES PLUS (ROM từ giả lập của Casio)
