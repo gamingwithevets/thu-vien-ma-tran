@@ -41,6 +41,7 @@ Các model đính kèm (đều là Casio):
 - fx-82ES (ROM từ giả lập của Casio)
 - fx-82ES PLUS A (Trung Quốc)
 - fx-570ES PLUS
+- fx-991ES PLUS (ROM từ giả lập của Casio)
 - fx-92+ Spéciale Collège (Pháp) (ROM từ giả lập của Casio)
 - fx-580VN X (Việt Nam) + phiên bản ROM từ giả lập của Casio
 - fx-991CN X 中文版 (Trung Quốc) + phiên bản ROM từ giả lập của Casio
