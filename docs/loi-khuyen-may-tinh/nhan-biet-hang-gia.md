@@ -81,24 +81,37 @@ Bấm SHIFT+7+ON, bấm 9 rồi liên tục bấm SHIFT để đến phần ki�
 
 | Phiên bản | SUM | Máy tính |
 |--|--|--|
-| GY450X VerE | 6379 | fx-82ES PLUS |
+| (1) GY-450 VerA[^1]<br>(2) GY-450 VerB[^2]<br>(3) GY450X VerE[^3] | (1) 713C[^1]<br>(2) 0E3F[^2]<br>(3) 6379[^3] | fx-82ES PLUS |
+| GY-458 VerB | 4C05 | fx-95SG PLUS |
 | GY454X VerE | 8929 | fx-570ES PLUS |
 | GY455X VerE | 8928 | fx-991ES PLUS |
-| GY465X VerG | 7A03 | fx-83GT PLUS |
-| GY-458 VerB | 4C05 | fx-95SG PLUS |
-| LY708X VerA | 71F1 | fx-96SG PLUS |
+| GY465X VerG[^4] | 7A03[^4] | fx-83GT PLUS |
+| LY708X VerA[^5] | 71F1[^5] | fx-96SG PLUS |
 | LY710X VerA | D457 | fx-570VN PLUS |
 | LY711X VerA | 0A69 | fx-82AU PLUS II |
+| LY712X VerA[^6] | B7C6[^6] | fx-100AU PLUS |
 | LY713X VerA | F854 | fx-82ES PLUS A |
-| LY726X VerA | 341B | fx-300ES PLUS |
-| CY-235 VerA | 3FB0 | fx-991EX |
+| LY726X VerA[^7] | 341B[^7] | fx-300ES PLUS |
+| CY-860 VerA[^8] | 940B[^8] | fx-570VN PLUS 2nd edition |
+| (1) CY-235 VerA[^9]<br>(2) CY-235 VerF[^10] | (1) 3FB0[^9]<br>(2) 8F18[^10] | fx-991EX |
 | CY-239 VerC | 04A8 | fx-991CN X 中文版 |
-| CY-297 VerE | | fx-97SG X |
+| CY-297 VerE[^5] | 6F25[^5] | fx-97SG X |
 | CY-298 VerA | BB26 | fx-580VN X |
-| CY-860 VerA | 940B | fx-570VN PLUS 2nd edition |
-| EY-023 | 8113 | fx-880BTG |
+| EY-023 V.B | 8113 | fx-880BTG |
 
 ## Định luật lỗi
 Các máy tính Casio thật sẽ luôn có lỗi và các ma trận. Vì vậy, cũng có thể kiểm tra hàng giả bằng cách thử làm ma trận hoặc lỗi máy tính.
+
+## Tham khảo
+[^1]: [Casio FX-86DE PLUS Diagnostic Test and Reset - YouTube](https://www.youtube.com/watch?v=zor1lZxQwq8)
+[^2]: [Casio Calculator Secret Diagnostic Mode](https://www.youtube.com/watch?v=6RNGO65sRQU)
+[^3]: [Tricks for Your Calculator \| 2017 - YouTube](https://www.youtube.com/watch?v=3GfuVDtGhWo)
+[^4]: [How To Enter Diagnostic Mode \| Easter Egg On Casio Calculator fx-83GT \| Hidden Feature - YouTube](https://www.youtube.com/watch?v=vExQ3xbgp-g)
+[^5]: [Diagnostic Mode On Calculator! (Secret Function) - YouTube](https://www.youtube.com/watch?v=1kIR9iQjbR0)
+[^6]: [Calculator button check - YouTube](https://www.youtube.com/watch?v=Q_FapkoKnfk)
+[^7]: [5 Games That You Can Play On Your Calculator - YouTube](https://www.youtube.com/watch?v=wAtdV2gGVCQ)
+[^8]: [Cách xem đồng hồ trên máy tính casio 570 cực dễ - YouTube](https://www.youtube.com/watch?v=wFgD3irjTFs)
+[^9]: [Casio calculator fx-991EX hidden diagnostic test mode functions - YouTube](https://www.youtube.com/watch?v=a5d0L-oAHp4)
+[^10]: [How to Check Original Casio fx-991ex - HTE Bangladesh](https://www.htebd.com/how-to-check-original-casio-fx-991ex/)
 
 *[中文版]: Trung văn bản (Phiên bản Trung Quốc)
