@@ -100,8 +100,9 @@ Press AC
 | LY713X VerA | F854 | fx-82ES PLUS A |
 | LY723X VerA[^8] | 5D78[^8] | fx-86DE PLUS |
 | LY726X VerA[^9] | 341B[^9] | fx-300ES PLUS |
-| CY-860 VerA[^10] | 940B[^11] | fx-570VN PLUS 2nd edition |
-| (1) CY-235 VerA[^11]<br>(2) CY-235 VerF[^12] | (1) 3FB0[^11]<br>(2) 8F18[^12] | fx-991EX |
+| CY-845 VerA[^10] | 7064[^10] | fx-991ES PLUS 2nd edition |
+| CY-860 VerA[^11] | 940B[^11] | fx-570VN PLUS 2nd edition |
+| (1) CY-235 VerA[^12]<br>(2) CY-235 VerF[^13] | (1) 3FB0[^12]<br>(2) 8F18[^13] | fx-991EX |
 | CY-239 VerC | 04A8 | fx-991CN X 中文版 |
 | CY-297 VerE[^6] | 6F25[^6] | fx-97SG X |
 | CY-298 VerA | BB26 | fx-580VN X |
@@ -136,8 +137,9 @@ Các máy tính Casio thật sẽ luôn có lỗi và các ma trận. Vì vậy,
 [^7]: [Calculator button check - YouTube](https://www.youtube.com/watch?v=Q_FapkoKnfk)
 [^8]: [Post #144 - FX-82/-83GT/-115/-991ES PLUS Hacking - Universal Casio Forum](https://community.casiocalc.org/topic/7583-fx-82-83gt-115-991es-plus-hacking/page-4#entry60753)
 [^9]: [5 Games That You Can Play On Your Calculator - YouTube](https://www.youtube.com/watch?v=wAtdV2gGVCQ)
-[^10]: [Cách xem đồng hồ trên máy tính casio 570 cực dễ - YouTube](https://www.youtube.com/watch?v=wFgD3irjTFs)
-[^11]: [Casio calculator fx-991EX hidden diagnostic test mode functions - YouTube](https://www.youtube.com/watch?v=a5d0L-oAHp4)
-[^12]: [How to Check Original Casio fx-991ex - HTE Bangladesh](https://www.htebd.com/how-to-check-original-casio-fx-991ex/)
+[^10]: [Post #442 - FX-82/-83GT/-115/-991ES PLUS Hacking - Universal Casio Forum](https://community.casiocalc.org/topic/7583-fx-82-83gt-115-991es-plus-hacking/page-12#entry63525)
+[^11]: [Cách xem đồng hồ trên máy tính casio 570 cực dễ - YouTube](https://www.youtube.com/watch?v=wFgD3irjTFs)
+[^12]: [Casio calculator fx-991EX hidden diagnostic test mode functions - YouTube](https://www.youtube.com/watch?v=a5d0L-oAHp4)
+[^13]: [How to Check Original Casio fx-991ex - HTE Bangladesh](https://www.htebd.com/how-to-check-original-casio-fx-991ex/)
 
 *[中文版]: Trung văn bản (Phiên bản Trung Quốc)
