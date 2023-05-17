@@ -91,17 +91,19 @@ Press AC
 | GY454X VerE | 8929 | fx-570ES PLUS |
 | (1) GY-455 VerA<br>(2) GY455X VerE | (1) CD04<br>(2) 8928 | fx-991ES PLUS |
 | GY-458 VerB | 4C05 | fx-95SG PLUS |
-| GY465X VerG[^4] | 7A03[^4] | fx-83GT PLUS |
-| LY708X VerA[^5] | 71F1[^5] | fx-96SG PLUS |
+| GY460X VerF[^4] | D29B[^4] | fx-500VN PLUS |
+| GY465X VerG[^5] | 7A03[^5] | fx-83GT PLUS |
+| LY708X VerA[^6] | 71F1[^6] | fx-96SG PLUS |
 | LY710X VerA | D457 | fx-570VN PLUS |
 | LY711X VerA | 0A69 | fx-82AU PLUS II |
-| LY712X VerA[^6] | B7C6[^6] | fx-100AU PLUS |
+| LY712X VerA[^7] | B7C6[^7] | fx-100AU PLUS |
 | LY713X VerA | F854 | fx-82ES PLUS A |
-| LY726X VerA[^7] | 341B[^7] | fx-300ES PLUS |
-| CY-860 VerA[^8] | 940B[^8] | fx-570VN PLUS 2nd edition |
-| (1) CY-235 VerA[^9]<br>(2) CY-235 VerF[^10] | (1) 3FB0[^9]<br>(2) 8F18[^10] | fx-991EX |
+| LY723X VerA[^8] | 5D78[^8] | fx-86DE PLUS |
+| LY726X VerA[^9] | 341B[^9] | fx-300ES PLUS |
+| CY-860 VerA[^10] | 940B[^11] | fx-570VN PLUS 2nd edition |
+| (1) CY-235 VerA[^11]<br>(2) CY-235 VerF[^12] | (1) 3FB0[^11]<br>(2) 8F18[^12] | fx-991EX |
 | CY-239 VerC | 04A8 | fx-991CN X 中文版 |
-| CY-297 VerE[^5] | 6F25[^5] | fx-97SG X |
+| CY-297 VerE[^6] | 6F25[^6] | fx-97SG X |
 | CY-298 VerA | BB26 | fx-580VN X |
 
 ### Máy fx-CW
@@ -118,7 +120,7 @@ Press AC    | ĐÂY
 
 | Phiên bản | SUM | Máy tính |
 |--|--|--|
-| EY-005 V.A(?) | N/A | fx-991CW |
+| EY-005 V.A(?) | | fx-991CW |
 | EY-023 V.B | 8113 | fx-880BTG |
 
 ## Định luật lỗi
@@ -128,12 +130,14 @@ Các máy tính Casio thật sẽ luôn có lỗi và các ma trận. Vì vậy,
 [^1]: [Casio FX-86DE PLUS Diagnostic Test and Reset - YouTube](https://www.youtube.com/watch?v=zor1lZxQwq8)
 [^2]: [Casio Calculator Secret Diagnostic Mode](https://www.youtube.com/watch?v=6RNGO65sRQU)
 [^3]: [Tricks for Your Calculator \| 2017 - YouTube](https://www.youtube.com/watch?v=3GfuVDtGhWo)
-[^4]: [How To Enter Diagnostic Mode \| Easter Egg On Casio Calculator fx-83GT \| Hidden Feature - YouTube](https://www.youtube.com/watch?v=vExQ3xbgp-g)
-[^5]: [Diagnostic Mode On Calculator! (Secret Function) - YouTube](https://www.youtube.com/watch?v=1kIR9iQjbR0)
-[^6]: [Calculator button check - YouTube](https://www.youtube.com/watch?v=Q_FapkoKnfk)
-[^7]: [5 Games That You Can Play On Your Calculator - YouTube](https://www.youtube.com/watch?v=wAtdV2gGVCQ)
-[^8]: [Cách xem đồng hồ trên máy tính casio 570 cực dễ - YouTube](https://www.youtube.com/watch?v=wFgD3irjTFs)
-[^9]: [Casio calculator fx-991EX hidden diagnostic test mode functions - YouTube](https://www.youtube.com/watch?v=a5d0L-oAHp4)
-[^10]: [How to Check Original Casio fx-991ex - HTE Bangladesh](https://www.htebd.com/how-to-check-original-casio-fx-991ex/)
+[^4]: [Post #99 - FX-82/-83GT/-115/-991ES PLUS Hacking - Universal Casio Forum](https://community.casiocalc.org/topic/7583-fx-82-83gt-115-991es-plus-hacking/page-3#entry60672)
+[^5]: [How To Enter Diagnostic Mode \| Easter Egg On Casio Calculator fx-83GT \| Hidden Feature - YouTube](https://www.youtube.com/watch?v=vExQ3xbgp-g)
+[^6]: [Diagnostic Mode On Calculator! (Secret Function) - YouTube](https://www.youtube.com/watch?v=1kIR9iQjbR0)
+[^7]: [Calculator button check - YouTube](https://www.youtube.com/watch?v=Q_FapkoKnfk)
+[^8]: [Post #144 - FX-82/-83GT/-115/-991ES PLUS Hacking - Universal Casio Forum](https://community.casiocalc.org/topic/7583-fx-82-83gt-115-991es-plus-hacking/page-4#entry60753)
+[^9]: [5 Games That You Can Play On Your Calculator - YouTube](https://www.youtube.com/watch?v=wAtdV2gGVCQ)
+[^10]: [Cách xem đồng hồ trên máy tính casio 570 cực dễ - YouTube](https://www.youtube.com/watch?v=wFgD3irjTFs)
+[^11]: [Casio calculator fx-991EX hidden diagnostic test mode functions - YouTube](https://www.youtube.com/watch?v=a5d0L-oAHp4)
+[^12]: [How to Check Original Casio fx-991ex - HTE Bangladesh](https://www.htebd.com/how-to-check-original-casio-fx-991ex/)
 
 *[中文版]: Trung văn bản (Phiên bản Trung Quốc)
