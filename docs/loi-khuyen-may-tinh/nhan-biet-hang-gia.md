@@ -74,10 +74,16 @@ Bấm SHIFT+7+ON, rồi liên tục bấm SHIFT để đến phần kiểm tra p
 - Nếu là `ROM 013` thì rất có thể là hàng giả. Tuy nhiên có rất ít trường hợp `ROM 013` là hàng thật; nên sử dụng phương pháp \"giữ 4 nút, thả 1 nút\" để cho chắc ăn.
 - Nếu là `ROM 021` thì có thể cho là hàng thật.
 
-### Máy fx-ES PLUS trở lên
-Bấm SHIFT+7+ON, bấm 9 rồi liên tục bấm SHIFT để đến phần kiểm tra phiên bản. Màn hình sẽ ghi phiên bản phần mềm máy tính và `SUM` ở dưới.  
-Đối với máy fx-EX, bấm nút MENU để hiện ra `SUM`.
-Đây là một số phiên bản và `SUM` cho các máy tính:
+### Máy fx-ES PLUS và fx-EX
+Bấm SHIFT+7+ON, bấm 9 rồi liên tục bấm SHIFT để đến phần kiểm tra phiên bản. Màn hình sẽ hiện ra giống như thế này:
+```
+LY710X VerA
+SUM D457 OK
+Pd- Read OK
+Press AC
+```
+Đối với máy fx-EX, màn hình chỉ hiện phiên bản. Cần bấm nút MENU để hiện ra SUM.
+Đây là một số phiên bản và `SUM` cho các máy tính fx-ES PLUS và fx-EX. Phiên bản là dòng đầu tiên ở trên, SUM là dòng thứ hai.
 
 | Phiên bản | SUM | Máy tính |
 |--|--|--|
@@ -97,6 +103,22 @@ Bấm SHIFT+7+ON, bấm 9 rồi liên tục bấm SHIFT để đến phần ki�
 | CY-239 VerC | 04A8 | fx-991CN X 中文版 |
 | CY-297 VerE[^5] | 6F25[^5] | fx-97SG X |
 | CY-298 VerA | BB26 | fx-580VN X |
+
+### Máy fx-CW
+Bấm SHIFT+7+CATALOG+ON (giữ SHIFT, 7 và CATALOG rồi bấm ON), bấm 6 rồi bấm 2 để vào phần kiểm tra phiên bản. Màn hình sẽ hiện ra giống thế này:
+```
+EY-023      | MÃ
+V.B  Bt OK  | QR
+SUM8113 OK  | Ở
+Press AC    | ĐÂY
+```
+
+Đây là một số phiên bản và SUM cho các máy tính fx-CW. Phiên bản là dòng đầu tiên ở trên kèm theo phần `V.` (`Ver`) ở dòng thứ hai, SUM là dòng thứ ba.  
+*Lưu ý: chỗ nào ghi (?) là thông tin chưa rõ*
+
+| Phiên bản | SUM | Máy tính |
+|--|--|--|
+| EY-005 V.A(?) | N/A | fx-991CW |
 | EY-023 V.B | 8113 | fx-880BTG |
 
 ## Định luật lỗi
