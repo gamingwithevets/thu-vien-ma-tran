@@ -69,7 +69,13 @@ Chế độ DIAGNOSTIC thường có 3 phần:
 Phương pháp này không thể xác định tất cả các máy tính fx-MS giả.
 
 ### Máy fx-ES
-Bấm SHIFT+7+ON, rồi liên tục bấm SHIFT để đến phần kiểm tra phiên bản. Dòng trên của màn hình sẽ ghi `ROM XXX`.  
+Bấm SHIFT+7+ON, rồi liên tục bấm SHIFT để đến phần kiểm tra phiên bản. Màn hình sẽ hiện ra giống như thế này:
+```
+ROM 018
+MODE P0
+Press AC
+```
+Chú ý vào dòng đầu tiên (`ROM ___`)
 - Nếu là `ROM 018` thì có thể là hàng giả. Nhiều máy tính giả đã đổi sang `ROM 018`.
 - Nếu là `ROM 013` thì rất có thể là hàng giả. Tuy nhiên có rất ít trường hợp `ROM 013` là hàng thật; nên sử dụng phương pháp \"giữ 4 nút, thả 1 nút\" để cho chắc ăn.
 - Nếu là `ROM 021` thì có thể cho là hàng thật.
@@ -82,7 +88,14 @@ SUM D457 OK
 Pd- Read OK
 Press AC
 ```
-Đối với máy fx-EX, màn hình chỉ hiện phiên bản. Cần bấm nút MENU để hiện ra SUM.
+Đối với máy fx-EX, bấm 6 rồi bấm 2 để vào phần kiểm tra phiên bản. Màn hình sẽ hiện ra giống thế này:
+```
+CY-298 VerA
+SUM BB26 OK
+P00 Read OK
+Press AC
+```
+
 Đây là một số phiên bản và `SUM` cho các máy tính fx-ES PLUS và fx-EX. Phiên bản là dòng đầu tiên ở trên, SUM là dòng thứ hai.
 
 | Phiên bản | SUM | Máy tính |
@@ -100,28 +113,28 @@ Press AC
 | LY713X VerA | F854 | fx-82ES PLUS A |
 | LY723X VerA[^8] | 5D78[^8] | fx-86DE PLUS |
 | LY726X VerA[^9] | 341B[^9] | fx-300ES PLUS |
-| CY-845 VerA[^10] | 7064[^10] | fx-991ES PLUS 2nd edition |
-| CY-860 VerA[^11] | 940B[^11] | fx-570VN PLUS 2nd edition |
-| (1) CY-235 VerA[^12]<br>(2) CY-235 VerF[^13] | (1) 3FB0[^12]<br>(2) 8F18[^13] | fx-991EX |
+| (1) CY-235 VerA[^10]<br>(2) CY-235 VerF[^11] | (1) 3FB0[^10]<br>(2) 8F18[^11] | fx-991EX |
 | CY-239 VerC | 04A8 | fx-991CN X 中文版 |
+| CY-251 VerF[^12] | AD05[^12] | fx-991DE X |
 | CY-297 VerE[^6] | 6F25[^6] | fx-97SG X |
 | CY-298 VerA | BB26 | fx-580VN X |
+| CY-845 VerA[^13] | 7064[^13] | fx-991ES PLUS 2nd edition |
+| CY-860 VerA[^14] | 940B[^14] | fx-570VN PLUS 2nd edition |
 
 ### Máy fx-CW
 Bấm SHIFT+7+CATALOG+ON (giữ SHIFT, 7 và CATALOG rồi bấm ON), bấm 6 rồi bấm 2 để vào phần kiểm tra phiên bản. Màn hình sẽ hiện ra giống thế này:
 ```
-EY-023      | MÃ
-V.B  Bt OK  | QR
-SUM8113 OK  | Ở
-Press AC    | ĐÂY
+EY-023
+V.B  Bt OK
+SUM8113 OK
+Press AC
 ```
+Ở bên phải màn hình sẽ có mã QR, có thể quét nó để kiểm chứng.
 
-Đây là một số phiên bản và SUM cho các máy tính fx-CW. Phiên bản là dòng đầu tiên ở trên kèm theo phần `V.` (`Ver`) ở dòng thứ hai, SUM là dòng thứ ba.  
-*Lưu ý: chỗ nào ghi (?) là thông tin chưa rõ*
+Đây là một số phiên bản và SUM cho các máy tính fx-CW. Phiên bản là dòng đầu tiên ở trên kèm theo phần `V.` (`Ver`) ở dòng thứ hai, SUM là dòng thứ ba.
 
 | Phiên bản | SUM | Máy tính |
 |--|--|--|
-| EY-005 V.A(?) | | fx-991CW |
 | EY-023 V.B | 8113 | fx-880BTG |
 
 ## Định luật lỗi
@@ -137,9 +150,10 @@ Các máy tính Casio thật sẽ luôn có lỗi và các ma trận. Vì vậy,
 [^7]: [Calculator button check - YouTube](https://www.youtube.com/watch?v=Q_FapkoKnfk)
 [^8]: [Post #144 - FX-82/-83GT/-115/-991ES PLUS Hacking - Universal Casio Forum](https://community.casiocalc.org/topic/7583-fx-82-83gt-115-991es-plus-hacking/page-4#entry60753)
 [^9]: [5 Games That You Can Play On Your Calculator - YouTube](https://www.youtube.com/watch?v=wAtdV2gGVCQ)
-[^10]: [Post #442 - FX-82/-83GT/-115/-991ES PLUS Hacking - Universal Casio Forum](https://community.casiocalc.org/topic/7583-fx-82-83gt-115-991es-plus-hacking/page-12#entry63525)
-[^11]: [Cách xem đồng hồ trên máy tính casio 570 cực dễ - YouTube](https://www.youtube.com/watch?v=wFgD3irjTFs)
-[^12]: [Casio calculator fx-991EX hidden diagnostic test mode functions - YouTube](https://www.youtube.com/watch?v=a5d0L-oAHp4)
-[^13]: [How to Check Original Casio fx-991ex - HTE Bangladesh](https://www.htebd.com/how-to-check-original-casio-fx-991ex/)
+[^10]: [Casio calculator fx-991EX hidden diagnostic test mode functions - YouTube](https://www.youtube.com/watch?v=a5d0L-oAHp4)
+[^11]: [How to Check Original Casio fx-991ex - HTE Bangladesh](https://www.htebd.com/how-to-check-original-casio-fx-991ex/)
+[^12]: [Post #17 - Try To Hack Your Classwiz Models! - Universal Casio Forum](https://community.casiocalc.org/topic/7481-try-to-hack-your-classwiz-models/#entry64225)
+[^13]: [Post #442 - FX-82/-83GT/-115/-991ES PLUS Hacking - Universal Casio Forum](https://community.casiocalc.org/topic/7583-fx-82-83gt-115-991es-plus-hacking/page-12#entry63525)
+[^14]: [Cách xem đồng hồ trên máy tính casio 570 cực dễ - YouTube](https://www.youtube.com/watch?v=wFgD3irjTFs)
 
 *[中文版]: Trung văn bản (Phiên bản Trung Quốc)
