@@ -37,13 +37,6 @@ Có một số công ty nhái máy tính của Casio (nhưng không lấy tên C
 Một số loại máy tính khoa học của Casio có giả lập (emulator) mình có thể tải về trên [website của Casio](https://edu.casio.com/softwarelicense/index.php). Do các giả lập này hơi khác với máy thật nên chúng thường không làm ma trận được.  
 Tuy nhiên, không phải chỉ có mỗi giả lập của Casio. Giả lập [này](https://github.com/user202729/CasioEmu) trên GitHub có thể làm được đa số ma trận.  
 [Bấm vào đây để tải EXE build sẵn (Windows 10+ 64-bit)](https://drive.google.com/file/d/11co4YDYDUsCghI-DrhpqYU0PDO7BL-uZ/view?usp=share_link) (phiên bản chỉnh sửa)  
-Các model đính kèm (đều là Casio):
-- fx-82ES PLUS (ROM từ giả lập của Casio)
-- fx-82ES PLUS A (Trung Quốc)
-- fx-570ES PLUS
-- fx-991ES PLUS (ROM từ giả lập của Casio)
-- fx-92+ Spéciale Collège (Pháp) (ROM từ giả lập của Casio)
-- fx-580VN X (Việt Nam) + phiên bản ROM từ giả lập của Casio
-- fx-991CN X 中文版 (Trung Quốc) + phiên bản ROM từ giả lập của Casio
+HDSD và các model đính kèm: xem tệp README.
 
 *[中文版]: Trung văn bản (Phiên bản Trung Quốc)
