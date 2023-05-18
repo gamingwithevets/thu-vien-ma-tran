@@ -37,8 +37,10 @@ Tuy nhiên, cách này có những hạn chế của nó:
 Phương pháp này **rất chính xác**.
 0. Vào chế độ phép tính thường. Đảm bảo rằng không có kí tự gì được hiển thị trên màn hình.
 1. Giữ nút 1. Màn hình sẽ hiện `1`.
-2. Vẫn giữ nút 1, giữ thêm nút 0, - (trừ), =/EXE.
-3. Thả nút 1 ra. Nếu màn hình hiện `cos(` thì máy đó **chắc chắn** phải là thật.
+2. Vẫn giữ nút 1, giữ thêm nút 0, nút trừ và nút = (EXE).
+3. Thả nút 1 ra. Nếu màn hình hiện ra thêm kí tự `cos(` sau số 1 thì máy đó **chắc chắn** phải là thật.
+
+Trên các máy fx-CW, khi thả nút 1 ra thì sẽ hiện ra `²` thay vì `cos(`.
 
 ## Phương pháp độ chính xác
 0. Vào chế độ phép tính thường. Đảm bảo rằng đơn vị góc được chỉnh là độ (Degrees/Deg) và ở phía trên màn hình có hiển thị chữ D.

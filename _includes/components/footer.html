@@ -14,7 +14,7 @@
       <div class="d-flex mt-2">
         {% if site.last_edit_timestamp and site.last_edit_time_format %}
           <p class="text-small text-grey-dk-000 mb-0 mr-2">
-			<span class="d-inline-block">Thời gian cập nhật lần cuối: {% last_modified_date %}<br>
+			<span class="d-inline-block">Thời gian cập nhật lần cuối: {{ page.last_modified_date | date: site.last_edit_time_format }}<br>
 			Phiên bản {{ page.last_modified_at | date: "%Y%m%d.%H%M%S%z" }}</span>
           </p>
         {% endif %}
