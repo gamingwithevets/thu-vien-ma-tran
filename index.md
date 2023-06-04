@@ -1,10 +1,12 @@
 ---
-title: Trang chủ
+title: TVMT đã ngưng hoạt động
 layout: home
 nav_exclude: true
 search_exclude: true
 ---
 
-Chào mừng bạn đến với **Thư Viện Ma Trận**, nơi mà bạn có thể tìm kiếm ma trận cho các máy tính cầm tay Casio.
+Kể từ ngày **05/06/2023**, trang web Thư Viện Ma Trận sẽ không còn cập nhật thêm trang nữa.
 
-**LƯU Ý: Chủ của wiki này không chịu trách nhiệm về bất cứ thiệt hại nào gây ra.**
+Vì không tìm thêm được công thức và tập trung vào các dự án khác, Thư Viện Ma Trận đã không được cập nhật thêm gì mới. Vì vậy, **chủ trang web đã quyết định ngừng hoạt động Thư Viện Ma Trận**.
+
+Tuy nhiên, đây không phải là kết thúc của việc hack máy tính Casio! Hãy cùng tiếp tục hack và tìm hiểu thêm về những máy này!
