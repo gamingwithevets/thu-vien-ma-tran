@@ -1,12 +1,27 @@
 ---
-title: TVMT đã ngưng hoạt động
+title: Thông báo quan trọng
 layout: home
 nav_exclude: true
 search_exclude: true
 ---
 
-Kể từ ngày **05/06/2023**, trang web Thư Viện Ma Trận sẽ không còn cập nhật thêm trang nữa.
+Lưu ý: Thư Viện Ma Trận đang thử nghiệm với nhiều phông cùng một lúc.
 
-Vì không tìm thêm được công thức và tập trung vào các dự án khác, Thư Viện Ma Trận đã không được cập nhật thêm gì mới. Vì vậy, **chủ trang web đã quyết định ngừng hoạt động Thư Viện Ma Trận**.
+Thư Viện Ma Trận đã được tạo vào ngày **31/01/2024** và đã đóng cửa vào ngày **05/06/2024**... cho đến ngày hôm nay (**22/03/2024**), tôi đã quyết định mở lại Thư Viện Ma Trận để thông báo về **Phan Tất Dũng**.
 
-Tuy nhiên, đây không phải là kết thúc của việc hack máy tính Casio! Hãy cùng tiếp tục hack và tìm hiểu thêm về những máy này!
+Phan Tất Dũng (gọi tắt là PTD) là một người ăn cắp và sử dụng trend hack máy tính Casio để kiếm tiền.
+
+Đây là những gì PTD đang bán hiện tại (**VUI LÒNG ĐỪNG MUA**):
+- [File gõ chữ tiếng Anh và tiếng Việt (kể cả phông chữ lớn và nhỏ) + "1 số lỗi thú vị" trên fx-580VN X](https://github.com/901D3/901D3.github.io/tree/branchcuahuy/ptd-leaks)
+- "VnX+" Bot trợ giúp gõ chữ
+- Các thứ khác (chợ đen): Discord Nitro, Discord server 14 boosts, YouTube Premium, Spotify Premium, Netflix Premium, Canva Pro, key Minecraft, Robux, ChatGPT, follower
+
+Đây là bằng chứng lừa đảo:
+- PTD đã lấy thông tin từ các nguồn như [các video của MeowIce](https://youtube.com/@meowice64), [Baidu Tieba](https://tieba.baidu.com/f?kw=fx-es(ms)) và **chính website này** để tạo file (mà không hề ghi nguồn, tự cho là của mình hết)
+- [Giả lập của PTD](https://e.ptdung.site) ăn cắp của [e.20142022.xyz](https://e.20142022.xyz)
+- [Trang web "Thư Viện Ma Trận" của PTD](https://tvmt.ptdung.site) **hoàn toàn được sao chép từ trang web này**, chỉ bỏ trang như credits và thông tin bản quyền (về credit thì PTD tự nhận là mình tạo hết)
+- PTD còn dùng phông ClassWiz X Display Unofficial (mod ClassWiz X Display 1.003 của tôi tạo), tôi không còn cho ai dùng phông này nữa.
+
+**Xin tránh xa PTD dưới mọi hình thức!**
+
+\- Steveyboi

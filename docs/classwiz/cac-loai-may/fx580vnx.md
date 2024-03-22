@@ -19,10 +19,10 @@ Máy fx-580VN X được tạo dựa trên phiên bản quốc tế của dòng 
 Ngược lại, một số tính năng mới được thêm vào máy fx-580VN X, gồm:
 - Giao diện tiếng Việt
 - Biến PreAns (giá trị trước của Ans)
-- Biến 𝒛
+- Biến <span class="cwxd">𝒛</span>
 - Cực trị hàm số
 - Hàm ước chung lớn nhất (GCD) và bội chung nhỏ nhất (LCM)
-- Hàm tích (∏)
+- Hàm tích (<span class="cwxd">∏</span>)
 - Tính số dư trong phép chia (÷R)
 - Các hàm phần nguyên (Int, Intg)
 - Số thập phân vô hạn tuần hoàn
