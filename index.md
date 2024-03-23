@@ -7,7 +7,7 @@ search_exclude: true
 
 Lưu ý: Thư Viện Ma Trận đang thử nghiệm với nhiều phông cùng một lúc.
 
-Thư Viện Ma Trận đã được tạo vào ngày **31/01/2024** và đã đóng cửa vào ngày **05/06/2024**... cho đến ngày hôm nay (**22/03/2024**), tôi đã quyết định mở lại Thư Viện Ma Trận để thông báo về **Phan Tất Dũng**.
+Thư Viện Ma Trận đã được tạo vào ngày **31/01/2023** và đã đóng cửa vào ngày **05/06/2023**... cho đến ngày hôm nay (**22/03/2024**), tôi đã quyết định mở lại Thư Viện Ma Trận để thông báo về **Phan Tất Dũng**.
 
 Phan Tất Dũng (gọi tắt là PTD) là một người ăn cắp và sử dụng trend hack máy tính Casio để kiếm tiền.
 
