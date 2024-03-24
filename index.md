@@ -14,7 +14,7 @@ Phan Tất Dũng (gọi tắt là PTD) là một người ăn cắp và sử d�
 Đây là những gì PTD đang bán hiện tại (**VUI LÒNG ĐỪNG MUA**):
 - [File gõ chữ tiếng Anh và tiếng Việt (kể cả phông chữ lớn và nhỏ) + "1 số lỗi thú vị" trên fx-580VN X](https://github.com/901D3/901D3.github.io/tree/branchcuahuy/ptd-leaks)
 - "VnX+" Bot trợ giúp gõ chữ
-- Các thứ khác (chợ đen): Discord Nitro, Discord server 14 boosts, YouTube Premium, Spotify Premium, Netflix Premium, Canva Pro, key Minecraft, Robux, ChatGPT, follower
+- Các thứ khác (chợ đen, có cả bảo hành): Discord Nitro, Discord server 14 boosts, YouTube Premium, Spotify Premium, Netflix Premium, Canva Pro, key Minecraft và Minecraft Dungeons, Robux, ChatGPT, follower, Locket Gold
 
 Đây là bằng chứng lừa đảo:
 - PTD đã lấy thông tin từ các nguồn như [các video của MeowIce](https://youtube.com/@meowice64), [Baidu Tieba](https://tieba.baidu.com/f?kw=fx-es(ms)) và **chính website này** để tạo file (mà không hề ghi nguồn, tự cho là của mình hết)

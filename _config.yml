@@ -17,6 +17,12 @@ aux_links:
 
 footer_content: "(c) <a href=\"/\">gamingwithevets.github.io</a>"
 
+gh_edit_link: true
+gh_edit_link_text: "Xem bản gốc/chỉnh sửa trang này trên GitHub"
+gh_edit_repository: "https://github.com/gamingwithevets/thu-vien-ma-tran"
+gh_edit_branch: "main"
+gh_edit_view_mode: "blob"
+
 nav_sort: case_insensitive
 
 last_edit_time_format: "%d/%m/%Y %H:%M:%S (UTC%z)"
