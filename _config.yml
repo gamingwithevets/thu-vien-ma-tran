@@ -28,5 +28,11 @@ nav_sort: case_insensitive
 last_edit_time_format: "%d/%m/%Y %H:%M:%S (UTC%z)"
 timezone: Asia/Bangkok
 
+nav_external_links:
+  - title: [English] Casio Calculator Hacking on Discord
+    url: http://discord.gg/QjGpH6rSQQ
+  - title: Thư Viện Ma Trận trên Zalo
+    url: https://zalo.me/g/bgljzf836
+
 plugins:
   - jekyll-last-modified-at
