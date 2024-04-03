@@ -21,6 +21,7 @@ Phan Tất Dũng (gọi tắt là PTD) là một người ăn cắp và sử d�
 - [Giả lập của PTD](https://e.ptdung.site) ăn cắp của [e.20142022.xyz](https://e.20142022.xyz)
 - [Trang web "Thư Viện Ma Trận" của PTD](https://tvmt.ptdung.site) **hoàn toàn được sao chép từ trang web này**, chỉ bỏ trang như credits và thông tin bản quyền (về credit thì PTD tự nhận là mình tạo hết)
 - PTD còn dùng phông ClassWiz X Display Unofficial (mod ClassWiz X Display 1.003 của tôi tạo), tôi không còn cho ai dùng phông này nữa.
+- Giả lập "xịn" mới nhất của PTD cũng được ăn cắp từ [GitHub](https://github.com/qiufuyu123/CasioEmuNeo)
 
 **Xin tránh xa PTD dưới mọi hình thức!**
 
