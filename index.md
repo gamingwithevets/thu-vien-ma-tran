@@ -12,7 +12,7 @@ Thư Viện Ma Trận đã được tạo vào ngày **31/01/2023** và đã đ�
 Phan Tất Dũng (gọi tắt là PTD) là một người ăn cắp và sử dụng trend hack máy tính Casio để kiếm tiền.
 
 Đây là những gì PTD đang bán hiện tại (**VUI LÒNG ĐỪNG MUA**):
-- File gõ chữ tiếng Anh và tiếng Việt (kể cả phông chữ lớn và nhỏ) + "1 số lỗi thú vị" + vẽ trên fx-580VN X (có trong máy chủ Casio Calculator Spelling)
+- File gõ chữ tiếng Anh và tiếng Việt (kể cả phông chữ lớn và nhỏ) + "1 số lỗi thú vị" + vẽ trên fx-580VN X (có trong máy chủ Casio Calculator Spelling) + gõ chữ trên fx-880BTG
 - "VnX+" Bot trợ giúp gõ chữ
 - Các thứ khác (chợ đen, có cả bảo hành): Discord Nitro, Discord server 14 boosts, YouTube Premium, Spotify Premium, Netflix Premium, Canva Pro, key Minecraft và Minecraft Dungeons, Robux, ChatGPT, follower, Locket Gold
 
