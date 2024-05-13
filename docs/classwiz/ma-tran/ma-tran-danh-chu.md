@@ -48,7 +48,7 @@ Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí
 
 *(các kí tự được săp xếp theo thứ tự xuất hiện trong bộ nhớ chỉ đọc của máy)*
 
-| <span class="cwxd">Kí tự</span> | <span class="cwxd">Kí tự trên màn hình</span> | Công thức nhập A | Công thức nhập B |
+| Kí tự | Kí tự trên màn hình | Công thức nhập A | Công thức nhập B |
 |--|--|--|--|
 | <span class="cwxd">𝒙</span> | <span class="cwxd">@</span> | N/A | <span class="k_ex">q834</span> |
 | <span class="cwxd">𝒚</span> | <span class="cwxd">@</span> | N/A | <span class="k_ex">q81x</span> |
@@ -274,7 +274,7 @@ Nếu ở hàng nào mà công thức nhập A và B đều ghi \"N/A\" thì kí
 Một số các kí tự chuyển đổi đơn vị sẽ ra kí tự lỗi hoặc có hình dạng lạ.  
 Các công thức nhập ở dưới đều là loại B.
 
-| <span class="cwxd">Kí tự</span> | <span class="cwxd">Kí tự trên màn hình</span> | Công thức nhập | Lưu ý |
+| Kí tự | Kí tự trên màn hình | Công thức nhập | Lưu ý |
 |--|--|--|--|
 | Kí tự lỗi | Kí tự lỗi | <span class="k_ex">q811</span> | Khi gõ, có độ dài $ \frac{1}{3} $ dấu cách. |
 | <span class="cwxd">◁</span> | <span class="cwxd"></span> (ô nhập/xuất) | <span class="k_ex">q8R21</span> |
