@@ -28,7 +28,7 @@ Bây giờ bấm CC tùy ý theo danh sách dưới.
 
 ### Chế độ phép tính thường cách 2/số phức (MathI)
 1. Bấm <span class="cwxd">1÷1((</span> rồi bấm <span class="k_ex">s</span> đến khi hết bấm được. Bấm <span class="cwxd">1</span> vào ô trống. Di chuyển trỏ sau dãy căn, bấm dấu <span class="cwxd">:</span>. Bấm <span class="k_ex">s</span> lần nữa, **không điền gì vào ô trống**! Bấm <span class="k_ex">r=</span>, sẽ ra lỗi.
-2. Quay lại vào hết mọi thứ đứng trước ô trống (không di chuyển trỏ). Bấm <span class="k_ex">$o!$</span>.
+2. Quay lại vào hết mọi thứ đứng trước ô trống (không di chuyển trỏ). Bấm <span class="k_ex">\$o!$</span>.
 3. Bấm 2 chữ số bất kỳ rồi <span class="k_ex">q.</span>, bấm thêm 2 chữ số bất kỳ nữa rồi bấm <span class="k_ex">s</span>
 4. <span class="k_ex">o!!!ooo!!</span>
 5. Bấm kí tự để ra CC, rồi trong ô trống bấm kí tự bất kì rồi xoá đi.  
@@ -58,7 +58,7 @@ Có thể bỏ kí tự đầu tiên để biến CC thành kí tự bình thư�
 
 | <span class="cwxd">CC</span> | Kí tự | Cách bấm | Lưu ý |
 |--|--|--|--|
-| Space | in▸cm | q811 |
+| Space | <span class="cwxd">in▸cm</span> | <span class="k_ex">q811</span> |
 | <span class="cwxd">@</span> | <span class="cwxd">cm▸in</span> | <span class="k_ex">q812</span> |
 | <span class="cwxd">@</span> | <span class="cwxd">ft▸m</span> | <span class="k_ex">q813</span> |
 | <span class="cwxd">@</span> | <span class="cwxd">m▸ft</span> | <span class="k_ex">q814</span> |
