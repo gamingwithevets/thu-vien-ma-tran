@@ -23,20 +23,18 @@ Không phải mọi ma trận hoạt động với mọi loại máy tính khoa 
 - - - fx-570EX/991EX
 - - - [fx-580VN X](/thu-vien-ma-tran/docs/classwiz/cac-loai-may/fx580vnx.html) (Việt Nam)
 - - - fx-92+ Spéciale Collège (Pháp)
-- - - fx-991CN X 中文版 (Trung Quốc)
+- - - fx-991CN X (Trung Quốc)
 - - - fx-JP700/JP900 (Nhật Bản)
 - - [**Thế hệ 2 (fx-CW)**](/thu-vien-ma-tran/docs/classwiz2)
 - - - fx-570CW/991CW
 - - - fx-880BTG (Việt Nam)
-- - - fx-991CN/999CN CW 中文版 (Trung Quốc)
+- - - fx-991CN/999CN CW (Trung Quốc)
+
+(Lưu ý: Đây không phải là danh sách đầy đủ. Còn có các máy của các vùng khác không có ở trong danh sách này.)
 
 ### Hàng nhái của công ty khác
 Có một số công ty nhái máy tính của Casio (nhưng không lấy tên Casio). Đối với wiki này thì sẽ không tập trung vào những hàng nhái này.
 
 ### Giả lập
 Một số loại máy tính khoa học của Casio có giả lập (emulator) mình có thể tải về trên [website của Casio](https://edu.casio.com/softwarelicense/index.php). Do các giả lập này hơi khác với máy thật nên chúng thường không làm ma trận được.  
-Tuy nhiên, không phải chỉ có mỗi giả lập của Casio. Giả lập [này](https://github.com/user202729/CasioEmu) trên GitHub có thể làm được đa số ma trận.  
-[Bấm vào đây để tải EXE build sẵn (Windows 10+ 64-bit)](https://drive.google.com/file/d/11co4YDYDUsCghI-DrhpqYU0PDO7BL-uZ/view?usp=share_link) (phiên bản chỉnh sửa)  
-HDSD và các model đính kèm: xem tệp README.
-
-*[中文版]: Trung văn bản (Phiên bản Trung Quốc)
+Tuy nhiên, không phải chỉ có mỗi giả lập của Casio. Có các giả lập trên GitHub có thể làm được ma trận. (link đã được bỏ để tránh vi phạm bản quyền) 
