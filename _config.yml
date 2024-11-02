@@ -1,5 +1,10 @@
+plugins:
+  - jekyll-last-modified-at
+  - jekyll-remote-theme
+
+remote_theme: just-the-docs/just-the-docs
+
 title: Thư Viện Ma Trận
-theme: just-the-docs
 color_scheme: dark
 
 markdown: kramdown
@@ -31,6 +36,3 @@ timezone: Asia/Bangkok
 nav_external_links:
   - title: (English) Casio Calculator Hacking on Discord
     url: http://discord.gg/QjGpH6rSQQ
-
-plugins:
-  - jekyll-last-modified-at
